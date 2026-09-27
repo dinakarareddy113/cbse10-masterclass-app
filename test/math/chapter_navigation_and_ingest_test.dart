@@ -1,8 +1,8 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:cbse10masterclass/core/constants/cbse_curriculum.dart';
-import 'package:cbse10masterclass/models/chapter.dart';
-import 'package:cbse10masterclass/models/question.dart';
-import 'package:cbse10masterclass/services/question_repository.dart';
+import 'package:cbse_class10_masterclass/core/constants/cbse_curriculum.dart';
+import 'package:cbse_class10_masterclass/models/chapter.dart';
+import 'package:cbse_class10_masterclass/models/question.dart';
+import 'package:cbse_class10_masterclass/services/question_repository.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();

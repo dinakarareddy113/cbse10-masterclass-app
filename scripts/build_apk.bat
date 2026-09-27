@@ -14,6 +14,8 @@ if exist "C:\tools\flutter\bin" (
 if exist "C:\Program Files\Android\Android Studio\jbr\bin" (
     set "JAVA_HOME=C:\Program Files\Android\Android Studio\jbr"
     set "PATH=C:\Program Files\Android\Android Studio\jbr\bin;%PATH%"
+    set "_JAVA_OPTIONS=-Djava.net.preferIPv4Stack=true"
+    set "GRADLE_OPTS=-Djava.net.preferIPv4Stack=true"
 )
 
 :: 3. Auto-configure Android SDK

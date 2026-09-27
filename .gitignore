@@ -1,0 +1,22 @@
+# Flutter / Dart / Android gitignore
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# Android build artifacts & local properties
+android/.gradle/
+android/local.properties
+android/app/build/
+android/.idea/
+*.keystore
+
+# Flutter generated
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+.idea/
+.vscode/
+*.iml
