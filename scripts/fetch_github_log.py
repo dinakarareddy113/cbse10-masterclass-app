@@ -13,7 +13,30 @@ def get_token():
     return ""
 
 token = get_token()
-job_id = "108683685484"
+
+# Get latest run and job id
+runs_url = "https://api.github.com/repos/dinakarareddy113/cbse10-masterclass-app/actions/runs"
+req_runs = urllib.request.Request(runs_url, headers={
+    "Authorization": f"token {token}",
+    "User-Agent": "Antigravity-Agent",
+    "Accept": "application/vnd.github.v3+json"
+})
+with urllib.request.urlopen(req_runs, timeout=10) as rresp:
+    rdata = json.load(rresp)
+    latest_run = rdata["workflow_runs"][0]
+    jobs_url = latest_run["jobs_url"]
+
+req_jobs = urllib.request.Request(jobs_url, headers={
+    "Authorization": f"token {token}",
+    "User-Agent": "Antigravity-Agent",
+    "Accept": "application/vnd.github.v3+json"
+})
+with urllib.request.urlopen(req_jobs, timeout=10) as jresp:
+    jdata = json.load(jresp)
+    job = jdata["jobs"][0]
+    job_id = job["id"]
+    print(f"Fetching log for Job ID: {job_id} ({job['name']})...")
+
 log_url = f"https://api.github.com/repos/dinakarareddy113/cbse10-masterclass-app/actions/jobs/{job_id}/logs"
 
 class NoAuthRedirectHandler(urllib.request.HTTPRedirectHandler):
