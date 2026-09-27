@@ -1,0 +1,110 @@
+[
+  {
+    "id": "parsed-math_ch_02_polynomials-c4bbd668",
+    "subject": "math",
+    "chapter_id": "math_ch_02_polynomials",
+    "exercise": "Exercise 2.1",
+    "question_number": "1(i)",
+    "question_text": "The graph of y = p(x) is given in the figure. Find the number of zeroes of p(x) in this case:\n(i) A horizontal straight line above the x-axis.",
+    "options": [
+      {
+        "id": "A",
+        "text": "0 (No zeroes, graph does not intersect x-axis)",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "1 zero",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "2 zeroes",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "Infinitely many",
+        "is_correct": false
+      }
+    ],
+    "step_by_step_solution": "Step 1: The number of zeroes of polynomial p(x) is equal to the number of points where the graph y = p(x) intersects the x-axis.\nStep 2: Here, the line is parallel to the x-axis and never cuts or intersects it.\nStep 3: Hence, the number of zeroes is 0.",
+    "difficulty_level": "easy",
+    "status": "approved",
+    "submitted_by": "00000000-0000-0000-0000-000000000001",
+    "reviewed_by": "00000000-0000-0000-0000-000000000001",
+    "created_at": "2026-09-25T04:54:36.116274Z"
+  },
+  {
+    "id": "parsed-math_ch_02_polynomials-0821c9ef",
+    "subject": "math",
+    "chapter_id": "math_ch_02_polynomials",
+    "exercise": "Exercise 2.1",
+    "question_number": "1(ii)",
+    "question_text": "Find the number of zeroes of p(x) where the curve intersects the y-axis once and the x-axis once.",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 zero",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "2 zeroes",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "3 zeroes",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "0 zeroes",
+        "is_correct": false
+      }
+    ],
+    "step_by_step_solution": "Step 1: Count intersections with x-axis: The curve intersects the x-axis at exactly 1 point.\nStep 2: Note that intersection with the y-axis does not contribute to zeroes of p(x).\nStep 3: Therefore, the number of zeroes is 1.",
+    "difficulty_level": "easy",
+    "status": "approved",
+    "submitted_by": "00000000-0000-0000-0000-000000000001",
+    "reviewed_by": "00000000-0000-0000-0000-000000000001",
+    "created_at": "2026-09-25T04:54:36.116465Z"
+  },
+  {
+    "id": "parsed-math_ch_02_polynomials-f8ab2317",
+    "subject": "math",
+    "chapter_id": "math_ch_02_polynomials",
+    "exercise": "Exercise 2.2",
+    "question_number": "1(i)",
+    "question_text": "Find the zeroes of the quadratic polynomial x² - 2x - 8 and verify the relationship between the zeroes and the coefficients.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Zeroes: 4 and -2; Sum = 2, Product = -8",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "Zeroes: -4 and 2; Sum = -2, Product = -8",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "Zeroes: 4 and 2; Sum = 6, Product = 8",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "Zeroes: -4 and -2; Sum = -6, Product = 8",
+        "is_correct": false
+      }
+    ],
+    "step_by_step_solution": "Step 1: Factorise x² - 2x - 8 = x² - 4x + 2x - 8 = x(x - 4) + 2(x - 4) = (x - 4)(x + 2).\nStep 2: Set equal to zero: x = 4 or x = -2.\nStep 3: Verify sum of zeroes: 4 + (-2) = 2 = -(-2)/1 = -(coefficient of x) / (coefficient of x²).\nStep 4: Verify product of zeroes: 4 × (-2) = -8 = constant term / (coefficient of x²). Relationship verified!",
+    "difficulty_level": "medium",
+    "status": "approved",
+    "submitted_by": "00000000-0000-0000-0000-000000000001",
+    "reviewed_by": "00000000-0000-0000-0000-000000000001",
+    "created_at": "2026-09-25T04:54:36.116509Z"
+  }
+]

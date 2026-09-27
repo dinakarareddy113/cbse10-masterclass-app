@@ -1,0 +1,1630 @@
+[
+  {
+    "id": "sci_ch2_p18_q01",
+    "chapter": "Acids, Bases and Salts",
+    "section": "QUESTIONS (Page 18)",
+    "question_number": "1",
+    "text": "You are given three test tubes containing distilled water, acidic solution, and basic solution respectively, and only red litmus paper. How can you identify the contents of each test tube?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dip red litmus into each; the one turning it blue is basic. Dip that blue litmus into the remaining two; the one turning it red is acidic, and the last is distilled water.",
+        "is_correct": true,
+        "rationale": "Red litmus turns blue strictly in basic medium. Once turned blue, it functions as blue litmus to identify the acid (which turns it back to red), leaving neutral distilled water unchanged.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Dip red litmus into each; the one turning it colorless is acidic, the one turning it blue is distilled water, and the one turning it red is basic.",
+        "is_correct": false,
+        "rationale": "Litmus does not bleach to colorless in standard dilute acids, and neutral distilled water does not turn red litmus blue.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Red litmus will turn blue in both distilled water and basic solution, but remain unchanged in acidic solution.",
+        "is_correct": false,
+        "rationale": "Distilled water is chemically neutral (pH ≈ 7) and does not turn red litmus blue.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Dip red litmus into each; acidic solution turns it green, basic solution turns it red, and distilled water turns it yellow.",
+        "is_correct": false,
+        "rationale": "Litmus has only red and blue color states; green and yellow correspond to universal indicator, not litmus.",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) Dip red litmus into each; the one turning it blue is basic. Dip that blue litmus into the remaining two; the one turning it red is acidic, and the last is distilled water.\n\nScientific Principle / Key Concept:\nRed litmus turns blue strictly in basic medium. Once turned blue, it functions as blue litmus to identify the acid (which turns it back to red), leaving neutral distilled water unchanged.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Litmus does not bleach to colorless in standard dilute acids, and neutral distilled water does not turn red litmus blue.\n• Option (C): Incorrect. Distilled water is chemically neutral (pH ≈ 7) and does not turn red litmus blue.\n• Option (D): Incorrect. Litmus has only red and blue color states; green and yellow correspond to universal indicator, not litmus.",
+    "step_by_step_solution": "Correct Answer: (A) Dip red litmus into each; the one turning it blue is basic. Dip that blue litmus into the remaining two; the one turning it red is acidic, and the last is distilled water.\n\nScientific Principle / Key Concept:\nRed litmus turns blue strictly in basic medium. Once turned blue, it functions as blue litmus to identify the acid (which turns it back to red), leaving neutral distilled water unchanged.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Litmus does not bleach to colorless in standard dilute acids, and neutral distilled water does not turn red litmus blue.\n• Option (C): Incorrect. Distilled water is chemically neutral (pH ≈ 7) and does not turn red litmus blue.\n• Option (D): Incorrect. Litmus has only red and blue color states; green and yellow correspond to universal indicator, not litmus.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "In-Text (Page 18)",
+    "questionNumber": "1"
+  },
+  {
+    "id": "sci_ch2_p22_q01",
+    "chapter": "Acids, Bases and Salts",
+    "section": "QUESTIONS (Page 22)",
+    "question_number": "1",
+    "text": "Why should curd and sour substances not be kept in brass and copper vessels?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Curd contains lactic acid which reacts with brass and copper forming toxic, poisonous metal salts.",
+        "is_correct": true,
+        "rationale": "Sour food substances contain organic acids (like lactic acid) that corrode copper and zinc in brass, producing soluble toxic metallic salts that can cause severe food poisoning.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Brass and copper metals absorb the natural fat and moisture from curd, causing the curd to dry out.",
+        "is_correct": false,
+        "rationale": "The hazard is a chemical reaction forming toxic salts, not physical fat absorption.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Curd neutralizes copper to produce insoluble inert copper metal granules that solidify the food.",
+        "is_correct": false,
+        "rationale": "Acids do not reduce copper; they react with metallic oxides and copper to yield poisonous soluble copper compounds.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Brass and copper act as refrigerants that lower the temperature of curd and freeze its microbial cultures.",
+        "is_correct": false,
+        "rationale": "Brass and copper are normal conductors of heat and do not have chemical refrigerating properties.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Curd contains lactic acid which reacts with brass and copper forming toxic, poisonous metal salts.\n\nScientific Principle / Key Concept:\nSour food substances contain organic acids (like lactic acid) that corrode copper and zinc in brass, producing soluble toxic metallic salts that can cause severe food poisoning.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. The hazard is a chemical reaction forming toxic salts, not physical fat absorption.\n• Option (C): Incorrect. Acids do not reduce copper; they react with metallic oxides and copper to yield poisonous soluble copper compounds.\n• Option (D): Incorrect. Brass and copper are normal conductors of heat and do not have chemical refrigerating properties.",
+    "step_by_step_solution": "Correct Answer: (A) Curd contains lactic acid which reacts with brass and copper forming toxic, poisonous metal salts.\n\nScientific Principle / Key Concept:\nSour food substances contain organic acids (like lactic acid) that corrode copper and zinc in brass, producing soluble toxic metallic salts that can cause severe food poisoning.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. The hazard is a chemical reaction forming toxic salts, not physical fat absorption.\n• Option (C): Incorrect. Acids do not reduce copper; they react with metallic oxides and copper to yield poisonous soluble copper compounds.\n• Option (D): Incorrect. Brass and copper are normal conductors of heat and do not have chemical refrigerating properties.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "In-Text (Page 22)",
+    "questionNumber": "1"
+  },
+  {
+    "id": "sci_ch2_p22_q02",
+    "chapter": "Acids, Bases and Salts",
+    "section": "QUESTIONS (Page 22)",
+    "question_number": "2",
+    "text": "Which gas is usually liberated when an acid reacts with a metal, and how is its presence confirmed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hydrogen gas ($\\text{H}_2$); confirmed because it burns with a characteristic 'pop' sound when a burning splinter is brought near.",
+        "is_correct": true,
+        "rationale": "Active metals displace hydrogen from dilute acids: $\\text{Zn} + \\text{H}_2\\text{SO}_4 \\rightarrow \\text{ZnSO}_4 + \\text{H}_2\\uparrow$. Hydrogen gas burns explosively in air with a distinctive 'pop' sound.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Oxygen gas ($\\text{O}_2$); confirmed because it rekindles a glowing wooden splinter.",
+        "is_correct": false,
+        "rationale": "Acids reacting with metals yield hydrogen, not oxygen.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Carbon dioxide ($\\text{CO}_2$); confirmed because it turns clear lime water milky.",
+        "is_correct": false,
+        "rationale": "$\\text{CO}_2$ is evolved when acids react with carbonates or hydrogencarbonates, not pure metals.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chlorine gas ($\\text{Cl}_2$); confirmed by its pungent choking odor and bleaching of moist litmus paper.",
+        "is_correct": false,
+        "rationale": "$\\text{Cl}_2$ is not the standard gas liberated in simple acid-metal displacement reactions.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Hydrogen gas ($\\text{H}_2$); confirmed because it burns with a characteristic 'pop' sound when a burning splinter is brought near.\n\nScientific Principle / Key Concept:\nActive metals displace hydrogen from dilute acids: $\\text{Zn} + \\text{H}_2\\text{SO}_4 \\rightarrow \\text{ZnSO}_4 + \\text{H}_2\\uparrow$. Hydrogen gas burns explosively in air with a distinctive 'pop' sound.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Acids reacting with metals yield hydrogen, not oxygen.\n• Option (C): Incorrect. $\\text{CO}_2$ is evolved when acids react with carbonates or hydrogencarbonates, not pure metals.\n• Option (D): Incorrect. $\\text{Cl}_2$ is not the standard gas liberated in simple acid-metal displacement reactions.",
+    "step_by_step_solution": "Correct Answer: (A) Hydrogen gas ($\\text{H}_2$); confirmed because it burns with a characteristic 'pop' sound when a burning splinter is brought near.\n\nScientific Principle / Key Concept:\nActive metals displace hydrogen from dilute acids: $\\text{Zn} + \\text{H}_2\\text{SO}_4 \\rightarrow \\text{ZnSO}_4 + \\text{H}_2\\uparrow$. Hydrogen gas burns explosively in air with a distinctive 'pop' sound.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Acids reacting with metals yield hydrogen, not oxygen.\n• Option (C): Incorrect. $\\text{CO}_2$ is evolved when acids react with carbonates or hydrogencarbonates, not pure metals.\n• Option (D): Incorrect. $\\text{Cl}_2$ is not the standard gas liberated in simple acid-metal displacement reactions.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "In-Text (Page 22)",
+    "questionNumber": "2"
+  },
+  {
+    "id": "sci_ch2_p22_q03",
+    "chapter": "Acids, Bases and Salts",
+    "section": "QUESTIONS (Page 22)",
+    "question_number": "3",
+    "text": "Metal compound 'A' reacts with dilute $\\text{HCl}$ to produce effervescence. The gas evolved extinguishes a burning candle. Write the balanced equation if one product is $\\text{CaCl}_2$.",
+    "options": [
+      {
+        "id": "A",
+        "text": "$\\text{CaCO}_3(s) + 2\\text{HCl}(aq) \\rightarrow \\text{CaCl}_2(aq) + \\text{H}_2\\text{O}(l) + \\text{CO}_2(g)$",
+        "is_correct": true,
+        "rationale": "Compound A is calcium carbonate ($\\text{CaCO}_3$). Effervescence is caused by $\\text{CO}_2$ gas, which does not support combustion and extinguishes candles.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "$\\text{CaO}(s) + 2\\text{HCl}(aq) \\rightarrow \\text{CaCl}_2(aq) + \\text{H}_2\\text{O}(l)$",
+        "is_correct": false,
+        "rationale": "Reaction with calcium oxide does not evolve gas effervescence.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "$\\text{Ca}(s) + 2\\text{HCl}(aq) \\rightarrow \\text{CaCl}_2(aq) + \\text{H}_2(g)$",
+        "is_correct": false,
+        "rationale": "Elemental calcium is a metal, not a metal compound, and $\\text{H}_2$ gas burns with a pop rather than extinguishing flame without burning.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "$\\text{Ca(OH)}_2(aq) + 2\\text{HCl}(aq) \\rightarrow \\text{CaCl}_2(aq) + 2\\text{H}_2\\text{O}(l)$",
+        "is_correct": false,
+        "rationale": "Neutralisation of slaked lime does not produce gas effervescence.",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) $\\text{CaCO}_3(s) + 2\\text{HCl}(aq) \\rightarrow \\text{CaCl}_2(aq) + \\text{H}_2\\text{O}(l) + \\text{CO}_2(g)$\n\nScientific Principle / Key Concept:\nCompound A is calcium carbonate ($\\text{CaCO}_3$). Effervescence is caused by $\\text{CO}_2$ gas, which does not support combustion and extinguishes candles.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Reaction with calcium oxide does not evolve gas effervescence.\n• Option (C): Incorrect. Elemental calcium is a metal, not a metal compound, and $\\text{H}_2$ gas burns with a pop rather than extinguishing flame without burning.\n• Option (D): Incorrect. Neutralisation of slaked lime does not produce gas effervescence.",
+    "step_by_step_solution": "Correct Answer: (A) $\\text{CaCO}_3(s) + 2\\text{HCl}(aq) \\rightarrow \\text{CaCl}_2(aq) + \\text{H}_2\\text{O}(l) + \\text{CO}_2(g)$\n\nScientific Principle / Key Concept:\nCompound A is calcium carbonate ($\\text{CaCO}_3$). Effervescence is caused by $\\text{CO}_2$ gas, which does not support combustion and extinguishes candles.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Reaction with calcium oxide does not evolve gas effervescence.\n• Option (C): Incorrect. Elemental calcium is a metal, not a metal compound, and $\\text{H}_2$ gas burns with a pop rather than extinguishing flame without burning.\n• Option (D): Incorrect. Neutralisation of slaked lime does not produce gas effervescence.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "In-Text (Page 22)",
+    "questionNumber": "3"
+  },
+  {
+    "id": "sci_ch2_p28_q01",
+    "chapter": "Acids, Bases and Salts",
+    "section": "QUESTIONS (Page 28)",
+    "question_number": "1",
+    "text": "Why do aqueous solutions of $\\text{HCl}$ and $\\text{HNO}_3$ show acidic character, whereas solutions of compounds like alcohol and glucose do not?",
+    "options": [
+      {
+        "id": "A",
+        "text": "$\\text{HCl}$ and $\\text{HNO}_3$ dissociate in water to produce free $\\text{H}^+(aq)$ (hydronium) ions, whereas glucose and alcohol do not ionize.",
+        "is_correct": true,
+        "rationale": "Acidic behavior depends strictly on the release of $\\text{H}^+(aq) / \\text{H}_3\\text{O}^+$ ions in aqueous solution. Covalent compounds like alcohol and glucose do not ionize.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "$\\text{HCl}$ and $\\text{HNO}_3$ contain oxygen atoms while glucose and alcohol do not contain any oxygen.",
+        "is_correct": false,
+        "rationale": "Glucose ($\\text{C}_6\\text{H}_{12}\\text{O}_6$) and alcohol ($\\text{C}_2\\text{H}_5\\text{OH}$) both contain oxygen; oxygen content does not dictate acidity.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Glucose and alcohol react with water to form strongly basic hydroxide ions that suppress acidity.",
+        "is_correct": false,
+        "rationale": "Glucose and alcohol do not generate hydroxide ions; they remain neutral non-electrolytes.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "$\\text{HCl}$ and $\\text{HNO}_3$ evaporate instantly in water, leaving solid hydrogen ions behind.",
+        "is_correct": false,
+        "rationale": "Acids dissolve and ionize in water; they do not separate by instantaneous evaporation.",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) $\\text{HCl}$ and $\\text{HNO}_3$ dissociate in water to produce free $\\text{H}^+(aq)$ (hydronium) ions, whereas glucose and alcohol do not ionize.\n\nScientific Principle / Key Concept:\nAcidic behavior depends strictly on the release of $\\text{H}^+(aq) / \\text{H}_3\\text{O}^+$ ions in aqueous solution. Covalent compounds like alcohol and glucose do not ionize.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Glucose ($\\text{C}_6\\text{H}_{12}\\text{O}_6$) and alcohol ($\\text{C}_2\\text{H}_5\\text{OH}$) both contain oxygen; oxygen content does not dictate acidity.\n• Option (C): Incorrect. Glucose and alcohol do not generate hydroxide ions; they remain neutral non-electrolytes.\n• Option (D): Incorrect. Acids dissolve and ionize in water; they do not separate by instantaneous evaporation.",
+    "step_by_step_solution": "Correct Answer: (A) $\\text{HCl}$ and $\\text{HNO}_3$ dissociate in water to produce free $\\text{H}^+(aq)$ (hydronium) ions, whereas glucose and alcohol do not ionize.\n\nScientific Principle / Key Concept:\nAcidic behavior depends strictly on the release of $\\text{H}^+(aq) / \\text{H}_3\\text{O}^+$ ions in aqueous solution. Covalent compounds like alcohol and glucose do not ionize.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Glucose ($\\text{C}_6\\text{H}_{12}\\text{O}_6$) and alcohol ($\\text{C}_2\\text{H}_5\\text{OH}$) both contain oxygen; oxygen content does not dictate acidity.\n• Option (C): Incorrect. Glucose and alcohol do not generate hydroxide ions; they remain neutral non-electrolytes.\n• Option (D): Incorrect. Acids dissolve and ionize in water; they do not separate by instantaneous evaporation.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "In-Text (Page 28)",
+    "questionNumber": "1"
+  },
+  {
+    "id": "sci_ch2_p28_q02",
+    "chapter": "Acids, Bases and Salts",
+    "section": "QUESTIONS (Page 28)",
+    "question_number": "2",
+    "text": "Why does an aqueous solution of an acid conduct electricity?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Because it dissociates into mobile cations ($\\text{H}^+_3\\text{O}$) and anions that carry electric current through the liquid.",
+        "is_correct": true,
+        "rationale": "Electrolytic conduction in solution requires mobile ions. Acids ionize into $\\text{H}^+(aq)$ and corresponding anions, which migrate toward electrodes under an electric field.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Because pure water molecules contain free metallic electrons that transmit current.",
+        "is_correct": false,
+        "rationale": "Water has covalent bonding and lacks free metallic electrons.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Because the acid dissolves the copper connecting wires to complete the physical circuit.",
+        "is_correct": false,
+        "rationale": "Conduction is ionic through the electrolyte, not due to dissolving external wiring.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Because acid molecules heat the solution to glowing incandescent temperatures.",
+        "is_correct": false,
+        "rationale": "Aqueous electrical conduction does not rely on thermal incandescence.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Because it dissociates into mobile cations ($\\text{H}^+_3\\text{O}$) and anions that carry electric current through the liquid.\n\nScientific Principle / Key Concept:\nElectrolytic conduction in solution requires mobile ions. Acids ionize into $\\text{H}^+(aq)$ and corresponding anions, which migrate toward electrodes under an electric field.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Water has covalent bonding and lacks free metallic electrons.\n• Option (C): Incorrect. Conduction is ionic through the electrolyte, not due to dissolving external wiring.\n• Option (D): Incorrect. Aqueous electrical conduction does not rely on thermal incandescence.",
+    "step_by_step_solution": "Correct Answer: (A) Because it dissociates into mobile cations ($\\text{H}^+_3\\text{O}$) and anions that carry electric current through the liquid.\n\nScientific Principle / Key Concept:\nElectrolytic conduction in solution requires mobile ions. Acids ionize into $\\text{H}^+(aq)$ and corresponding anions, which migrate toward electrodes under an electric field.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Water has covalent bonding and lacks free metallic electrons.\n• Option (C): Incorrect. Conduction is ionic through the electrolyte, not due to dissolving external wiring.\n• Option (D): Incorrect. Aqueous electrical conduction does not rely on thermal incandescence.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "In-Text (Page 28)",
+    "questionNumber": "2"
+  },
+  {
+    "id": "sci_ch2_p28_q03",
+    "chapter": "Acids, Bases and Salts",
+    "section": "QUESTIONS (Page 28)",
+    "question_number": "3",
+    "text": "Why does dry $\\text{HCl}$ gas not change the colour of dry litmus paper?",
+    "options": [
+      {
+        "id": "A",
+        "text": "In the absence of moisture, $\\text{HCl}$ cannot dissociate to form $\\text{H}^+$ ions which are responsible for acidic color change.",
+        "is_correct": true,
+        "rationale": "Litmus indicator color change is triggered exclusively by hydrogen/hydronium ions. Dry $\\text{HCl}$ exists as covalent molecules and cannot ionize without water.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Dry $\\text{HCl}$ gas is a strong base that neutralizes red litmus immediately.",
+        "is_correct": false,
+        "rationale": "$\\text{HCl}$ is an acidic gas, not a base.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Litmus paper dye is insoluble in all gaseous states of matter.",
+        "is_correct": false,
+        "rationale": "Moist litmus paper readily changes color in dry $\\text{HCl}$ gas because moisture provides the medium for ionization.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Dry $\\text{HCl}$ gas decomposes dry litmus dye into free nitrogen gas.",
+        "is_correct": false,
+        "rationale": "Litmus paper is not degraded into nitrogen gas by dry $\\text{HCl}$.",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) In the absence of moisture, $\\text{HCl}$ cannot dissociate to form $\\text{H}^+$ ions which are responsible for acidic color change.\n\nScientific Principle / Key Concept:\nLitmus indicator color change is triggered exclusively by hydrogen/hydronium ions. Dry $\\text{HCl}$ exists as covalent molecules and cannot ionize without water.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. $\\text{HCl}$ is an acidic gas, not a base.\n• Option (C): Incorrect. Moist litmus paper readily changes color in dry $\\text{HCl}$ gas because moisture provides the medium for ionization.\n• Option (D): Incorrect. Litmus paper is not degraded into nitrogen gas by dry $\\text{HCl}$.",
+    "step_by_step_solution": "Correct Answer: (A) In the absence of moisture, $\\text{HCl}$ cannot dissociate to form $\\text{H}^+$ ions which are responsible for acidic color change.\n\nScientific Principle / Key Concept:\nLitmus indicator color change is triggered exclusively by hydrogen/hydronium ions. Dry $\\text{HCl}$ exists as covalent molecules and cannot ionize without water.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. $\\text{HCl}$ is an acidic gas, not a base.\n• Option (C): Incorrect. Moist litmus paper readily changes color in dry $\\text{HCl}$ gas because moisture provides the medium for ionization.\n• Option (D): Incorrect. Litmus paper is not degraded into nitrogen gas by dry $\\text{HCl}$.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "In-Text (Page 28)",
+    "questionNumber": "3"
+  },
+  {
+    "id": "sci_ch2_p28_q04",
+    "chapter": "Acids, Bases and Salts",
+    "section": "QUESTIONS (Page 28)",
+    "question_number": "4",
+    "text": "While diluting an acid, why is it strictly recommended that acid should be added to water and never water to acid?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The dilution of acid is highly exothermic; adding water to concentrated acid causes violent boiling, acid splashes, and glass breakage.",
+        "is_correct": true,
+        "rationale": "Mixing concentrated acid with water releases massive heat. Adding acid slowly to a large volume of water with constant stirring allows water to absorb and dissipate the heat safely.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Adding water to acid converts the acid into a non-reactive neutral hydrocarbon.",
+        "is_correct": false,
+        "rationale": "Dilution is a physical hydration process, not hydrocarbon synthesis.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Water is denser than acid and sinks immediately, preventing any chemical interaction.",
+        "is_correct": false,
+        "rationale": "Concentrated sulphuric acid is denser than water ($1.84\\text{ g/cm}^3$ vs $1.0\\text{ g/cm}^3$).",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Acid dissolves water molecules into oxygen and hydrogen gas, causing a gas fire.",
+        "is_correct": false,
+        "rationale": "Dilution does not electrolyze water into flammable hydrogen and oxygen gases.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) The dilution of acid is highly exothermic; adding water to concentrated acid causes violent boiling, acid splashes, and glass breakage.\n\nScientific Principle / Key Concept:\nMixing concentrated acid with water releases massive heat. Adding acid slowly to a large volume of water with constant stirring allows water to absorb and dissipate the heat safely.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Dilution is a physical hydration process, not hydrocarbon synthesis.\n• Option (C): Incorrect. Concentrated sulphuric acid is denser than water ($1.84\\text{ g/cm}^3$ vs $1.0\\text{ g/cm}^3$).\n• Option (D): Incorrect. Dilution does not electrolyze water into flammable hydrogen and oxygen gases.",
+    "step_by_step_solution": "Correct Answer: (A) The dilution of acid is highly exothermic; adding water to concentrated acid causes violent boiling, acid splashes, and glass breakage.\n\nScientific Principle / Key Concept:\nMixing concentrated acid with water releases massive heat. Adding acid slowly to a large volume of water with constant stirring allows water to absorb and dissipate the heat safely.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Dilution is a physical hydration process, not hydrocarbon synthesis.\n• Option (C): Incorrect. Concentrated sulphuric acid is denser than water ($1.84\\text{ g/cm}^3$ vs $1.0\\text{ g/cm}^3$).\n• Option (D): Incorrect. Dilution does not electrolyze water into flammable hydrogen and oxygen gases.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "In-Text (Page 28)",
+    "questionNumber": "4"
+  },
+  {
+    "id": "sci_ch2_p28_q05",
+    "chapter": "Acids, Bases and Salts",
+    "section": "QUESTIONS (Page 28)",
+    "question_number": "5",
+    "text": "How is the concentration of hydronium ions ($\\text{H}_3\\text{O}^+$) affected when a solution of an acid is diluted?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The concentration of hydronium ions per unit volume decreases.",
+        "is_correct": true,
+        "rationale": "On adding water to an acid solution, the total volume increases while the number of $\\text{H}_3\\text{O}^+$ ions remains constant, so their concentration per unit volume decreases.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "The concentration of hydronium ions per unit volume increases significantly.",
+        "is_correct": false,
+        "rationale": "Dilution increases volume, decreasing concentration.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "The concentration remains completely unaffected because water cannot interact with ions.",
+        "is_correct": false,
+        "rationale": "Concentration is inversely proportional to volume ($C = n/V$).",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Hydronium ions are completely converted into molecular hydroxide ions.",
+        "is_correct": false,
+        "rationale": "Diluting an acid decreases $[\text{H}_3\text{O}^+]$, but does not make the solution basic.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) The concentration of hydronium ions per unit volume decreases.\n\nScientific Principle / Key Concept:\nOn adding water to an acid solution, the total volume increases while the number of $\\text{H}_3\\text{O}^+$ ions remains constant, so their concentration per unit volume decreases.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Dilution increases volume, decreasing concentration.\n• Option (C): Incorrect. Concentration is inversely proportional to volume ($C = n/V$).\n• Option (D): Incorrect. Diluting an acid decreases $[\text{H}_3\text{O}^+]$, but does not make the solution basic.",
+    "step_by_step_solution": "Correct Answer: (A) The concentration of hydronium ions per unit volume decreases.\n\nScientific Principle / Key Concept:\nOn adding water to an acid solution, the total volume increases while the number of $\\text{H}_3\\text{O}^+$ ions remains constant, so their concentration per unit volume decreases.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Dilution increases volume, decreasing concentration.\n• Option (C): Incorrect. Concentration is inversely proportional to volume ($C = n/V$).\n• Option (D): Incorrect. Diluting an acid decreases $[\text{H}_3\text{O}^+]$, but does not make the solution basic.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "In-Text (Page 28)",
+    "questionNumber": "5"
+  },
+  {
+    "id": "sci_ch2_p28_q06",
+    "chapter": "Acids, Bases and Salts",
+    "section": "QUESTIONS (Page 28)",
+    "question_number": "6",
+    "text": "How is the concentration of hydroxide ions ($\\text{OH}^-$) affected when excess base is dissolved in a solution of sodium hydroxide?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The concentration of hydroxide ions per unit volume increases.",
+        "is_correct": true,
+        "rationale": "Dissolving more base adds additional $\\text{OH}^-$ ions to the fixed volume, thereby increasing $[\text{OH}^-]$ per unit volume.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "The concentration of hydroxide ions decreases due to ionic saturation precipitation.",
+        "is_correct": false,
+        "rationale": "Adding solute before saturation increases concentration.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Hydroxide ions decompose into gaseous oxygen and hydrogen.",
+        "is_correct": false,
+        "rationale": "Base dissolution does not cause decomposition into gaseous elements.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "The concentration remains unaltered as sodium hydroxide cannot dissociate further.",
+        "is_correct": false,
+        "rationale": "Added $\\text{NaOH}$ dissociates directly into $\\text{Na}^+$ and $\\text{OH}^-$, increasing the ion count.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) The concentration of hydroxide ions per unit volume increases.\n\nScientific Principle / Key Concept:\nDissolving more base adds additional $\\text{OH}^-$ ions to the fixed volume, thereby increasing $[\text{OH}^-]$ per unit volume.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Adding solute before saturation increases concentration.\n• Option (C): Incorrect. Base dissolution does not cause decomposition into gaseous elements.\n• Option (D): Incorrect. Added $\\text{NaOH}$ dissociates directly into $\\text{Na}^+$ and $\\text{OH}^-$, increasing the ion count.",
+    "step_by_step_solution": "Correct Answer: (A) The concentration of hydroxide ions per unit volume increases.\n\nScientific Principle / Key Concept:\nDissolving more base adds additional $\\text{OH}^-$ ions to the fixed volume, thereby increasing $[\text{OH}^-]$ per unit volume.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Adding solute before saturation increases concentration.\n• Option (C): Incorrect. Base dissolution does not cause decomposition into gaseous elements.\n• Option (D): Incorrect. Added $\\text{NaOH}$ dissociates directly into $\\text{Na}^+$ and $\\text{OH}^-$, increasing the ion count.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "In-Text (Page 28)",
+    "questionNumber": "6"
+  },
+  {
+    "id": "sci_ch2_p33_q01",
+    "chapter": "Acids, Bases and Salts",
+    "section": "QUESTIONS (Page 33)",
+    "question_number": "1",
+    "text": "You have two solutions, A and B. The pH of solution A is 6 and pH of solution B is 8. Which solution has higher hydrogen ion concentration, and which is acidic / basic?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Solution A has higher $[\\text{H}^+]$ concentration; Solution A is acidic and Solution B is basic.",
+        "is_correct": true,
+        "rationale": "$\\text{pH} = -\\log_{10}[\\text{H}^+]$. A lower pH value denotes higher $[\\text{H}^+]$. $\\text{pH} < 7$ is acidic (Solution A), and $\\text{pH} > 7$ is basic (Solution B).",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Solution B has higher $[\\text{H}^+]$ concentration; Solution B is acidic and Solution A is basic.",
+        "is_correct": false,
+        "rationale": "Higher pH means lower hydrogen ion concentration, not higher.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Both solutions have equal $[\\text{H}^+]$ concentration because they are symmetrically spaced around pH 7.",
+        "is_correct": false,
+        "rationale": "Solution A has $[\\text{H}^+] = 10^{-6}\\text{ M}$ while B has $10^{-8}\\text{ M}$, a 100-fold difference.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Solution A is neutral, while Solution B is strongly acidic.",
+        "is_correct": false,
+        "rationale": "Neutral pH is exactly 7.0 at $25^\\circ\\text{C}$.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Solution A has higher $[\\text{H}^+]$ concentration; Solution A is acidic and Solution B is basic.\n\nScientific Principle / Key Concept:\n$\\text{pH} = -\\log_{10}[\\text{H}^+]$. A lower pH value denotes higher $[\\text{H}^+]$. $\\text{pH} < 7$ is acidic (Solution A), and $\\text{pH} > 7$ is basic (Solution B).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Higher pH means lower hydrogen ion concentration, not higher.\n• Option (C): Incorrect. Solution A has $[\\text{H}^+] = 10^{-6}\\text{ M}$ while B has $10^{-8}\\text{ M}$, a 100-fold difference.\n• Option (D): Incorrect. Neutral pH is exactly 7.0 at $25^\\circ\\text{C}$.",
+    "step_by_step_solution": "Correct Answer: (A) Solution A has higher $[\\text{H}^+]$ concentration; Solution A is acidic and Solution B is basic.\n\nScientific Principle / Key Concept:\n$\\text{pH} = -\\log_{10}[\\text{H}^+]$. A lower pH value denotes higher $[\\text{H}^+]$. $\\text{pH} < 7$ is acidic (Solution A), and $\\text{pH} > 7$ is basic (Solution B).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Higher pH means lower hydrogen ion concentration, not higher.\n• Option (C): Incorrect. Solution A has $[\\text{H}^+] = 10^{-6}\\text{ M}$ while B has $10^{-8}\\text{ M}$, a 100-fold difference.\n• Option (D): Incorrect. Neutral pH is exactly 7.0 at $25^\\circ\\text{C}$.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "In-Text (Page 33)",
+    "questionNumber": "1"
+  },
+  {
+    "id": "sci_ch2_p33_q02",
+    "chapter": "Acids, Bases and Salts",
+    "section": "QUESTIONS (Page 33)",
+    "question_number": "2",
+    "text": "What effect does increasing the concentration of $\\text{H}^+(aq)$ ions have on the nature of a solution?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The solution becomes more strongly acidic and its pH value decreases.",
+        "is_correct": true,
+        "rationale": "Acidity is directly determined by $[\\text{H}^+(aq)]$. As $[\\text{H}^+]$ rises, the acidity increases and $\\text{pH}$ drops.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "The solution becomes alkaline and its pH value rises above 12.",
+        "is_correct": false,
+        "rationale": "Alkalinity corresponds to higher $[\\text{OH}^-]$, not higher $[\\text{H}^+]$.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "The solution becomes neutral as excess hydrogen ions cancel each other out.",
+        "is_correct": false,
+        "rationale": "Hydrogen ions do not cancel each other out.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "The electrical conductivity of the solution drops to zero.",
+        "is_correct": false,
+        "rationale": "More ions increase electrical conductivity.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) The solution becomes more strongly acidic and its pH value decreases.\n\nScientific Principle / Key Concept:\nAcidity is directly determined by $[\\text{H}^+(aq)]$. As $[\\text{H}^+]$ rises, the acidity increases and $\\text{pH}$ drops.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Alkalinity corresponds to higher $[\\text{OH}^-]$, not higher $[\\text{H}^+]$.\n• Option (C): Incorrect. Hydrogen ions do not cancel each other out.\n• Option (D): Incorrect. More ions increase electrical conductivity.",
+    "step_by_step_solution": "Correct Answer: (A) The solution becomes more strongly acidic and its pH value decreases.\n\nScientific Principle / Key Concept:\nAcidity is directly determined by $[\\text{H}^+(aq)]$. As $[\\text{H}^+]$ rises, the acidity increases and $\\text{pH}$ drops.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Alkalinity corresponds to higher $[\\text{OH}^-]$, not higher $[\\text{H}^+]$.\n• Option (C): Incorrect. Hydrogen ions do not cancel each other out.\n• Option (D): Incorrect. More ions increase electrical conductivity.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "In-Text (Page 33)",
+    "questionNumber": "2"
+  },
+  {
+    "id": "sci_ch2_p33_q03",
+    "chapter": "Acids, Bases and Salts",
+    "section": "QUESTIONS (Page 33)",
+    "question_number": "3",
+    "text": "Do basic solutions also have $\\text{H}^+(aq)$ ions? If yes, why are they classified as basic?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Yes, basic solutions contain $\\text{H}^+$ ions from water auto-ionization, but $[\\text{OH}^-] \\gg [\\text{H}^+]$.",
+        "is_correct": true,
+        "rationale": "In all aqueous solutions, $[\\text{H}^+][\\text{OH}^-] = K_w = 10^{-14}$. Basic solutions have $\\text{H}^+$ ions, but the concentration of hydroxide ions is far greater.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "No, basic solutions contain zero $\\text{H}^+$ ions because bases destroy all protons.",
+        "is_correct": false,
+        "rationale": "Water always contains an equilibrium amount of $\\text{H}^+$ ions.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Yes, but $\\text{H}^+$ ions in bases carry negative charges instead of positive charges.",
+        "is_correct": false,
+        "rationale": "Hydrogen ions are always positively charged cations ($H^+$).",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "No, bases are composed exclusively of pure sodium metal atoms.",
+        "is_correct": false,
+        "rationale": "Bases are compounds like hydroxides or oxides, not pure sodium metal.",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) Yes, basic solutions contain $\\text{H}^+$ ions from water auto-ionization, but $[\\text{OH}^-] \\gg [\\text{H}^+]$.\n\nScientific Principle / Key Concept:\nIn all aqueous solutions, $[\\text{H}^+][\\text{OH}^-] = K_w = 10^{-14}$. Basic solutions have $\\text{H}^+$ ions, but the concentration of hydroxide ions is far greater.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Water always contains an equilibrium amount of $\\text{H}^+$ ions.\n• Option (C): Incorrect. Hydrogen ions are always positively charged cations ($H^+$).\n• Option (D): Incorrect. Bases are compounds like hydroxides or oxides, not pure sodium metal.",
+    "step_by_step_solution": "Correct Answer: (A) Yes, basic solutions contain $\\text{H}^+$ ions from water auto-ionization, but $[\\text{OH}^-] \\gg [\\text{H}^+]$.\n\nScientific Principle / Key Concept:\nIn all aqueous solutions, $[\\text{H}^+][\\text{OH}^-] = K_w = 10^{-14}$. Basic solutions have $\\text{H}^+$ ions, but the concentration of hydroxide ions is far greater.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Water always contains an equilibrium amount of $\\text{H}^+$ ions.\n• Option (C): Incorrect. Hydrogen ions are always positively charged cations ($H^+$).\n• Option (D): Incorrect. Bases are compounds like hydroxides or oxides, not pure sodium metal.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "In-Text (Page 33)",
+    "questionNumber": "3"
+  },
+  {
+    "id": "sci_ch2_p33_q04",
+    "chapter": "Acids, Bases and Salts",
+    "section": "QUESTIONS (Page 33)",
+    "question_number": "4",
+    "text": "Under what soil condition would a farmer treat the soil of his fields with quick lime ($\\text{CaO}$), slaked lime ($\\text{Ca(OH)}_2$), or chalk ($\\text{CaCO}_3$)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "When the soil is overly acidic (pH too low for optimal crop growth).",
+        "is_correct": true,
+        "rationale": "Quick lime ($\\text{CaO}$), slaked lime ($\\text{Ca(OH)}_2$), and chalk ($\\text{CaCO}_3$) are basic in nature and neutralize excessive soil acidity.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "When the soil is excessively alkaline with pH greater than 10.",
+        "is_correct": false,
+        "rationale": "Adding basic calcium compounds to alkaline soil would make it even more alkaline.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "When the soil is saturated with excessive moisture from flooding.",
+        "is_correct": false,
+        "rationale": "Lining is applied to regulate chemical pH, not for physical flood drainage.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "When the farmer wants to dissolve earthworms and microbial organic matter.",
+        "is_correct": false,
+        "rationale": "The purpose is creating an optimal pH (around 6.5–7.5) for plant nutrition.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) When the soil is overly acidic (pH too low for optimal crop growth).\n\nScientific Principle / Key Concept:\nQuick lime ($\\text{CaO}$), slaked lime ($\\text{Ca(OH)}_2$), and chalk ($\\text{CaCO}_3$) are basic in nature and neutralize excessive soil acidity.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Adding basic calcium compounds to alkaline soil would make it even more alkaline.\n• Option (C): Incorrect. Lining is applied to regulate chemical pH, not for physical flood drainage.\n• Option (D): Incorrect. The purpose is creating an optimal pH (around 6.5–7.5) for plant nutrition.",
+    "step_by_step_solution": "Correct Answer: (A) When the soil is overly acidic (pH too low for optimal crop growth).\n\nScientific Principle / Key Concept:\nQuick lime ($\\text{CaO}$), slaked lime ($\\text{Ca(OH)}_2$), and chalk ($\\text{CaCO}_3$) are basic in nature and neutralize excessive soil acidity.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Adding basic calcium compounds to alkaline soil would make it even more alkaline.\n• Option (C): Incorrect. Lining is applied to regulate chemical pH, not for physical flood drainage.\n• Option (D): Incorrect. The purpose is creating an optimal pH (around 6.5–7.5) for plant nutrition.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "In-Text (Page 33)",
+    "questionNumber": "4"
+  },
+  {
+    "id": "sci_ch2_p34_q01",
+    "chapter": "Acids, Bases and Salts",
+    "section": "QUESTIONS (Pages 34-35)",
+    "question_number": "1",
+    "text": "What is the common chemical name of the compound $\\text{CaOCl}_2$?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bleaching powder",
+        "is_correct": true,
+        "rationale": "Calcium oxychloride ($\\text{CaOCl}_2$) is commonly known as bleaching powder.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Baking soda",
+        "is_correct": false,
+        "rationale": "Baking soda is sodium hydrogencarbonate ($\\text{NaHCO}_3$).",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Washing soda",
+        "is_correct": false,
+        "rationale": "Washing soda is sodium carbonate decahydrate ($\\text{Na}_2\\text{CO}_3 \\cdot 10\\text{H}_2\\text{O}$).",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Plaster of Paris",
+        "is_correct": false,
+        "rationale": "Plaster of Paris is calcium sulphate hemihydrate ($\\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O}$).",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Bleaching powder\n\nScientific Principle / Key Concept:\nCalcium oxychloride ($\\text{CaOCl}_2$) is commonly known as bleaching powder.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Baking soda is sodium hydrogencarbonate ($\\text{NaHCO}_3$).\n• Option (C): Incorrect. Washing soda is sodium carbonate decahydrate ($\\text{Na}_2\\text{CO}_3 \\cdot 10\\text{H}_2\\text{O}$).\n• Option (D): Incorrect. Plaster of Paris is calcium sulphate hemihydrate ($\\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O}$).",
+    "step_by_step_solution": "Correct Answer: (A) Bleaching powder\n\nScientific Principle / Key Concept:\nCalcium oxychloride ($\\text{CaOCl}_2$) is commonly known as bleaching powder.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Baking soda is sodium hydrogencarbonate ($\\text{NaHCO}_3$).\n• Option (C): Incorrect. Washing soda is sodium carbonate decahydrate ($\\text{Na}_2\\text{CO}_3 \\cdot 10\\text{H}_2\\text{O}$).\n• Option (D): Incorrect. Plaster of Paris is calcium sulphate hemihydrate ($\\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O}$).",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "1"
+  },
+  {
+    "id": "sci_ch2_p34_q02",
+    "chapter": "Acids, Bases and Salts",
+    "section": "QUESTIONS (Pages 34-35)",
+    "question_number": "2",
+    "text": "Name the substance which on treatment with chlorine gas yields bleaching powder.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dry slaked lime [$\\text{Ca(OH)}_2$]",
+        "is_correct": true,
+        "rationale": "Bleaching powder is manufactured by passing chlorine gas over dry slaked lime: $\\text{Ca(OH)}_2 + \\text{Cl}_2 \\rightarrow \\text{CaOCl}_2 + \\text{H}_2\\text{O}$.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Limestone [$\\text{CaCO}_3$]",
+        "is_correct": false,
+        "rationale": "Limestone does not react with chlorine under standard conditions to form bleaching powder.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Gypsum [$\\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O}$]",
+        "is_correct": false,
+        "rationale": "Gypsum is hydrated calcium sulphate, not the precursor for bleaching powder.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sodium chloride [$\\text{NaCl}$]",
+        "is_correct": false,
+        "rationale": "$\\text{NaCl}$ is used to generate chlorine gas via chlor-alkali, but the reactant that absorbs chlorine is slaked lime.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Dry slaked lime [$\\text{Ca(OH)}_2$]\n\nScientific Principle / Key Concept:\nBleaching powder is manufactured by passing chlorine gas over dry slaked lime: $\\text{Ca(OH)}_2 + \\text{Cl}_2 \\rightarrow \\text{CaOCl}_2 + \\text{H}_2\\text{O}$.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Limestone does not react with chlorine under standard conditions to form bleaching powder.\n• Option (C): Incorrect. Gypsum is hydrated calcium sulphate, not the precursor for bleaching powder.\n• Option (D): Incorrect. $\\text{NaCl}$ is used to generate chlorine gas via chlor-alkali, but the reactant that absorbs chlorine is slaked lime.",
+    "step_by_step_solution": "Correct Answer: (A) Dry slaked lime [$\\text{Ca(OH)}_2$]\n\nScientific Principle / Key Concept:\nBleaching powder is manufactured by passing chlorine gas over dry slaked lime: $\\text{Ca(OH)}_2 + \\text{Cl}_2 \\rightarrow \\text{CaOCl}_2 + \\text{H}_2\\text{O}$.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Limestone does not react with chlorine under standard conditions to form bleaching powder.\n• Option (C): Incorrect. Gypsum is hydrated calcium sulphate, not the precursor for bleaching powder.\n• Option (D): Incorrect. $\\text{NaCl}$ is used to generate chlorine gas via chlor-alkali, but the reactant that absorbs chlorine is slaked lime.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "2"
+  },
+  {
+    "id": "sci_ch2_p34_q03",
+    "chapter": "Acids, Bases and Salts",
+    "section": "QUESTIONS (Pages 34-35)",
+    "question_number": "3",
+    "text": "Which sodium compound is used for softening hard water?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Washing soda (Sodium carbonate decahydrate, $\\text{Na}_2\\text{CO}_3 \\cdot 10\\text{H}_2\\text{O}$)",
+        "is_correct": true,
+        "rationale": "Washing soda reacts with dissolved calcium and magnesium ions in hard water, precipitating them as insoluble carbonates.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Sodium chloride ($\\text{NaCl}$)",
+        "is_correct": false,
+        "rationale": "Sodium chloride does not precipitate calcium and magnesium ions to soften water.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Sodium hydroxide ($\\text{NaOH}$)",
+        "is_correct": false,
+        "rationale": "$\\text{NaOH}$ is caustic soda, used in soap manufacture, not primary domestic water softening.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sodium nitrate ($\\text{NaNO}_3$)",
+        "is_correct": false,
+        "rationale": "Sodium nitrate is a soluble fertilizer and does not soften hard water.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Washing soda (Sodium carbonate decahydrate, $\\text{Na}_2\\text{CO}_3 \\cdot 10\\text{H}_2\\text{O}$)\n\nScientific Principle / Key Concept:\nWashing soda reacts with dissolved calcium and magnesium ions in hard water, precipitating them as insoluble carbonates.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Sodium chloride does not precipitate calcium and magnesium ions to soften water.\n• Option (C): Incorrect. $\\text{NaOH}$ is caustic soda, used in soap manufacture, not primary domestic water softening.\n• Option (D): Incorrect. Sodium nitrate is a soluble fertilizer and does not soften hard water.",
+    "step_by_step_solution": "Correct Answer: (A) Washing soda (Sodium carbonate decahydrate, $\\text{Na}_2\\text{CO}_3 \\cdot 10\\text{H}_2\\text{O}$)\n\nScientific Principle / Key Concept:\nWashing soda reacts with dissolved calcium and magnesium ions in hard water, precipitating them as insoluble carbonates.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Sodium chloride does not precipitate calcium and magnesium ions to soften water.\n• Option (C): Incorrect. $\\text{NaOH}$ is caustic soda, used in soap manufacture, not primary domestic water softening.\n• Option (D): Incorrect. Sodium nitrate is a soluble fertilizer and does not soften hard water.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "3"
+  },
+  {
+    "id": "sci_ch2_p34_q04",
+    "chapter": "Acids, Bases and Salts",
+    "section": "QUESTIONS (Pages 34-35)",
+    "question_number": "4",
+    "text": "What happens when a solution of sodium hydrogencarbonate is heated? Give the balanced equation.",
+    "options": [
+      {
+        "id": "A",
+        "text": "It decomposes to form sodium carbonate, water, and carbon dioxide: $2\\text{NaHCO}_3 \\xrightarrow{\\Delta} \\text{Na}_2\\text{CO}_3 + \\text{H}_2\\text{O} + \\text{CO}_2$",
+        "is_correct": true,
+        "rationale": "Thermal decomposition of sodium hydrogencarbonate releases carbon dioxide gas, which causes bread and cakes to rise.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "It oxidizes into sodium peroxide and hydrogen gas: $2\\text{NaHCO}_3 \\xrightarrow{\\Delta} \\text{Na}_2\\text{O}_2 + 2\\text{CO} + \\text{H}_2$",
+        "is_correct": false,
+        "rationale": "Heating hydrogencarbonates yields carbonate and $\\text{CO}_2$, not peroxide.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "It sublimes into sodium metal vapors without any chemical reaction.",
+        "is_correct": false,
+        "rationale": "$\\text{NaHCO}_3$ undergoes chemical decomposition, not physical sublimation.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "It reduces to form sodium hydride and oxygen gas: $\\text{NaHCO}_3 \\xrightarrow{\\Delta} \\text{NaH} + \\text{CO}_2 + \\text{O}_2$",
+        "is_correct": false,
+        "rationale": "Sodium hydride is not formed by heating baking soda.",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) It decomposes to form sodium carbonate, water, and carbon dioxide: $2\\text{NaHCO}_3 \\xrightarrow{\\Delta} \\text{Na}_2\\text{CO}_3 + \\text{H}_2\\text{O} + \\text{CO}_2$\n\nScientific Principle / Key Concept:\nThermal decomposition of sodium hydrogencarbonate releases carbon dioxide gas, which causes bread and cakes to rise.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Heating hydrogencarbonates yields carbonate and $\\text{CO}_2$, not peroxide.\n• Option (C): Incorrect. $\\text{NaHCO}_3$ undergoes chemical decomposition, not physical sublimation.\n• Option (D): Incorrect. Sodium hydride is not formed by heating baking soda.",
+    "step_by_step_solution": "Correct Answer: (A) It decomposes to form sodium carbonate, water, and carbon dioxide: $2\\text{NaHCO}_3 \\xrightarrow{\\Delta} \\text{Na}_2\\text{CO}_3 + \\text{H}_2\\text{O} + \\text{CO}_2$\n\nScientific Principle / Key Concept:\nThermal decomposition of sodium hydrogencarbonate releases carbon dioxide gas, which causes bread and cakes to rise.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Heating hydrogencarbonates yields carbonate and $\\text{CO}_2$, not peroxide.\n• Option (C): Incorrect. $\\text{NaHCO}_3$ undergoes chemical decomposition, not physical sublimation.\n• Option (D): Incorrect. Sodium hydride is not formed by heating baking soda.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "4"
+  },
+  {
+    "id": "sci_ch2_p34_q05",
+    "chapter": "Acids, Bases and Salts",
+    "section": "QUESTIONS (Pages 34-35)",
+    "question_number": "5",
+    "text": "Write the balanced chemical equation showing the reaction between Plaster of Paris and water.",
+    "options": [
+      {
+        "id": "A",
+        "text": "$\\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O} + 1\\frac{1}{2}\\text{H}_2\\text{O} \\rightarrow \\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O}$",
+        "is_correct": true,
+        "rationale": "Plaster of Paris (calcium sulphate hemihydrate) combines with one and a half molecules of water to reform gypsum (a hard solid mass).",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "$\\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O} + \\text{H}_2\\text{O} \\rightarrow \\text{CaSO}_4 \\cdot 3\\text{H}_2\\text{O}$",
+        "is_correct": false,
+        "rationale": "$\\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O}$ is gypsum, not Plaster of Paris.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "$\\text{CaSO}_4 + 2\\text{H}_2\\text{O} \\rightarrow \\text{Ca(OH)}_2 + \\text{H}_2\\text{SO}_4$",
+        "is_correct": false,
+        "rationale": "Anhydrous calcium sulphate does not hydrolyze into slaked lime and sulphuric acid.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "$\\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O} \\rightarrow \\text{CaO} + \\text{SO}_3 + \\frac{1}{2}\\text{H}_2\\text{O}$",
+        "is_correct": false,
+        "rationale": "This represents destructive pyrolytic decomposition, not reaction with water.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) $\\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O} + 1\\frac{1}{2}\\text{H}_2\\text{O} \\rightarrow \\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O}$\n\nScientific Principle / Key Concept:\nPlaster of Paris (calcium sulphate hemihydrate) combines with one and a half molecules of water to reform gypsum (a hard solid mass).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. $\\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O}$ is gypsum, not Plaster of Paris.\n• Option (C): Incorrect. Anhydrous calcium sulphate does not hydrolyze into slaked lime and sulphuric acid.\n• Option (D): Incorrect. This represents destructive pyrolytic decomposition, not reaction with water.",
+    "step_by_step_solution": "Correct Answer: (A) $\\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O} + 1\\frac{1}{2}\\text{H}_2\\text{O} \\rightarrow \\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O}$\n\nScientific Principle / Key Concept:\nPlaster of Paris (calcium sulphate hemihydrate) combines with one and a half molecules of water to reform gypsum (a hard solid mass).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. $\\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O}$ is gypsum, not Plaster of Paris.\n• Option (C): Incorrect. Anhydrous calcium sulphate does not hydrolyze into slaked lime and sulphuric acid.\n• Option (D): Incorrect. This represents destructive pyrolytic decomposition, not reaction with water.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "5"
+  },
+  {
+    "id": "sci_ch2_ex01",
+    "chapter": "Acids, Bases and Salts",
+    "section": "EXERCISES",
+    "question_number": "1",
+    "text": "A solution turns red litmus blue, its pH is likely to be:",
+    "options": [
+      {
+        "id": "A",
+        "text": "1",
+        "is_correct": false,
+        "rationale": "pH 1 is strongly acidic; turns blue litmus red.",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "4",
+        "is_correct": false,
+        "rationale": "pH 4 is acidic; leaves red litmus red.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "5",
+        "is_correct": false,
+        "rationale": "pH 5 is acidic; does not turn red litmus blue.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10",
+        "is_correct": true,
+        "rationale": "Basic solutions (pH > 7) turn red litmus blue. Among the given options, only pH 10 is basic.",
+        "correct": true
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (D) 10\n\nScientific Principle / Key Concept:\nBasic solutions (pH > 7) turn red litmus blue. Among the given options, only pH 10 is basic.\n\nDetailed Distractor & Misconception Analysis:\n• Option (A): Incorrect. pH 1 is strongly acidic; turns blue litmus red.\n• Option (B): Incorrect. pH 4 is acidic; leaves red litmus red.\n• Option (C): Incorrect. pH 5 is acidic; does not turn red litmus blue.",
+    "step_by_step_solution": "Correct Answer: (D) 10\n\nScientific Principle / Key Concept:\nBasic solutions (pH > 7) turn red litmus blue. Among the given options, only pH 10 is basic.\n\nDetailed Distractor & Misconception Analysis:\n• Option (A): Incorrect. pH 1 is strongly acidic; turns blue litmus red.\n• Option (B): Incorrect. pH 4 is acidic; leaves red litmus red.\n• Option (C): Incorrect. pH 5 is acidic; does not turn red litmus blue.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "1"
+  },
+  {
+    "id": "sci_ch2_ex02",
+    "chapter": "Acids, Bases and Salts",
+    "section": "EXERCISES",
+    "question_number": "2",
+    "text": "A solution reacts with crushed egg-shells to give a gas that turns lime-water milky. The solution contains:",
+    "options": [
+      {
+        "id": "A",
+        "text": "$\\text{NaCl}$",
+        "is_correct": false,
+        "rationale": "Neutral salt; does not react with egg-shells.",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "$\\text{HCl}$",
+        "is_correct": true,
+        "rationale": "Egg-shells are calcium carbonate ($\\text{CaCO}_3$). $\\text{HCl}$ reacts with $\\text{CaCO}_3$ releasing $\\text{CO}_2$, which turns lime water milky.",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "$\\text{LiCl}$",
+        "is_correct": false,
+        "rationale": "Neutral salt; does not evolve $\\text{CO}_2$ from carbonate.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "$\\text{KCl}$",
+        "is_correct": false,
+        "rationale": "Neutral salt; unreactive toward calcium carbonate.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (B) $\\text{HCl}$\n\nScientific Principle / Key Concept:\nEgg-shells are calcium carbonate ($\\text{CaCO}_3$). $\\text{HCl}$ reacts with $\\text{CaCO}_3$ releasing $\\text{CO}_2$, which turns lime water milky.\n\nDetailed Distractor & Misconception Analysis:\n• Option (A): Incorrect. Neutral salt; does not react with egg-shells.\n• Option (C): Incorrect. Neutral salt; does not evolve $\\text{CO}_2$ from carbonate.\n• Option (D): Incorrect. Neutral salt; unreactive toward calcium carbonate.",
+    "step_by_step_solution": "Correct Answer: (B) $\\text{HCl}$\n\nScientific Principle / Key Concept:\nEgg-shells are calcium carbonate ($\\text{CaCO}_3$). $\\text{HCl}$ reacts with $\\text{CaCO}_3$ releasing $\\text{CO}_2$, which turns lime water milky.\n\nDetailed Distractor & Misconception Analysis:\n• Option (A): Incorrect. Neutral salt; does not react with egg-shells.\n• Option (C): Incorrect. Neutral salt; does not evolve $\\text{CO}_2$ from carbonate.\n• Option (D): Incorrect. Neutral salt; unreactive toward calcium carbonate.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "2"
+  },
+  {
+    "id": "sci_ch2_ex03",
+    "chapter": "Acids, Bases and Salts",
+    "section": "EXERCISES",
+    "question_number": "3",
+    "text": "$10\\text{ mL}$ of a solution of $\\text{NaOH}$ is completely neutralised by $8\\text{ mL}$ of a given solution of $\\text{HCl}$. If we take $20\\text{ mL}$ of the same solution of $\\text{NaOH}$, the amount of $\\text{HCl}$ solution required to neutralise it will be:",
+    "options": [
+      {
+        "id": "A",
+        "text": "$4\\text{ mL}$",
+        "is_correct": false,
+        "rationale": "Halving acid volume would only neutralize $5\\text{ mL}$ of base.",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "$8\\text{ mL}$",
+        "is_correct": false,
+        "rationale": "This amount only neutralizes $10\\text{ mL}$ of $\\text{NaOH}$.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "$12\\text{ mL}$",
+        "is_correct": false,
+        "rationale": "Neutralizes $15\\text{ mL}$ of $\\text{NaOH}$.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "$16\\text{ mL}$",
+        "is_correct": true,
+        "rationale": "Neutralisation stoichiometry is linear: $20\\text{ mL } \\text{NaOH} = 2 \\times 10\\text{ mL}$, requiring $2 \\times 8\\text{ mL} = 16\\text{ mL}$ of $\\text{HCl}$.",
+        "correct": true
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (D) $16\\text{ mL}$\n\nScientific Principle / Key Concept:\nNeutralisation stoichiometry is linear: $20\\text{ mL } \\text{NaOH} = 2 \\times 10\\text{ mL}$, requiring $2 \\times 8\\text{ mL} = 16\\text{ mL}$ of $\\text{HCl}$.\n\nDetailed Distractor & Misconception Analysis:\n• Option (A): Incorrect. Halving acid volume would only neutralize $5\\text{ mL}$ of base.\n• Option (B): Incorrect. This amount only neutralizes $10\\text{ mL}$ of $\\text{NaOH}$.\n• Option (C): Incorrect. Neutralizes $15\\text{ mL}$ of $\\text{NaOH}$.",
+    "step_by_step_solution": "Correct Answer: (D) $16\\text{ mL}$\n\nScientific Principle / Key Concept:\nNeutralisation stoichiometry is linear: $20\\text{ mL } \\text{NaOH} = 2 \\times 10\\text{ mL}$, requiring $2 \\times 8\\text{ mL} = 16\\text{ mL}$ of $\\text{HCl}$.\n\nDetailed Distractor & Misconception Analysis:\n• Option (A): Incorrect. Halving acid volume would only neutralize $5\\text{ mL}$ of base.\n• Option (B): Incorrect. This amount only neutralizes $10\\text{ mL}$ of $\\text{NaOH}$.\n• Option (C): Incorrect. Neutralizes $15\\text{ mL}$ of $\\text{NaOH}$.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "3"
+  },
+  {
+    "id": "sci_ch2_ex04",
+    "chapter": "Acids, Bases and Salts",
+    "section": "EXERCISES",
+    "question_number": "4",
+    "text": "Which one of the following types of medicines is used for treating indigestion?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Antibiotic",
+        "is_correct": false,
+        "rationale": "Used to treat bacterial infections, not stomach acidity.",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Analgesic",
+        "is_correct": false,
+        "rationale": "Used for pain relief.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Antacid",
+        "is_correct": true,
+        "rationale": "Indigestion is caused by excess gastric $\\text{HCl}$. Antacids are mild bases (e.g., milk of magnesia) that neutralize excess acid.",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Antiseptic",
+        "is_correct": false,
+        "rationale": "Used on living tissues to prevent microbial infection.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (C) Antacid\n\nScientific Principle / Key Concept:\nIndigestion is caused by excess gastric $\\text{HCl}$. Antacids are mild bases (e.g., milk of magnesia) that neutralize excess acid.\n\nDetailed Distractor & Misconception Analysis:\n• Option (A): Incorrect. Used to treat bacterial infections, not stomach acidity.\n• Option (B): Incorrect. Used for pain relief.\n• Option (D): Incorrect. Used on living tissues to prevent microbial infection.",
+    "step_by_step_solution": "Correct Answer: (C) Antacid\n\nScientific Principle / Key Concept:\nIndigestion is caused by excess gastric $\\text{HCl}$. Antacids are mild bases (e.g., milk of magnesia) that neutralize excess acid.\n\nDetailed Distractor & Misconception Analysis:\n• Option (A): Incorrect. Used to treat bacterial infections, not stomach acidity.\n• Option (B): Incorrect. Used for pain relief.\n• Option (D): Incorrect. Used on living tissues to prevent microbial infection.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "4"
+  },
+  {
+    "id": "sci_ch2_ex05_a",
+    "chapter": "Acids, Bases and Salts",
+    "section": "EXERCISES",
+    "question_number": "5(a)",
+    "text": "Write the balanced chemical equation for the reaction: Dilute sulphuric acid reacts with zinc granules.",
+    "options": [
+      {
+        "id": "A",
+        "text": "$\\text{Zn}(s) + \\text{H}_2\\text{SO}_4(aq) \\rightarrow \\text{ZnSO}_4(aq) + \\text{H}_2(g)$",
+        "is_correct": true,
+        "rationale": "Zinc displaces hydrogen from dilute sulphuric acid forming zinc sulphate and hydrogen gas.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "$\\text{Zn}(s) + \\text{H}_2\\text{SO}_4(aq) \\rightarrow \\text{ZnO}(s) + \\text{SO}_2(g) + \\text{H}_2\\text{O}(l)$",
+        "is_correct": false,
+        "rationale": "This requires hot concentrated sulphuric acid, not dilute.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "$2\\text{Zn}(s) + \\text{H}_2\\text{SO}_4(aq) \\rightarrow \\text{Zn}_2\\text{SO}_4(aq) + \\text{H}_2(g)$",
+        "is_correct": false,
+        "rationale": "Zinc valency is $+2$; $\\text{Zn}_2\\text{SO}_4$ is an incorrect formula.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "$\\text{Zn}(s) + 2\\text{H}_2\\text{SO}_4(aq) \\rightarrow \\text{Zn(HSO}_4)_2(aq) + \\text{H}_2(g)$",
+        "is_correct": false,
+        "rationale": "Standard reaction yields neutral sulphate, not bisulphate.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) $\\text{Zn}(s) + \\text{H}_2\\text{SO}_4(aq) \\rightarrow \\text{ZnSO}_4(aq) + \\text{H}_2(g)$\n\nScientific Principle / Key Concept:\nZinc displaces hydrogen from dilute sulphuric acid forming zinc sulphate and hydrogen gas.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. This requires hot concentrated sulphuric acid, not dilute.\n• Option (C): Incorrect. Zinc valency is $+2$; $\\text{Zn}_2\\text{SO}_4$ is an incorrect formula.\n• Option (D): Incorrect. Standard reaction yields neutral sulphate, not bisulphate.",
+    "step_by_step_solution": "Correct Answer: (A) $\\text{Zn}(s) + \\text{H}_2\\text{SO}_4(aq) \\rightarrow \\text{ZnSO}_4(aq) + \\text{H}_2(g)$\n\nScientific Principle / Key Concept:\nZinc displaces hydrogen from dilute sulphuric acid forming zinc sulphate and hydrogen gas.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. This requires hot concentrated sulphuric acid, not dilute.\n• Option (C): Incorrect. Zinc valency is $+2$; $\\text{Zn}_2\\text{SO}_4$ is an incorrect formula.\n• Option (D): Incorrect. Standard reaction yields neutral sulphate, not bisulphate.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "5(a)"
+  },
+  {
+    "id": "sci_ch2_ex05_b",
+    "chapter": "Acids, Bases and Salts",
+    "section": "EXERCISES",
+    "question_number": "5(b)",
+    "text": "Write the balanced chemical equation for the reaction: Dilute hydrochloric acid reacts with magnesium ribbon.",
+    "options": [
+      {
+        "id": "A",
+        "text": "$\\text{Mg}(s) + 2\\text{HCl}(aq) \\rightarrow \\text{MgCl}_2(aq) + \\text{H}_2(g)$",
+        "is_correct": true,
+        "rationale": "Magnesium reacts vigorously with dilute hydrochloric acid producing magnesium chloride and hydrogen gas.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "$\\text{Mg}(s) + \\text{HCl}(aq) \\rightarrow \\text{MgCl}(aq) + \\text{H}(g)$",
+        "is_correct": false,
+        "rationale": "Magnesium is divalent ($\text{MgCl}_2$) and hydrogen is diatomic ($\text{H}_2$).",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "$\\text{Mg}(s) + 2\\text{HCl}(aq) \\rightarrow \\text{MgCl}_2(aq) + 2\\text{H}_2(g)$",
+        "is_correct": false,
+        "rationale": "Hydrogen atoms are unbalanced.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "$2\\text{Mg}(s) + 2\\text{HCl}(aq) \\rightarrow 2\\text{MgCl}(aq) + \\text{H}_2(g)$",
+        "is_correct": false,
+        "rationale": "Formula $\\text{MgCl}$ is incorrect.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) $\\text{Mg}(s) + 2\\text{HCl}(aq) \\rightarrow \\text{MgCl}_2(aq) + \\text{H}_2(g)$\n\nScientific Principle / Key Concept:\nMagnesium reacts vigorously with dilute hydrochloric acid producing magnesium chloride and hydrogen gas.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Magnesium is divalent ($\text{MgCl}_2$) and hydrogen is diatomic ($\text{H}_2$).\n• Option (C): Incorrect. Hydrogen atoms are unbalanced.\n• Option (D): Incorrect. Formula $\\text{MgCl}$ is incorrect.",
+    "step_by_step_solution": "Correct Answer: (A) $\\text{Mg}(s) + 2\\text{HCl}(aq) \\rightarrow \\text{MgCl}_2(aq) + \\text{H}_2(g)$\n\nScientific Principle / Key Concept:\nMagnesium reacts vigorously with dilute hydrochloric acid producing magnesium chloride and hydrogen gas.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Magnesium is divalent ($\text{MgCl}_2$) and hydrogen is diatomic ($\text{H}_2$).\n• Option (C): Incorrect. Hydrogen atoms are unbalanced.\n• Option (D): Incorrect. Formula $\\text{MgCl}$ is incorrect.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "5(b)"
+  },
+  {
+    "id": "sci_ch2_ex05_c",
+    "chapter": "Acids, Bases and Salts",
+    "section": "EXERCISES",
+    "question_number": "5(c)",
+    "text": "Write the balanced chemical equation for the reaction: Dilute sulphuric acid reacts with aluminium powder.",
+    "options": [
+      {
+        "id": "A",
+        "text": "$2\\text{Al}(s) + 3\\text{H}_2\\text{SO}_4(aq) \\rightarrow \\text{Al}_2(\\text{SO}_4)_3(aq) + 3\\text{H}_2(g)$",
+        "is_correct": true,
+        "rationale": "Two moles of trivalent aluminium react with three moles of sulphuric acid to produce aluminium sulphate and three moles of hydrogen.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "$\\text{Al}(s) + \\text{H}_2\\text{SO}_4(aq) \\rightarrow \\text{AlSO}_4(aq) + \\text{H}_2(g)$",
+        "is_correct": false,
+        "rationale": "$\\text{AlSO}_4$ violates aluminium $+3$ valency.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "$2\\text{Al}(s) + \\text{H}_2\\text{SO}_4(aq) \\rightarrow \\text{Al}_2\\text{SO}_4(aq) + \\text{H}_2(g)$",
+        "is_correct": false,
+        "rationale": "Incorrect chemical formula and unbalanced atoms.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "$\\text{Al}(s) + 3\\text{H}_2\\text{SO}_4(aq) \\rightarrow \\text{Al(SO}_4)_3(aq) + 3\\text{H}_2(g)$",
+        "is_correct": false,
+        "rationale": "Formula $\\text{Al(SO}_4)_3$ is chemically invalid.",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) $2\\text{Al}(s) + 3\\text{H}_2\\text{SO}_4(aq) \\rightarrow \\text{Al}_2(\\text{SO}_4)_3(aq) + 3\\text{H}_2(g)$\n\nScientific Principle / Key Concept:\nTwo moles of trivalent aluminium react with three moles of sulphuric acid to produce aluminium sulphate and three moles of hydrogen.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. $\\text{AlSO}_4$ violates aluminium $+3$ valency.\n• Option (C): Incorrect. Incorrect chemical formula and unbalanced atoms.\n• Option (D): Incorrect. Formula $\\text{Al(SO}_4)_3$ is chemically invalid.",
+    "step_by_step_solution": "Correct Answer: (A) $2\\text{Al}(s) + 3\\text{H}_2\\text{SO}_4(aq) \\rightarrow \\text{Al}_2(\\text{SO}_4)_3(aq) + 3\\text{H}_2(g)$\n\nScientific Principle / Key Concept:\nTwo moles of trivalent aluminium react with three moles of sulphuric acid to produce aluminium sulphate and three moles of hydrogen.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. $\\text{AlSO}_4$ violates aluminium $+3$ valency.\n• Option (C): Incorrect. Incorrect chemical formula and unbalanced atoms.\n• Option (D): Incorrect. Formula $\\text{Al(SO}_4)_3$ is chemically invalid.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "5(c)"
+  },
+  {
+    "id": "sci_ch2_ex05_d",
+    "chapter": "Acids, Bases and Salts",
+    "section": "EXERCISES",
+    "question_number": "5(d)",
+    "text": "Write the balanced chemical equation for the reaction: Dilute hydrochloric acid reacts with iron filings.",
+    "options": [
+      {
+        "id": "A",
+        "text": "$\\text{Fe}(s) + 2\\text{HCl}(aq) \\rightarrow \\text{FeCl}_2(aq) + \\text{H}_2(g)$",
+        "is_correct": true,
+        "rationale": "Reaction of iron with dilute hydrochloric acid forms ferrous chloride (iron(II) chloride) and hydrogen gas.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "$2\\text{Fe}(s) + 6\\text{HCl}(aq) \\rightarrow 2\\text{FeCl}_3(aq) + 3\\text{H}_2(g)$",
+        "is_correct": false,
+        "rationale": "Dilute $\\text{HCl}$ yields iron(II) chloride, not iron(III) chloride.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "$\\text{Fe}(s) + \\text{HCl}(aq) \\rightarrow \\text{FeCl}(aq) + \\text{H}(g)$",
+        "is_correct": false,
+        "rationale": "Monoatomic hydrogen and $\\text{FeCl}$ are chemically incorrect.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "$\\text{Fe}(s) + 4\\text{HCl}(aq) \\rightarrow \\text{FeCl}_4(aq) + 2\\text{H}_2(g)$",
+        "is_correct": false,
+        "rationale": "$\\text{FeCl}_4$ does not form in standard aqueous displacement.",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) $\\text{Fe}(s) + 2\\text{HCl}(aq) \\rightarrow \\text{FeCl}_2(aq) + \\text{H}_2(g)$\n\nScientific Principle / Key Concept:\nReaction of iron with dilute hydrochloric acid forms ferrous chloride (iron(II) chloride) and hydrogen gas.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Dilute $\\text{HCl}$ yields iron(II) chloride, not iron(III) chloride.\n• Option (C): Incorrect. Monoatomic hydrogen and $\\text{FeCl}$ are chemically incorrect.\n• Option (D): Incorrect. $\\text{FeCl}_4$ does not form in standard aqueous displacement.",
+    "step_by_step_solution": "Correct Answer: (A) $\\text{Fe}(s) + 2\\text{HCl}(aq) \\rightarrow \\text{FeCl}_2(aq) + \\text{H}_2(g)$\n\nScientific Principle / Key Concept:\nReaction of iron with dilute hydrochloric acid forms ferrous chloride (iron(II) chloride) and hydrogen gas.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Dilute $\\text{HCl}$ yields iron(II) chloride, not iron(III) chloride.\n• Option (C): Incorrect. Monoatomic hydrogen and $\\text{FeCl}$ are chemically incorrect.\n• Option (D): Incorrect. $\\text{FeCl}_4$ does not form in standard aqueous displacement.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "5(d)"
+  },
+  {
+    "id": "sci_ch2_ex07",
+    "chapter": "Acids, Bases and Salts",
+    "section": "EXERCISES",
+    "question_number": "7",
+    "text": "Why does distilled water not conduct electricity, whereas rain water does?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Distilled water is pure and devoid of ionic species, whereas rain water dissolves atmospheric gases like $\\text{CO}_2$ and $\\text{SO}_2$ forming conducting ions like $\\text{H}^+$ and $\\text{CO}_3^{2-}$.",
+        "is_correct": true,
+        "rationale": "Electrical conduction requires mobile ions. Distilled water contains virtually no free ions, while rain water forms weak acids (e.g., $\\text{H}_2\\text{CO}_3$) providing free ions.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Distilled water contains excessive oil molecules that insulate against current.",
+        "is_correct": false,
+        "rationale": "Distilled water is pure water without oils.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Rain water contains free copper electrons transferred from clouds.",
+        "is_correct": false,
+        "rationale": "Conduction in rain water is ionic, not metallic copper conduction.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Distilled water is frozen at molecular levels, preventing current flow.",
+        "is_correct": false,
+        "rationale": "Liquid distilled water is not frozen.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Distilled water is pure and devoid of ionic species, whereas rain water dissolves atmospheric gases like $\\text{CO}_2$ and $\\text{SO}_2$ forming conducting ions like $\\text{H}^+$ and $\\text{CO}_3^{2-}$.\n\nScientific Principle / Key Concept:\nElectrical conduction requires mobile ions. Distilled water contains virtually no free ions, while rain water forms weak acids (e.g., $\\text{H}_2\\text{CO}_3$) providing free ions.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Distilled water is pure water without oils.\n• Option (C): Incorrect. Conduction in rain water is ionic, not metallic copper conduction.\n• Option (D): Incorrect. Liquid distilled water is not frozen.",
+    "step_by_step_solution": "Correct Answer: (A) Distilled water is pure and devoid of ionic species, whereas rain water dissolves atmospheric gases like $\\text{CO}_2$ and $\\text{SO}_2$ forming conducting ions like $\\text{H}^+$ and $\\text{CO}_3^{2-}$.\n\nScientific Principle / Key Concept:\nElectrical conduction requires mobile ions. Distilled water contains virtually no free ions, while rain water forms weak acids (e.g., $\\text{H}_2\\text{CO}_3$) providing free ions.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Distilled water is pure water without oils.\n• Option (C): Incorrect. Conduction in rain water is ionic, not metallic copper conduction.\n• Option (D): Incorrect. Liquid distilled water is not frozen.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "7"
+  },
+  {
+    "id": "sci_ch2_ex08",
+    "chapter": "Acids, Bases and Salts",
+    "section": "EXERCISES",
+    "question_number": "8",
+    "text": "Why do acids not show acidic behaviour in the absence of water?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dissociation of acid molecules into hydrogen ions ($\\text{H}^+$) occurs strictly in the presence of water, as water stabilizes $\\text{H}^+$ as hydronium ($\\text{H}_3\\text{O}^+$).",
+        "is_correct": true,
+        "rationale": "Protons cannot exist independently; they must coordinate with water to form $\\text{H}_3\\text{O}^+$. Without water, no ionization occurs.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "In the absence of water, acids freeze solid and turn into alkaline hydroxides.",
+        "is_correct": false,
+        "rationale": "Acids do not turn into alkaline hydroxides.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Water acts as a fuel that burns acid molecules into acidic fumes.",
+        "is_correct": false,
+        "rationale": "Acid behavior is ionic, not combustion-driven.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Dry acid molecules are blocked by atmospheric nitrogen from changing litmus.",
+        "is_correct": false,
+        "rationale": "Nitrogen does not chemically block acid ionization.",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) Dissociation of acid molecules into hydrogen ions ($\\text{H}^+$) occurs strictly in the presence of water, as water stabilizes $\\text{H}^+$ as hydronium ($\\text{H}_3\\text{O}^+$).\n\nScientific Principle / Key Concept:\nProtons cannot exist independently; they must coordinate with water to form $\\text{H}_3\\text{O}^+$. Without water, no ionization occurs.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Acids do not turn into alkaline hydroxides.\n• Option (C): Incorrect. Acid behavior is ionic, not combustion-driven.\n• Option (D): Incorrect. Nitrogen does not chemically block acid ionization.",
+    "step_by_step_solution": "Correct Answer: (A) Dissociation of acid molecules into hydrogen ions ($\\text{H}^+$) occurs strictly in the presence of water, as water stabilizes $\\text{H}^+$ as hydronium ($\\text{H}_3\\text{O}^+$).\n\nScientific Principle / Key Concept:\nProtons cannot exist independently; they must coordinate with water to form $\\text{H}_3\\text{O}^+$. Without water, no ionization occurs.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Acids do not turn into alkaline hydroxides.\n• Option (C): Incorrect. Acid behavior is ionic, not combustion-driven.\n• Option (D): Incorrect. Nitrogen does not chemically block acid ionization.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "8"
+  },
+  {
+    "id": "sci_ch2_ex09",
+    "chapter": "Acids, Bases and Salts",
+    "section": "EXERCISES",
+    "question_number": "9",
+    "text": "Five solutions A, B, C, D and E tested with universal indicator showed pH values 4, 1, 11, 7 and 9 respectively. Which solution is neutral and which is strongly acidic?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Solution D (pH 7) is neutral; Solution B (pH 1) is strongly acidic.",
+        "is_correct": true,
+        "rationale": "pH 7 indicates a neutral solution (D). The lowest pH value (1) denotes the highest $[\text{H}^+]$ concentration, which is strongly acidic (B).",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Solution C (pH 11) is neutral; Solution A (pH 4) is strongly acidic.",
+        "is_correct": false,
+        "rationale": "pH 11 is strongly alkaline, not neutral.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Solution D (pH 7) is strongly alkaline; Solution E (pH 9) is neutral.",
+        "is_correct": false,
+        "rationale": "pH 7 is neutral; pH 9 is weakly alkaline.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Solution B (pH 1) is neutral; Solution D (pH 7) is strongly acidic.",
+        "is_correct": false,
+        "rationale": "Inverted logic; pH 1 is strongly acidic.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Solution D (pH 7) is neutral; Solution B (pH 1) is strongly acidic.\n\nScientific Principle / Key Concept:\npH 7 indicates a neutral solution (D). The lowest pH value (1) denotes the highest $[\text{H}^+]$ concentration, which is strongly acidic (B).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. pH 11 is strongly alkaline, not neutral.\n• Option (C): Incorrect. pH 7 is neutral; pH 9 is weakly alkaline.\n• Option (D): Incorrect. Inverted logic; pH 1 is strongly acidic.",
+    "step_by_step_solution": "Correct Answer: (A) Solution D (pH 7) is neutral; Solution B (pH 1) is strongly acidic.\n\nScientific Principle / Key Concept:\npH 7 indicates a neutral solution (D). The lowest pH value (1) denotes the highest $[\text{H}^+]$ concentration, which is strongly acidic (B).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. pH 11 is strongly alkaline, not neutral.\n• Option (C): Incorrect. pH 7 is neutral; pH 9 is weakly alkaline.\n• Option (D): Incorrect. Inverted logic; pH 1 is strongly acidic.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "9"
+  },
+  {
+    "id": "sci_ch2_ex10",
+    "chapter": "Acids, Bases and Salts",
+    "section": "EXERCISES",
+    "question_number": "10",
+    "text": "Equal lengths of magnesium ribbons are placed in test tubes A (with $\\text{HCl}$) and B (with $\\text{CH}_3\\text{COOH}$). In which test tube will fizzing occur more vigorously and why?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Test tube A; $\\text{HCl}$ is a strong acid that completely ionizes, producing a much higher $[\\text{H}^+]$ concentration than weak $\\text{CH}_3\\text{COOH}$.",
+        "is_correct": true,
+        "rationale": "Higher $[\text{H}^+]$ in strong acid $\\text{HCl}$ leads to a faster reaction rate with magnesium ribbon, evolving $\\text{H}_2$ gas much more vigorously.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Test tube B; acetic acid is an organic acid containing more carbon atoms which accelerate fizzing.",
+        "is_correct": false,
+        "rationale": "Acetic acid is a weak acid with lower $[\text{H}^+]$, reacting much more slowly.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Both test tubes will fizz at identical rates because equal lengths of magnesium were used.",
+        "is_correct": false,
+        "rationale": "Reaction rate depends heavily on the concentration of $\\text{H}^+$ ions.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Test tube B; acetic acid dissolves the glass test tube to produce excess gas.",
+        "is_correct": false,
+        "rationale": "Acetic acid does not dissolve laboratory borosilicate glass.",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) Test tube A; $\\text{HCl}$ is a strong acid that completely ionizes, producing a much higher $[\\text{H}^+]$ concentration than weak $\\text{CH}_3\\text{COOH}$.\n\nScientific Principle / Key Concept:\nHigher $[\text{H}^+]$ in strong acid $\\text{HCl}$ leads to a faster reaction rate with magnesium ribbon, evolving $\\text{H}_2$ gas much more vigorously.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Acetic acid is a weak acid with lower $[\text{H}^+]$, reacting much more slowly.\n• Option (C): Incorrect. Reaction rate depends heavily on the concentration of $\\text{H}^+$ ions.\n• Option (D): Incorrect. Acetic acid does not dissolve laboratory borosilicate glass.",
+    "step_by_step_solution": "Correct Answer: (A) Test tube A; $\\text{HCl}$ is a strong acid that completely ionizes, producing a much higher $[\\text{H}^+]$ concentration than weak $\\text{CH}_3\\text{COOH}$.\n\nScientific Principle / Key Concept:\nHigher $[\text{H}^+]$ in strong acid $\\text{HCl}$ leads to a faster reaction rate with magnesium ribbon, evolving $\\text{H}_2$ gas much more vigorously.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Acetic acid is a weak acid with lower $[\text{H}^+]$, reacting much more slowly.\n• Option (C): Incorrect. Reaction rate depends heavily on the concentration of $\\text{H}^+$ ions.\n• Option (D): Incorrect. Acetic acid does not dissolve laboratory borosilicate glass.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "10"
+  },
+  {
+    "id": "sci_ch2_ex11",
+    "chapter": "Acids, Bases and Salts",
+    "section": "EXERCISES",
+    "question_number": "11",
+    "text": "Fresh milk has a pH of 6. How will its pH change as it turns into curd, and why?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Its pH decreases below 6 because bacteria convert lactose into lactic acid, which increases $[\\text{H}^+]$.",
+        "is_correct": true,
+        "rationale": "Lactobacillus bacteria ferment lactose sugar into lactic acid. Acid formation increases $[\text{H}^+]$ and decreases the pH below 6.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Its pH increases above 10 because curd is strongly alkaline.",
+        "is_correct": false,
+        "rationale": "Curd is sour and acidic, not alkaline.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Its pH remains fixed at exactly 6 because milk fats buffer against all acid changes.",
+        "is_correct": false,
+        "rationale": "pH drops significantly as lactic acid builds up.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Its pH fluctuates between 0 and 14 every minute.",
+        "is_correct": false,
+        "rationale": "The pH drop is steady and irreversible under normal conditions.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Its pH decreases below 6 because bacteria convert lactose into lactic acid, which increases $[\\text{H}^+]$.\n\nScientific Principle / Key Concept:\nLactobacillus bacteria ferment lactose sugar into lactic acid. Acid formation increases $[\text{H}^+]$ and decreases the pH below 6.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Curd is sour and acidic, not alkaline.\n• Option (C): Incorrect. pH drops significantly as lactic acid builds up.\n• Option (D): Incorrect. The pH drop is steady and irreversible under normal conditions.",
+    "step_by_step_solution": "Correct Answer: (A) Its pH decreases below 6 because bacteria convert lactose into lactic acid, which increases $[\\text{H}^+]$.\n\nScientific Principle / Key Concept:\nLactobacillus bacteria ferment lactose sugar into lactic acid. Acid formation increases $[\text{H}^+]$ and decreases the pH below 6.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Curd is sour and acidic, not alkaline.\n• Option (C): Incorrect. pH drops significantly as lactic acid builds up.\n• Option (D): Incorrect. The pH drop is steady and irreversible under normal conditions.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "11"
+  },
+  {
+    "id": "sci_ch2_ex12_a",
+    "chapter": "Acids, Bases and Salts",
+    "section": "EXERCISES",
+    "question_number": "12(a)",
+    "text": "A milkman adds a very small amount of baking soda to fresh milk. Why does he shift the pH from 6 to slightly alkaline?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To prevent the milk from turning sour quickly, as alkaline milk takes longer to reach the acidic curdling threshold.",
+        "is_correct": true,
+        "rationale": "Making milk slightly alkaline neutralizes initial lactic acid, preserving freshness during transport in warm weather.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "To make the milk sweeter and carbonated like a fizzy soft drink.",
+        "is_correct": false,
+        "rationale": "The trace amount does not sweeten or carbonate milk for beverage flavor.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "To bleach the natural yellow tint of milk into pure bright white.",
+        "is_correct": false,
+        "rationale": "Baking soda is a mild alkali, not a bleaching agent.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "To increase the boiling point of milk above $300^\\circ\\text{C}$.",
+        "is_correct": false,
+        "rationale": "Boiling point elevation by trace solute is negligible.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) To prevent the milk from turning sour quickly, as alkaline milk takes longer to reach the acidic curdling threshold.\n\nScientific Principle / Key Concept:\nMaking milk slightly alkaline neutralizes initial lactic acid, preserving freshness during transport in warm weather.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. The trace amount does not sweeten or carbonate milk for beverage flavor.\n• Option (C): Incorrect. Baking soda is a mild alkali, not a bleaching agent.\n• Option (D): Incorrect. Boiling point elevation by trace solute is negligible.",
+    "step_by_step_solution": "Correct Answer: (A) To prevent the milk from turning sour quickly, as alkaline milk takes longer to reach the acidic curdling threshold.\n\nScientific Principle / Key Concept:\nMaking milk slightly alkaline neutralizes initial lactic acid, preserving freshness during transport in warm weather.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. The trace amount does not sweeten or carbonate milk for beverage flavor.\n• Option (C): Incorrect. Baking soda is a mild alkali, not a bleaching agent.\n• Option (D): Incorrect. Boiling point elevation by trace solute is negligible.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "12(a)"
+  },
+  {
+    "id": "sci_ch2_ex12_b",
+    "chapter": "Acids, Bases and Salts",
+    "section": "EXERCISES",
+    "question_number": "12(b)",
+    "text": "Why does this milk (with added baking soda) take a much longer time to set as curd?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The lactic acid produced by bacteria must first neutralize the added alkaline baking soda before the pH can drop enough to curdle proteins.",
+        "is_correct": true,
+        "rationale": "Milk coagulates into curd at an acidic pH. The added $\\text{NaHCO}_3$ buffers against acid, requiring extra time for sufficient lactic acid to accumulate.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Baking soda permanently kills all lactic acid bacteria in the milk.",
+        "is_correct": false,
+        "rationale": "Trace baking soda does not sterilize milk; bacteria continue to grow.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Baking soda turns milk into a solid crystal that cannot coagulate.",
+        "is_correct": false,
+        "rationale": "Milk remains liquid until acidification causes casein precipitation.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Baking soda converts milk proteins into gaseous carbon dioxide.",
+        "is_correct": false,
+        "rationale": "Proteins are not converted into gas.",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) The lactic acid produced by bacteria must first neutralize the added alkaline baking soda before the pH can drop enough to curdle proteins.\n\nScientific Principle / Key Concept:\nMilk coagulates into curd at an acidic pH. The added $\\text{NaHCO}_3$ buffers against acid, requiring extra time for sufficient lactic acid to accumulate.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Trace baking soda does not sterilize milk; bacteria continue to grow.\n• Option (C): Incorrect. Milk remains liquid until acidification causes casein precipitation.\n• Option (D): Incorrect. Proteins are not converted into gas.",
+    "step_by_step_solution": "Correct Answer: (A) The lactic acid produced by bacteria must first neutralize the added alkaline baking soda before the pH can drop enough to curdle proteins.\n\nScientific Principle / Key Concept:\nMilk coagulates into curd at an acidic pH. The added $\\text{NaHCO}_3$ buffers against acid, requiring extra time for sufficient lactic acid to accumulate.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Trace baking soda does not sterilize milk; bacteria continue to grow.\n• Option (C): Incorrect. Milk remains liquid until acidification causes casein precipitation.\n• Option (D): Incorrect. Proteins are not converted into gas.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "12(b)"
+  },
+  {
+    "id": "sci_ch2_ex13",
+    "chapter": "Acids, Bases and Salts",
+    "section": "EXERCISES",
+    "question_number": "13",
+    "text": "Why should Plaster of Paris be stored in a moisture-proof container?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Because it readily absorbs atmospheric moisture to set into hard, unusable gypsum mass.",
+        "is_correct": true,
+        "rationale": "$\\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O} + 1\\frac{1}{2}\\text{H}_2\\text{O} \\rightarrow \\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O}$ (gypsum). Exposure to moisture causes it to harden and lose its setting property.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Because moisture causes Plaster of Paris to ignite into an explosive flame.",
+        "is_correct": false,
+        "rationale": "Hydration is mildly exothermic, not flammable or explosive.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Because moisture evaporates Plaster of Paris into toxic gaseous sulphur.",
+        "is_correct": false,
+        "rationale": "It hydrates to solid gypsum; no toxic gas is released.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Because water molecules chemically dissolve gypsum into liquid metallic calcium.",
+        "is_correct": false,
+        "rationale": "Calcium metal is never produced by water exposure.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Because it readily absorbs atmospheric moisture to set into hard, unusable gypsum mass.\n\nScientific Principle / Key Concept:\n$\\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O} + 1\\frac{1}{2}\\text{H}_2\\text{O} \\rightarrow \\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O}$ (gypsum). Exposure to moisture causes it to harden and lose its setting property.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Hydration is mildly exothermic, not flammable or explosive.\n• Option (C): Incorrect. It hydrates to solid gypsum; no toxic gas is released.\n• Option (D): Incorrect. Calcium metal is never produced by water exposure.",
+    "step_by_step_solution": "Correct Answer: (A) Because it readily absorbs atmospheric moisture to set into hard, unusable gypsum mass.\n\nScientific Principle / Key Concept:\n$\\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O} + 1\\frac{1}{2}\\text{H}_2\\text{O} \\rightarrow \\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O}$ (gypsum). Exposure to moisture causes it to harden and lose its setting property.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Hydration is mildly exothermic, not flammable or explosive.\n• Option (C): Incorrect. It hydrates to solid gypsum; no toxic gas is released.\n• Option (D): Incorrect. Calcium metal is never produced by water exposure.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "13"
+  },
+  {
+    "id": "sci_ch2_ex14",
+    "chapter": "Acids, Bases and Salts",
+    "section": "EXERCISES",
+    "question_number": "14",
+    "text": "What is a neutralisation reaction, and which equation correctly illustrates it?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reaction between an acid and a base to form salt and water: $\\text{NaOH}(aq) + \\text{HCl}(aq) \\rightarrow \\text{NaCl}(aq) + \\text{H}_2\\text{O}(l)$",
+        "is_correct": true,
+        "rationale": "$\\text{H}^+(aq) + \\text{OH}^-(aq) \\rightarrow \\text{H}_2\\text{O}(l)$. The acid and base neutralize each other's properties to produce neutral salt and water.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Reaction between two metals to form an alloy: $\\text{Cu} + \\text{Zn} \\rightarrow \\text{Brass}$",
+        "is_correct": false,
+        "rationale": "Alloy formation is a physical mixture, not an acid-base neutralisation.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Decomposition of water by electricity: $2\\text{H}_2\\text{O} \\rightarrow 2\\text{H}_2 + \\text{O}_2$",
+        "is_correct": false,
+        "rationale": "This is electrolytic decomposition.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Combustion of charcoal in oxygen: $\\text{C} + \\text{O}_2 \\rightarrow \\text{CO}_2$",
+        "is_correct": false,
+        "rationale": "This is oxidation/combustion.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Reaction between an acid and a base to form salt and water: $\\text{NaOH}(aq) + \\text{HCl}(aq) \\rightarrow \\text{NaCl}(aq) + \\text{H}_2\\text{O}(l)$\n\nScientific Principle / Key Concept:\n$\\text{H}^+(aq) + \\text{OH}^-(aq) \\rightarrow \\text{H}_2\\text{O}(l)$. The acid and base neutralize each other's properties to produce neutral salt and water.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Alloy formation is a physical mixture, not an acid-base neutralisation.\n• Option (C): Incorrect. This is electrolytic decomposition.\n• Option (D): Incorrect. This is oxidation/combustion.",
+    "step_by_step_solution": "Correct Answer: (A) Reaction between an acid and a base to form salt and water: $\\text{NaOH}(aq) + \\text{HCl}(aq) \\rightarrow \\text{NaCl}(aq) + \\text{H}_2\\text{O}(l)$\n\nScientific Principle / Key Concept:\n$\\text{H}^+(aq) + \\text{OH}^-(aq) \\rightarrow \\text{H}_2\\text{O}(l)$. The acid and base neutralize each other's properties to produce neutral salt and water.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Alloy formation is a physical mixture, not an acid-base neutralisation.\n• Option (C): Incorrect. This is electrolytic decomposition.\n• Option (D): Incorrect. This is oxidation/combustion.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "14"
+  },
+  {
+    "id": "sci_ch2_ex15",
+    "chapter": "Acids, Bases and Salts",
+    "section": "EXERCISES",
+    "question_number": "15",
+    "text": "Which pair correctly pairs important industrial/domestic uses of washing soda and baking soda?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Washing soda: glass and soap manufacture; Baking soda: constituent of baking powder and fire extinguishers",
+        "is_correct": true,
+        "rationale": "$\\text{Na}_2\\text{CO}_3$ is used in glass, soap, paper industries and water softening; $\\text{NaHCO}_3$ is used in baking powder, antacids, and soda-acid extinguishers.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Washing soda: dental anesthesia; Baking soda: airplane jet fuel",
+        "is_correct": false,
+        "rationale": "Neither compound serves as aircraft propellant or anesthetic.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Washing soda: direct consumption as food condiment; Baking soda: industrial metal welding",
+        "is_correct": false,
+        "rationale": "Washing soda is caustic and toxic if ingested.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Washing soda: synthesis of radioactive isotopes; Baking soda: motor vehicle engine coolant",
+        "is_correct": false,
+        "rationale": "Fictitious uses unrelated to chemical properties.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Washing soda: glass and soap manufacture; Baking soda: constituent of baking powder and fire extinguishers\n\nScientific Principle / Key Concept:\n$\\text{Na}_2\\text{CO}_3$ is used in glass, soap, paper industries and water softening; $\\text{NaHCO}_3$ is used in baking powder, antacids, and soda-acid extinguishers.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Neither compound serves as aircraft propellant or anesthetic.\n• Option (C): Incorrect. Washing soda is caustic and toxic if ingested.\n• Option (D): Incorrect. Fictitious uses unrelated to chemical properties.",
+    "step_by_step_solution": "Correct Answer: (A) Washing soda: glass and soap manufacture; Baking soda: constituent of baking powder and fire extinguishers\n\nScientific Principle / Key Concept:\n$\\text{Na}_2\\text{CO}_3$ is used in glass, soap, paper industries and water softening; $\\text{NaHCO}_3$ is used in baking powder, antacids, and soda-acid extinguishers.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Neither compound serves as aircraft propellant or anesthetic.\n• Option (C): Incorrect. Washing soda is caustic and toxic if ingested.\n• Option (D): Incorrect. Fictitious uses unrelated to chemical properties.",
+    "subject": "science",
+    "chapterId": "sci_ch_02_acids_bases_salts",
+    "exercise": "Exercises (Pages 34-36)",
+    "questionNumber": "15"
+  }
+]

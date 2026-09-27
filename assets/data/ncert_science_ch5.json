@@ -1,0 +1,1366 @@
+[
+  {
+    "id": "sci_ch5_p81_q01",
+    "chapter": "Periodic Classification of Elements",
+    "section": "QUESTIONS (Page 81)",
+    "question_number": "1",
+    "text": "Did Döbereiner's triads also exist in the columns of Newlands' Octaves?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Yes, for example, the triad of Lithium ($\\text{Li}$), Sodium ($\\text{Na}$), and Potassium ($\\text{K}$) is present in the second column of Newlands' Octaves.",
+        "is_correct": true,
+        "rationale": "In Newlands' Octaves, under the second musical note ('re'), Lithium, Sodium, and Potassium appear in the exact same vertical column, which corresponds precisely to Döbereiner's alkali metal triad.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "No, Newlands' Octaves completely separated all three alkali metals into different periods with no vertical alignment.",
+        "is_correct": false,
+        "rationale": "Newlands placed $\\text{Li}, \\text{Na}, \\text{K}$ in the same column because sodium is the eighth element after lithium, and potassium is the eighth after sodium.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Yes, all known elements in Newlands' table formed perfect triads of three elements each.",
+        "is_correct": false,
+        "rationale": "Only the $\\text{Li-Na-K}$ triad aligned cleanly; other triads like $\\text{Ca-Sr-Ba}$ or $\\text{Cl-Br-I}$ were split or mismatched in Newlands' scheme.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "No, Döbereiner classified only gases whereas Newlands classified only radioactive metals.",
+        "is_correct": false,
+        "rationale": "Both scientists classified the same known chemical elements (solid metals, non-metals, and halogens).",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) Yes, for example, the triad of Lithium ($\\text{Li}$), Sodium ($\\text{Na}$), and Potassium ($\\text{K}$) is present in the second column of Newlands' Octaves.\n\nScientific Principle / Key Concept:\nComparing Döbereiner's triads and Newlands' table:\n• Döbereiner identified the triad: $\\text{Li}$ (atomic mass 6.9), $\\text{Na}$ (23.0), and $\\text{K}$ (39.0).\n• In Newlands' Law of Octaves, under note 're', we find the column containing $\\text{Li}$, followed by $\\text{Na}$ as the 8th element, followed by $\\text{K}$ as the next 8th element.\nHence, Döbereiner's alkali metal triad did indeed exist in Newlands' Octaves.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. They are in the same vertical column.\n• Option (C): Incorrect. Most other triads did not fit simultaneously.\n• Option (D): Incorrect historical facts.",
+    "step_by_step_solution": "Correct Answer: (A) Yes, for example, the triad of Lithium ($\\text{Li}$), Sodium ($\\text{Na}$), and Potassium ($\\text{K}$) is present in the second column of Newlands' Octaves.\n\nScientific Principle / Key Concept:\nComparing Döbereiner's triads and Newlands' table:\n• Döbereiner identified the triad: $\\text{Li}$ (atomic mass 6.9), $\\text{Na}$ (23.0), and $\\text{K}$ (39.0).\n• In Newlands' Law of Octaves, under note 're', we find the column containing $\\text{Li}$, followed by $\\text{Na}$ as the 8th element, followed by $\\text{K}$ as the next 8th element.\nHence, Döbereiner's alkali metal triad did indeed exist in Newlands' Octaves.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. They are in the same vertical column.\n• Option (C): Incorrect. Most other triads did not fit simultaneously.\n• Option (D): Incorrect historical facts.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "In-Text (Page 81)",
+    "questionNumber": "1"
+  },
+  {
+    "id": "sci_ch5_p81_q02",
+    "chapter": "Periodic Classification of Elements",
+    "section": "QUESTIONS (Page 81)",
+    "question_number": "2",
+    "text": "What was the primary limitation of Döbereiner's classification of elements into triads?",
+    "options": [
+      {
+        "id": "A",
+        "text": "He could identify only three triads (total 9 elements) from all the elements known at that time, and other elements could not be grouped into triads.",
+        "is_correct": true,
+        "rationale": "Döbereiner could only formulate three successful triads: (Li, Na, K), (Ca, Sr, Ba), and (Cl, Br, I). All other known elements did not obey the atomic mass arithmetic mean rule.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "His system required measuring atomic numbers, which had not yet been discovered.",
+        "is_correct": false,
+        "rationale": "Döbereiner used atomic masses, not atomic numbers.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "All triads formed by Döbereiner decomposed into radioactive isotopes upon heating.",
+        "is_correct": false,
+        "rationale": "The elements classified by Döbereiner were common stable elements, not radioactive.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "The atomic mass of the middle element was always exactly zero.",
+        "is_correct": false,
+        "rationale": "The mass of the middle element was roughly the average of the other two, never zero.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) He could identify only three triads (total 9 elements) from all the elements known at that time, and other elements could not be grouped into triads.\n\nScientific Principle / Key Concept:\n• Döbereiner stated that when elements are arranged in increasing order of atomic masses in groups of three (triads), the atomic mass of the middle element is roughly the average of the other two.\n• Limitation: Döbereiner could identify only three such triads from the elements known at that time:\n  1. $\\text{Li}, \\text{Na}, \\text{K}$\n  2. $\\text{Ca}, \\text{Sr}, \\text{Ba}$\n  3. $\\text{Cl}, \\text{Br}, \\text{I}$\nHe failed to classify all the remaining elements into triads, rendering the system incomplete and not practically useful.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Atomic number was introduced by Moseley in 1913.\n• Option (C): Incorrect. Non-radioactive elements were used.\n• Option (D): Nonsensical statement.",
+    "step_by_step_solution": "Correct Answer: (A) He could identify only three triads (total 9 elements) from all the elements known at that time, and other elements could not be grouped into triads.\n\nScientific Principle / Key Concept:\n• Döbereiner stated that when elements are arranged in increasing order of atomic masses in groups of three (triads), the atomic mass of the middle element is roughly the average of the other two.\n• Limitation: Döbereiner could identify only three such triads from the elements known at that time:\n  1. $\\text{Li}, \\text{Na}, \\text{K}$\n  2. $\\text{Ca}, \\text{Sr}, \\text{Ba}$\n  3. $\\text{Cl}, \\text{Br}, \\text{I}$\nHe failed to classify all the remaining elements into triads, rendering the system incomplete and not practically useful.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Atomic number was introduced by Moseley in 1913.\n• Option (C): Incorrect. Non-radioactive elements were used.\n• Option (D): Nonsensical statement.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "In-Text (Page 81)",
+    "questionNumber": "2"
+  },
+  {
+    "id": "sci_ch5_p81_q03",
+    "chapter": "Periodic Classification of Elements",
+    "section": "QUESTIONS (Page 81)",
+    "question_number": "3",
+    "text": "Which of the following describes the key limitations of Newlands' Law of Octaves?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It was applicable only up to calcium (elements beyond calcium did not show octave periodicity), assumed only 56 elements existed, and forced unlike elements into the same slot (e.g., Co and Ni with halogens F, Cl, Br).",
+        "is_correct": true,
+        "rationale": "Newlands' law broke down after calcium ($Z=20$), assumed no further elements would be discovered, placed two elements (Co and Ni) in a single slot, and placed metals Co and Ni in the same column as halogens while separating them from iron.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "It applied exclusively to heavy radioactive elements and ignored all lighter elements like hydrogen and lithium.",
+        "is_correct": false,
+        "rationale": "Newlands started with the lightest element (hydrogen) and worked well only with lighter elements up to calcium.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "It arranged elements strictly in descending order of atomic volumes with no musical analogy.",
+        "is_correct": false,
+        "rationale": "Newlands explicitly based his law on musical notes and increasing atomic masses.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "It successfully predicted the existence and properties of noble gases before they were discovered.",
+        "is_correct": false,
+        "rationale": "When noble gases were later discovered, Newlands' octave pattern completely collapsed (becoming ninths, not octaves).",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) It was applicable only up to calcium (elements beyond calcium did not show octave periodicity), assumed only 56 elements existed, and forced unlike elements into the same slot (e.g., Co and Ni with halogens F, Cl, Br).\n\nScientific Principle / Key Concept:\nLimitations of Newlands' Law of Octaves:\n1. Applicable only up to Calcium: After calcium, every eighth element did not possess properties similar to the first element.\n2. Inflexible assumption: Newlands assumed that only 56 elements existed in nature and no more elements would ever be discovered.\n3. Fitting inconsistencies: To fit existing elements into his table, Newlands adjusted two elements in the same slot (e.g., Cobalt and Nickel) and placed them in the same column as Fluorine, Chlorine, and Bromine, which have totally different properties. Furthermore, Iron (which resembles Co and Ni) was placed far away.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. It worked only for light elements.\n• Option (C): Incorrect. It used increasing atomic mass and musical octaves.\n• Option (D): Incorrect. Noble gases disrupted the octave law.",
+    "step_by_step_solution": "Correct Answer: (A) It was applicable only up to calcium (elements beyond calcium did not show octave periodicity), assumed only 56 elements existed, and forced unlike elements into the same slot (e.g., Co and Ni with halogens F, Cl, Br).\n\nScientific Principle / Key Concept:\nLimitations of Newlands' Law of Octaves:\n1. Applicable only up to Calcium: After calcium, every eighth element did not possess properties similar to the first element.\n2. Inflexible assumption: Newlands assumed that only 56 elements existed in nature and no more elements would ever be discovered.\n3. Fitting inconsistencies: To fit existing elements into his table, Newlands adjusted two elements in the same slot (e.g., Cobalt and Nickel) and placed them in the same column as Fluorine, Chlorine, and Bromine, which have totally different properties. Furthermore, Iron (which resembles Co and Ni) was placed far away.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. It worked only for light elements.\n• Option (C): Incorrect. It used increasing atomic mass and musical octaves.\n• Option (D): Incorrect. Noble gases disrupted the octave law.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "In-Text (Page 81)",
+    "questionNumber": "3"
+  },
+  {
+    "id": "sci_ch5_p85_q01",
+    "chapter": "Periodic Classification of Elements",
+    "section": "QUESTIONS (Page 85)",
+    "question_number": "1",
+    "text": "Using Mendeléev's Periodic Table group oxide formulas, what are the predicted formulae for the oxides of Potassium ($\\text{K}$), Carbon ($\\text{C}$), Aluminium ($\\text{Al}$), Silicon ($\\text{Si}$), and Barium ($\\text{Ba}$)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "$\\text{K}_2\\text{O}$ (Group I, $\\text{R}_2\\text{O}$), $\\text{CO}_2$ (Group IV, $\\text{RO}_2$), $\\text{Al}_2\\text{O}_3$ (Group III, $\\text{R}_2\\text{O}_3$), $\\text{SiO}_2$ (Group IV, $\\text{RO}_2$), and $\\text{BaO}$ (Group II, $\\text{RO}$).",
+        "is_correct": true,
+        "rationale": "In Mendeléev's table: Group I oxides have general formula $\\text{R}_2\\text{O}$ ($\\text{K}_2\\text{O}$); Group II has $\\text{RO}$ ($\\text{BaO}$); Group III has $\\text{R}_2\\text{O}_3$ ($\\text{Al}_2\\text{O}_3$); Group IV has $\\text{RO}_2$ ($\\text{CO}_2, \\text{SiO}_2$).",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "$\\text{KO}_2, \\text{CO}, \\text{AlO}, \\text{SiO}, \\text{Ba}_2\\text{O}$",
+        "is_correct": false,
+        "rationale": "These incorrect formulae ignore Mendeléev's group valency rules for oxide columns.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "$\\text{K}_2\\text{O}_2, \\text{C}_2\\text{O}_4, \\text{Al}_3\\text{O}_2, \\text{Si}_2\\text{O}, \\text{BaO}_2$",
+        "is_correct": false,
+        "rationale": "Unreduced or incorrect stoichiometric ratios.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "All five elements form identical monoxide compounds: $\\text{KO}, \\text{CO}, \\text{AlO}, \\text{SiO}, \\text{BaO}$.",
+        "is_correct": false,
+        "rationale": "Elements in different groups exhibit different valencies and form distinct oxide stoichiometries.",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) $\\text{K}_2\\text{O}$ (Group I, $\\text{R}_2\\text{O}$), $\\text{CO}_2$ (Group IV, $\\text{RO}_2$), $\\text{Al}_2\\text{O}_3$ (Group III, $\\text{R}_2\\text{O}_3$), $\\text{SiO}_2$ (Group IV, $\\text{RO}_2$), and $\\text{BaO}$ (Group II, $\\text{RO}$).\n\nScientific Principle / Key Concept:\nIn Mendeléev's Periodic Table, the general formulae of oxides at the top of the groups are:\n• Group I (General oxide $\\text{R}_2\\text{O}$): $\\text{K} \\rightarrow \\text{K}_2\\text{O}$\n• Group II (General oxide $\\text{RO}$): $\\text{Ba} \\rightarrow \\text{BaO}$\n• Group III (General oxide $\\text{R}_2\\text{O}_3$): $\\text{Al} \\rightarrow \\text{Al}_2\\text{O}_3$\n• Group IV (General oxide $\\text{RO}_2$): $\\text{C} \\rightarrow \\text{CO}_2$ and $\\text{Si} \\rightarrow \\text{SiO}_2$\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect valencies.\n• Option (C): Peroxide/unsimplified formulae.\n• Option (D): Ignores group valency differences.",
+    "step_by_step_solution": "Correct Answer: (A) $\\text{K}_2\\text{O}$ (Group I, $\\text{R}_2\\text{O}$), $\\text{CO}_2$ (Group IV, $\\text{RO}_2$), $\\text{Al}_2\\text{O}_3$ (Group III, $\\text{R}_2\\text{O}_3$), $\\text{SiO}_2$ (Group IV, $\\text{RO}_2$), and $\\text{BaO}$ (Group II, $\\text{RO}$).\n\nScientific Principle / Key Concept:\nIn Mendeléev's Periodic Table, the general formulae of oxides at the top of the groups are:\n• Group I (General oxide $\\text{R}_2\\text{O}$): $\\text{K} \\rightarrow \\text{K}_2\\text{O}$\n• Group II (General oxide $\\text{RO}$): $\\text{Ba} \\rightarrow \\text{BaO}$\n• Group III (General oxide $\\text{R}_2\\text{O}_3$): $\\text{Al} \\rightarrow \\text{Al}_2\\text{O}_3$\n• Group IV (General oxide $\\text{RO}_2$): $\\text{C} \\rightarrow \\text{CO}_2$ and $\\text{Si} \\rightarrow \\text{SiO}_2$\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect valencies.\n• Option (C): Peroxide/unsimplified formulae.\n• Option (D): Ignores group valency differences.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "In-Text (Page 85)",
+    "questionNumber": "1"
+  },
+  {
+    "id": "sci_ch5_p85_q02",
+    "chapter": "Periodic Classification of Elements",
+    "section": "QUESTIONS (Page 85)",
+    "question_number": "2",
+    "text": "Besides gallium (which replaced Eka-aluminium), which other elements were predicted by Mendeléev and discovered later?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Scandium (which replaced Eka-boron) and Germanium (which replaced Eka-silicon).",
+        "is_correct": true,
+        "rationale": "Mendeléev boldly left gaps for yet-to-be-discovered elements and named them using the Sanskrit prefix 'Eka': Eka-boron became Scandium, Eka-aluminium became Gallium, and Eka-silicon became Germanium.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Sodium and Potassium.",
+        "is_correct": false,
+        "rationale": "Sodium and potassium were already known long before Mendeléev created his table.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Helium and Argon.",
+        "is_correct": false,
+        "rationale": "Noble gases were not predicted by Mendeléev's Eka prefixes; they were discovered later by Ramsay.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Iron and Cobalt.",
+        "is_correct": false,
+        "rationale": "Iron and cobalt were known ancient metals.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Scandium (which replaced Eka-boron) and Germanium (which replaced Eka-silicon).\n\nScientific Principle / Key Concept:\nMendeléev predicted the existence of elements that were undiscovered at his time by leaving gaps in his table. He named them by prefixing Sanskrit 'Eka' (meaning 'one') to the preceding element in the same group:\n1. Eka-boron $\\rightarrow$ Scandium ($\\text{Sc}$)\n2. Eka-aluminium $\\rightarrow$ Gallium ($\\text{Ga}$)\n3. Eka-silicon $\\rightarrow$ Germanium ($\\text{Ge}$)\nWhen these elements were subsequently discovered, their actual atomic masses and properties matched Mendeléev's predictions with remarkable accuracy.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Known ancient/early elements.\n• Option (C): Noble gases were discovered later, but were not Eka-elements.\n• Option (D): Classical elements.",
+    "step_by_step_solution": "Correct Answer: (A) Scandium (which replaced Eka-boron) and Germanium (which replaced Eka-silicon).\n\nScientific Principle / Key Concept:\nMendeléev predicted the existence of elements that were undiscovered at his time by leaving gaps in his table. He named them by prefixing Sanskrit 'Eka' (meaning 'one') to the preceding element in the same group:\n1. Eka-boron $\\rightarrow$ Scandium ($\\text{Sc}$)\n2. Eka-aluminium $\\rightarrow$ Gallium ($\\text{Ga}$)\n3. Eka-silicon $\\rightarrow$ Germanium ($\\text{Ge}$)\nWhen these elements were subsequently discovered, their actual atomic masses and properties matched Mendeléev's predictions with remarkable accuracy.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Known ancient/early elements.\n• Option (C): Noble gases were discovered later, but were not Eka-elements.\n• Option (D): Classical elements.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "In-Text (Page 85)",
+    "questionNumber": "2"
+  },
+  {
+    "id": "sci_ch5_p85_q03",
+    "chapter": "Periodic Classification of Elements",
+    "section": "QUESTIONS (Page 85)",
+    "question_number": "3",
+    "text": "What were the primary scientific criteria used by Mendeléev in creating his Periodic Table?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Arrangement in order of increasing atomic masses, combined with similarity in chemical properties (specifically the formulae of hydrides and oxides formed by the elements).",
+        "is_correct": true,
+        "rationale": "Mendeléev examined the correlation between atomic masses and chemical properties. He focused on hydrides and oxides because oxygen and hydrogen form compounds with almost all elements.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Strict arrangement according to atomic numbers and electron spin quantum numbers.",
+        "is_correct": false,
+        "rationale": "Atomic numbers and quantum numbers were discovered decades after Mendeléev's work.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Alphabetical sorting of element names based on Russian phonetic symbols.",
+        "is_correct": false,
+        "rationale": "Classification was based on atomic mass and chemical stoichiometry, not alphabet.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Density of metals at room temperature and thermal boiling points alone.",
+        "is_correct": false,
+        "rationale": "He prioritized chemical formulae of hydrides and oxides, not density.",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) Arrangement in order of increasing atomic masses, combined with similarity in chemical properties (specifically the formulae of hydrides and oxides formed by the elements).\n\nScientific Principle / Key Concept:\nMendeléev's Periodic Law: 'The properties of elements are the periodic function of their atomic masses.'\nCriteria used:\n1. Increasing order of atomic masses.\n2. Chemical properties: He focused particularly on compounds formed by elements with hydrogen and oxygen (hydrides and oxides), as these two elements are highly reactive and form compounds with nearly all elements. The formulae of hydrides and oxides served as fundamental criteria for grouping.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Atomic number was introduced by Moseley in 1913.\n• Option (C): Incorrect. Scientific, not linguistic basis.\n• Option (D): Incorrect. Density was secondary.",
+    "step_by_step_solution": "Correct Answer: (A) Arrangement in order of increasing atomic masses, combined with similarity in chemical properties (specifically the formulae of hydrides and oxides formed by the elements).\n\nScientific Principle / Key Concept:\nMendeléev's Periodic Law: 'The properties of elements are the periodic function of their atomic masses.'\nCriteria used:\n1. Increasing order of atomic masses.\n2. Chemical properties: He focused particularly on compounds formed by elements with hydrogen and oxygen (hydrides and oxides), as these two elements are highly reactive and form compounds with nearly all elements. The formulae of hydrides and oxides served as fundamental criteria for grouping.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Atomic number was introduced by Moseley in 1913.\n• Option (C): Incorrect. Scientific, not linguistic basis.\n• Option (D): Incorrect. Density was secondary.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "In-Text (Page 85)",
+    "questionNumber": "3"
+  },
+  {
+    "id": "sci_ch5_p85_q04",
+    "chapter": "Periodic Classification of Elements",
+    "section": "QUESTIONS (Page 85)",
+    "question_number": "4",
+    "text": "Why are noble gases (helium, neon, argon) placed in a separate group in the Periodic Table?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They are chemically inert with completely filled valence electron shells (zero valency), distinct from reactive elements, and placing them in a separate group does not disturb the existing classification.",
+        "is_correct": true,
+        "rationale": "Noble gases have complete duplet/octet valence configurations ($ns^2 np^6$), making them chemically non-reactive with zero valency. Grouping them together reflects their unique stability without disrupting other groups.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "They are radioactive liquids that dissolve all known glassware.",
+        "is_correct": false,
+        "rationale": "Noble gases are stable, non-radioactive gases (except radon), not corrosive liquids.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "They have infinite atomic mass and cannot be weighed by mass spectrometers.",
+        "is_correct": false,
+        "rationale": "Noble gases have well-defined finite atomic masses (He = 4, Ne = 20, Ar = 40).",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "They react violently with halogens to produce explosive acidic solids.",
+        "is_correct": false,
+        "rationale": "Noble gases are chemically inert and do not react with halogens under normal conditions.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) They are chemically inert with completely filled valence electron shells (zero valency), distinct from reactive elements, and placing them in a separate group does not disturb the existing classification.\n\nScientific Principle / Key Concept:\n• Noble gases (Helium, Neon, Argon, Krypton, Xenon) have completely filled outermost electronic shells (He: $2$; Ne: $2,8$; Ar: $2,8,8$).\n• Because of this stable electronic configuration, they show zero valency and extreme chemical inertness.\n• They occur in very low concentrations in the atmosphere and were discovered late.\n• Because all noble gases share identical chemical inertness and zero valency, placing them in a separate dedicated group (Group 18 / Group 0) accommodates them naturally without disturbing the arrangement of the other elements.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. They are inert gases.\n• Option (C): Incorrect. They have normal atomic masses.\n• Option (D): Incorrect. They do not react under standard conditions.",
+    "step_by_step_solution": "Correct Answer: (A) They are chemically inert with completely filled valence electron shells (zero valency), distinct from reactive elements, and placing them in a separate group does not disturb the existing classification.\n\nScientific Principle / Key Concept:\n• Noble gases (Helium, Neon, Argon, Krypton, Xenon) have completely filled outermost electronic shells (He: $2$; Ne: $2,8$; Ar: $2,8,8$).\n• Because of this stable electronic configuration, they show zero valency and extreme chemical inertness.\n• They occur in very low concentrations in the atmosphere and were discovered late.\n• Because all noble gases share identical chemical inertness and zero valency, placing them in a separate dedicated group (Group 18 / Group 0) accommodates them naturally without disturbing the arrangement of the other elements.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. They are inert gases.\n• Option (C): Incorrect. They have normal atomic masses.\n• Option (D): Incorrect. They do not react under standard conditions.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "In-Text (Page 85)",
+    "questionNumber": "4"
+  },
+  {
+    "id": "sci_ch5_p90_q01",
+    "chapter": "Periodic Classification of Elements",
+    "section": "QUESTIONS (Page 90)",
+    "question_number": "1",
+    "text": "How did the Modern Periodic Table resolve the major anomalies of Mendeléev's Periodic Table?",
+    "options": [
+      {
+        "id": "A",
+        "text": "By adopting atomic number ($Z$) instead of atomic mass as the organizing principle, naturally accommodating isotopes in the same position and resolving anomalous mass pairs like Cobalt ($Z=27$) before Nickel ($Z=28$).",
+        "is_correct": true,
+        "rationale": "When elements are arranged by atomic number ($Z$), isotopes of an element have the same atomic number and occupy the same position. Cobalt ($Z=27$) naturally precedes Nickel ($Z=28$) regardless of atomic mass ($58.9$ vs $58.7$).",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "By eliminating all metals and keeping only gaseous non-metals.",
+        "is_correct": false,
+        "rationale": "The Modern Periodic Table includes all 118 elements (metals, non-metals, and metalloids).",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "By arranging elements in alphabetical order of their Latin names.",
+        "is_correct": false,
+        "rationale": "The Modern Periodic Table is arranged by increasing atomic number ($Z$), not alphabetical order.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "By placing isotopes in completely separate periods across the table.",
+        "is_correct": false,
+        "rationale": "Isotopes are placed in the same slot because they have identical atomic numbers.",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) By adopting atomic number ($Z$) instead of atomic mass as the organizing principle, naturally accommodating isotopes in the same position and resolving anomalous mass pairs like Cobalt ($Z=27$) before Nickel ($Z=28$).\n\nScientific Principle / Key Concept:\nHenry Moseley (1913) demonstrated that atomic number ($Z$, number of protons) is a more fundamental property than atomic mass. Modern Periodic Law states: 'Properties of elements are a periodic function of their atomic numbers.'\nHow anomalies were resolved:\n1. Position of Isotopes: Isotopes have identical atomic numbers. Hence, they naturally share the exact same slot in the Modern Periodic Table.\n2. Anomalous Pairs: Cobalt ($Z=27$) comes before Nickel ($Z=28$), resolving Mendeléev's inverted mass anomaly (mass of Co = 58.9, Ni = 58.7).\n3. Prediction of elements: Atomic numbers increase by integers ($1, 2, 3...$), making it possible to predict exactly how many undiscovered elements exist between two elements.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. All elements are included.\n• Option (C): Incorrect. It uses atomic number, not alphabet.\n• Option (D): Incorrect. Isotopes occupy the same slot.",
+    "step_by_step_solution": "Correct Answer: (A) By adopting atomic number ($Z$) instead of atomic mass as the organizing principle, naturally accommodating isotopes in the same position and resolving anomalous mass pairs like Cobalt ($Z=27$) before Nickel ($Z=28$).\n\nScientific Principle / Key Concept:\nHenry Moseley (1913) demonstrated that atomic number ($Z$, number of protons) is a more fundamental property than atomic mass. Modern Periodic Law states: 'Properties of elements are a periodic function of their atomic numbers.'\nHow anomalies were resolved:\n1. Position of Isotopes: Isotopes have identical atomic numbers. Hence, they naturally share the exact same slot in the Modern Periodic Table.\n2. Anomalous Pairs: Cobalt ($Z=27$) comes before Nickel ($Z=28$), resolving Mendeléev's inverted mass anomaly (mass of Co = 58.9, Ni = 58.7).\n3. Prediction of elements: Atomic numbers increase by integers ($1, 2, 3...$), making it possible to predict exactly how many undiscovered elements exist between two elements.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. All elements are included.\n• Option (C): Incorrect. It uses atomic number, not alphabet.\n• Option (D): Incorrect. Isotopes occupy the same slot.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "In-Text (Page 90)",
+    "questionNumber": "1"
+  },
+  {
+    "id": "sci_ch5_p90_q02",
+    "chapter": "Periodic Classification of Elements",
+    "section": "QUESTIONS (Page 90)",
+    "question_number": "2",
+    "text": "Name two elements you would expect to show chemical reactions similar to Magnesium ($\\text{Mg}$, $Z=12$). What is the basis for your choice?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Beryllium ($\\text{Be}$) and Calcium ($\\text{Ca}$); basis: they belong to the same group (Group 2, alkaline earth metals) and have the same number of valence electrons (2).",
+        "is_correct": true,
+        "rationale": "Elements in the same vertical group have identical valence shell electron configurations ($ns^2$), which dictates their chemical valency and reaction behavior.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Sodium ($\\text{Na}$) and Aluminium ($\\text{Al}$); basis: they are adjacent in the same horizontal period.",
+        "is_correct": false,
+        "rationale": "Elements across a period have different numbers of valence electrons and different chemical properties.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Carbon ($\\text{C}$) and Silicon ($\\text{Si}$); basis: they form four covalent bonds.",
+        "is_correct": false,
+        "rationale": "Magnesium is a divalent metal forming $\\text{Mg}^{2+}$, whereas C and Si are tetravalent Group 14 elements.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Fluorine ($\\text{F}$) and Chlorine ($\\text{Cl}$); basis: they are gaseous halogens.",
+        "is_correct": false,
+        "rationale": "Halogens are non-metals that gain electrons, opposite to magnesium which loses electrons.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Beryllium ($\\text{Be}$) and Calcium ($\\text{Ca}$); basis: they belong to the same group (Group 2, alkaline earth metals) and have the same number of valence electrons (2).\n\nScientific Principle / Key Concept:\n• Chemical properties of elements are determined by the number of valence electrons.\n• Magnesium ($Z=12$) has electronic configuration $2, 8, 2$ (2 valence electrons, Group 2).\n• Beryllium ($Z=4$, configuration $2, 2$) and Calcium ($Z=20$, configuration $2, 8, 8, 2$) also have 2 valence electrons and belong to Group 2.\n• Because they possess the same valence electron count, they exhibit similar chemical reactivity (e.g., forming divalent basic oxides $\\text{BeO}, \\text{CaO}, \\text{MgO}$ and reacting with acids to liberate $\\text{H}_2$).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Period neighbors have different chemical valencies.\n• Option (C): Incorrect. C and Si are Group 14.\n• Option (D): Incorrect. Halogens are Group 17.",
+    "step_by_step_solution": "Correct Answer: (A) Beryllium ($\\text{Be}$) and Calcium ($\\text{Ca}$); basis: they belong to the same group (Group 2, alkaline earth metals) and have the same number of valence electrons (2).\n\nScientific Principle / Key Concept:\n• Chemical properties of elements are determined by the number of valence electrons.\n• Magnesium ($Z=12$) has electronic configuration $2, 8, 2$ (2 valence electrons, Group 2).\n• Beryllium ($Z=4$, configuration $2, 2$) and Calcium ($Z=20$, configuration $2, 8, 8, 2$) also have 2 valence electrons and belong to Group 2.\n• Because they possess the same valence electron count, they exhibit similar chemical reactivity (e.g., forming divalent basic oxides $\\text{BeO}, \\text{CaO}, \\text{MgO}$ and reacting with acids to liberate $\\text{H}_2$).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Period neighbors have different chemical valencies.\n• Option (C): Incorrect. C and Si are Group 14.\n• Option (D): Incorrect. Halogens are Group 17.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "In-Text (Page 90)",
+    "questionNumber": "2"
+  },
+  {
+    "id": "sci_ch5_p90_q03_a",
+    "chapter": "Periodic Classification of Elements",
+    "section": "QUESTIONS (Page 90)",
+    "question_number": "3(a)",
+    "text": "Name three elements that have a single electron in their outermost shells.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lithium ($\\text{Li}$), Sodium ($\\text{Na}$), and Potassium ($\\text{K}$)",
+        "is_correct": true,
+        "rationale": "Group 1 alkali metals all have 1 electron in their outermost valence shell: Li ($2, 1$), Na ($2, 8, 1$), K ($2, 8, 8, 1$).",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Magnesium ($\\text{Mg}$), Calcium ($\\text{Ca}$), and Barium ($\\text{Ba}$)",
+        "is_correct": false,
+        "rationale": "Group 2 alkaline earth metals have 2 valence electrons, not 1.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Helium ($\\text{He}$), Neon ($\\text{Ne}$), and Argon ($\\text{Ar}$)",
+        "is_correct": false,
+        "rationale": "Noble gases have complete duplet (2) or octet (8) outer shells.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Fluorine ($\\text{F}$), Chlorine ($\\text{Cl}$), and Bromine ($\\text{Br}$)",
+        "is_correct": false,
+        "rationale": "Halogens have 7 valence electrons.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Lithium ($\\text{Li}$), Sodium ($\\text{Na}$), and Potassium ($\\text{K}$)\n\nScientific Principle / Key Concept:\nAlkali metals belong to Group 1 of the Modern Periodic Table and have 1 valence electron in their outermost shell:\n• $\\text{Li} (Z=3): 2, 1$\n• $\\text{Na} (Z=11): 2, 8, 1$\n• $\\text{K} (Z=19): 2, 8, 8, 1$\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Group 2 elements have 2 valence electrons.\n• Option (C): Noble gases have 8 (or 2 for He) valence electrons.\n• Option (D): Halogens have 7 valence electrons.",
+    "step_by_step_solution": "Correct Answer: (A) Lithium ($\\text{Li}$), Sodium ($\\text{Na}$), and Potassium ($\\text{K}$)\n\nScientific Principle / Key Concept:\nAlkali metals belong to Group 1 of the Modern Periodic Table and have 1 valence electron in their outermost shell:\n• $\\text{Li} (Z=3): 2, 1$\n• $\\text{Na} (Z=11): 2, 8, 1$\n• $\\text{K} (Z=19): 2, 8, 8, 1$\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Group 2 elements have 2 valence electrons.\n• Option (C): Noble gases have 8 (or 2 for He) valence electrons.\n• Option (D): Halogens have 7 valence electrons.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "In-Text (Page 90)",
+    "questionNumber": "3(a)"
+  },
+  {
+    "id": "sci_ch5_p90_q03_b",
+    "chapter": "Periodic Classification of Elements",
+    "section": "QUESTIONS (Page 90)",
+    "question_number": "3(b)",
+    "text": "Name two elements that have two electrons in their outermost shells.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Magnesium ($\\text{Mg}$) and Calcium ($\\text{Ca}$)",
+        "is_correct": true,
+        "rationale": "Group 2 alkaline earth metals have 2 valence electrons: Mg ($2, 8, 2$) and Ca ($2, 8, 8, 2$).",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Carbon ($\\text{C}$) and Silicon ($\\text{Si}$)",
+        "is_correct": false,
+        "rationale": "Carbon and silicon have 4 valence electrons.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Lithium ($\\text{Li}$) and Sodium ($\\text{Na}$)",
+        "is_correct": false,
+        "rationale": "Alkali metals have only 1 valence electron.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Oxygen ($\\text{O}$) and Sulphur ($\\text{S}$)",
+        "is_correct": false,
+        "rationale": "Group 16 elements have 6 valence electrons.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Magnesium ($\\text{Mg}$) and Calcium ($\\text{Ca}$)\n\nScientific Principle / Key Concept:\nAlkaline earth metals (Group 2) have 2 electrons in their outermost shell:\n• Magnesium ($Z=12$): $2, 8, 2$\n• Calcium ($Z=20$): $2, 8, 8, 2$\n(Also Beryllium: $2, 2$; Strontium: $2, 8, 18, 8, 2$).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Group 14 elements have 4 valence electrons.\n• Option (C): Group 1 elements have 1 valence electron.\n• Option (D): Group 16 elements have 6 valence electrons.",
+    "step_by_step_solution": "Correct Answer: (A) Magnesium ($\\text{Mg}$) and Calcium ($\\text{Ca}$)\n\nScientific Principle / Key Concept:\nAlkaline earth metals (Group 2) have 2 electrons in their outermost shell:\n• Magnesium ($Z=12$): $2, 8, 2$\n• Calcium ($Z=20$): $2, 8, 8, 2$\n(Also Beryllium: $2, 2$; Strontium: $2, 8, 18, 8, 2$).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Group 14 elements have 4 valence electrons.\n• Option (C): Group 1 elements have 1 valence electron.\n• Option (D): Group 16 elements have 6 valence electrons.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "In-Text (Page 90)",
+    "questionNumber": "3(b)"
+  },
+  {
+    "id": "sci_ch5_p90_q03_c",
+    "chapter": "Periodic Classification of Elements",
+    "section": "QUESTIONS (Page 90)",
+    "question_number": "3(c)",
+    "text": "Name three elements with completely filled outermost shells.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Helium ($\\text{He}$), Neon ($\\text{Ne}$), and Argon ($\\text{Ar}$)",
+        "is_correct": true,
+        "rationale": "Group 18 noble gases possess completely filled outermost shells: He ($2$, duplet filled in K shell), Ne ($2, 8$, octet filled in L shell), Ar ($2, 8, 8$, octet filled in M shell).",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chlorine ($\\text{Cl}$), Bromine ($\\text{Br}$), and Iodine ($\\text{I}$)",
+        "is_correct": false,
+        "rationale": "Halogens have 7 valence electrons, requiring 1 more to fill their outer shell.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Sodium ($\\text{Na}$), Potassium ($\\text{K}$), and Rubidium ($\\text{Rb}$)",
+        "is_correct": false,
+        "rationale": "Alkali metals have only 1 valence electron in an incompletely filled outer shell.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Nitrogen ($\\text{N}$), Phosphorus ($\\text{P}$), and Arsenic ($\\text{As}$)",
+        "is_correct": false,
+        "rationale": "Group 15 elements have 5 valence electrons.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Helium ($\\text{He}$), Neon ($\\text{Ne}$), and Argon ($\\text{Ar}$)\n\nScientific Principle / Key Concept:\nNoble gases (Group 18) have completely filled outermost shells:\n• Helium ($Z=2$): Electronic configuration $2$ (K shell completely filled).\n• Neon ($Z=10$): Electronic configuration $2, 8$ (L shell completely filled).\n• Argon ($Z=18$): Electronic configuration $2, 8, 8$ (M shell has complete octet).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Halogens need 1 electron.\n• Option (C): Alkali metals have 1 valence electron.\n• Option (D): Pnictogens have 5 valence electrons.",
+    "step_by_step_solution": "Correct Answer: (A) Helium ($\\text{He}$), Neon ($\\text{Ne}$), and Argon ($\\text{Ar}$)\n\nScientific Principle / Key Concept:\nNoble gases (Group 18) have completely filled outermost shells:\n• Helium ($Z=2$): Electronic configuration $2$ (K shell completely filled).\n• Neon ($Z=10$): Electronic configuration $2, 8$ (L shell completely filled).\n• Argon ($Z=18$): Electronic configuration $2, 8, 8$ (M shell has complete octet).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Halogens need 1 electron.\n• Option (C): Alkali metals have 1 valence electron.\n• Option (D): Pnictogens have 5 valence electrons.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "In-Text (Page 90)",
+    "questionNumber": "3(c)"
+  },
+  {
+    "id": "sci_ch5_p90_q04_a",
+    "chapter": "Periodic Classification of Elements",
+    "section": "QUESTIONS (Page 90)",
+    "question_number": "4(a)",
+    "text": "Lithium, sodium, and potassium are all metals that react with water to liberate hydrogen gas. What fundamental similarity exists in the atoms of these elements?",
+    "options": [
+      {
+        "id": "A",
+        "text": "All of them have exactly 1 valence electron in their outermost shell, which they readily lose to form univalent cations ($\\text{M}^+$).",
+        "is_correct": true,
+        "rationale": "Electronic configurations: Li ($2, 1$), Na ($2, 8, 1$), K ($2, 8, 8, 1$). All have 1 valence electron and belong to Group 1, giving them identical chemical displacement behavior with water.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "They have the exact same number of occupied electron shells.",
+        "is_correct": false,
+        "rationale": "Li has 2 shells, Na has 3 shells, K has 4 shells; the number of shells increases down the group.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "They all have completely filled outermost octets like noble gases.",
+        "is_correct": false,
+        "rationale": "Alkali metals have only 1 valence electron, not an octet.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "They possess identical atomic masses and nuclear proton counts.",
+        "is_correct": false,
+        "rationale": "They have different atomic numbers ($Z=3, 11, 19$) and masses ($6.9, 23, 39$).",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) All of them have exactly 1 valence electron in their outermost shell, which they readily lose to form univalent cations ($\\text{M}^+$).\n\nScientific Principle / Key Concept:\n• Lithium ($Z=3$): $2, 1$\n• Sodium ($Z=11$): $2, 8, 1$\n• Potassium ($Z=19$): $2, 8, 8, 1$\nSimilarity: All three elements have 1 electron in their valence shell. Because they have the same valence electronic configuration, they lose this single electron with ease to attain a noble gas structure, reacting vigorously with water to form basic hydroxides and hydrogen gas:\n$$2\\text{M}(s) + 2\\text{H}_2\\text{O}(l) \\rightarrow 2\\text{MOH}(aq) + \\text{H}_2(g)$$\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Number of shells increases: 2, 3, 4.\n• Option (C): Incorrect. They have 1 electron in their outer shell.\n• Option (D): Incorrect. They have different atomic masses.",
+    "step_by_step_solution": "Correct Answer: (A) All of them have exactly 1 valence electron in their outermost shell, which they readily lose to form univalent cations ($\\text{M}^+$).\n\nScientific Principle / Key Concept:\n• Lithium ($Z=3$): $2, 1$\n• Sodium ($Z=11$): $2, 8, 1$\n• Potassium ($Z=19$): $2, 8, 8, 1$\nSimilarity: All three elements have 1 electron in their valence shell. Because they have the same valence electronic configuration, they lose this single electron with ease to attain a noble gas structure, reacting vigorously with water to form basic hydroxides and hydrogen gas:\n$$2\\text{M}(s) + 2\\text{H}_2\\text{O}(l) \\rightarrow 2\\text{MOH}(aq) + \\text{H}_2(g)$$\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Number of shells increases: 2, 3, 4.\n• Option (C): Incorrect. They have 1 electron in their outer shell.\n• Option (D): Incorrect. They have different atomic masses.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "In-Text (Page 90)",
+    "questionNumber": "4(a)"
+  },
+  {
+    "id": "sci_ch5_p90_q04_b",
+    "chapter": "Periodic Classification of Elements",
+    "section": "QUESTIONS (Page 90)",
+    "question_number": "4(b)",
+    "text": "Helium is an unreactive gas and neon is a gas of extremely low reactivity. What do their atoms have in common?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both have completely filled outermost valence shells (He has a filled duplet in the K shell; Ne has a filled octet in the L shell), conferring zero chemical valency.",
+        "is_correct": true,
+        "rationale": "Helium's single shell (K shell) has its maximum capacity of 2 electrons. Neon's outer shell (L shell) has its maximum capacity of 8 electrons. Having completely filled outer shells confers maximum stability and inertness.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Both have exactly 8 electrons in their outermost valence shell.",
+        "is_correct": false,
+        "rationale": "Helium has only 2 electrons in its K shell, not 8.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Both have 2 occupied electron shells.",
+        "is_correct": false,
+        "rationale": "Helium has only 1 occupied shell (K), while neon has 2 occupied shells (K, L).",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Both readily form diatomic molecules $\\text{He}_2$ and $\\text{Ne}_2$ in air.",
+        "is_correct": false,
+        "rationale": "Noble gases are strictly monoatomic due to completed shells.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Both have completely filled outermost valence shells (He has a filled duplet in the K shell; Ne has a filled octet in the L shell), conferring zero chemical valency.\n\nScientific Principle / Key Concept:\n• Helium ($Z=2$): Electronic configuration is $2$. Its outermost K shell can hold a maximum of 2 electrons ($2n^2 = 2(1)^2 = 2$). Thus, its outermost shell is completely filled (stable duplet).\n• Neon ($Z=10$): Electronic configuration is $2, 8$. Its outermost L shell is completely filled with 8 electrons (stable octet).\n• Common feature: Both atoms have completely filled outermost shells, which gives them maximum stability and zero valency, explaining their chemical unreactivity.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. He has 2, not 8 valence electrons.\n• Option (C): Incorrect. He has 1 shell; Ne has 2 shells.\n• Option (D): Incorrect. Noble gases are monoatomic.",
+    "step_by_step_solution": "Correct Answer: (A) Both have completely filled outermost valence shells (He has a filled duplet in the K shell; Ne has a filled octet in the L shell), conferring zero chemical valency.\n\nScientific Principle / Key Concept:\n• Helium ($Z=2$): Electronic configuration is $2$. Its outermost K shell can hold a maximum of 2 electrons ($2n^2 = 2(1)^2 = 2$). Thus, its outermost shell is completely filled (stable duplet).\n• Neon ($Z=10$): Electronic configuration is $2, 8$. Its outermost L shell is completely filled with 8 electrons (stable octet).\n• Common feature: Both atoms have completely filled outermost shells, which gives them maximum stability and zero valency, explaining their chemical unreactivity.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. He has 2, not 8 valence electrons.\n• Option (C): Incorrect. He has 1 shell; Ne has 2 shells.\n• Option (D): Incorrect. Noble gases are monoatomic.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "In-Text (Page 90)",
+    "questionNumber": "4(b)"
+  },
+  {
+    "id": "sci_ch5_p90_q05",
+    "chapter": "Periodic Classification of Elements",
+    "section": "QUESTIONS (Page 90)",
+    "question_number": "5",
+    "text": "In the Modern Periodic Table, which elements among the first ten elements (atomic numbers 1 to 10) are metals?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lithium ($\\text{Li}$, $Z=3$) and Beryllium ($\\text{Be}$, $Z=4$)",
+        "is_correct": true,
+        "rationale": "Among the first 10 elements (H, He, Li, Be, B, C, N, O, F, Ne): Li and Be are metals; B is a metalloid; and H, He, C, N, O, F, Ne are non-metals.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Boron ($\\text{B}$) and Carbon ($\\text{C}$)",
+        "is_correct": false,
+        "rationale": "Boron is a metalloid/semi-metal and carbon is a non-metal.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Hydrogen ($\\text{H}$) and Helium ($\\text{He}$)",
+        "is_correct": false,
+        "rationale": "Hydrogen and helium are non-metals.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sodium ($\\text{Na}$) and Magnesium ($\\text{Mg}$)",
+        "is_correct": false,
+        "rationale": "Sodium ($Z=11$) and magnesium ($Z=12$) are metals, but they are not among the first ten elements.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Lithium ($\\text{Li}$, $Z=3$) and Beryllium ($\\text{Be}$, $Z=4$)\n\nScientific Principle / Key Concept:\nThe first ten elements are:\n1. $\\text{H}$ (Hydrogen) - Non-metal\n2. $\\text{He}$ (Helium) - Non-metal (noble gas)\n3. $\\text{Li}$ (Lithium) - Metal (Alkali metal)\n4. $\\text{Be}$ (Beryllium) - Metal (Alkaline earth metal)\n5. $\\text{B}$ (Boron) - Metalloid\n6. $\\text{C}$ (Carbon) - Non-metal\n7. $\\text{N}$ (Nitrogen) - Non-metal\n8. $\\text{O}$ (Oxygen) - Non-metal\n9. $\\text{F}$ (Fluorine) - Non-metal (halogen)\n10. $\\text{Ne}$ (Neon) - Non-metal (noble gas)\nHence, only Lithium ($\\text{Li}$) and Beryllium ($\\text{Be}$) are metals.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Boron is a metalloid and carbon is a non-metal.\n• Option (C): H and He are non-metals.\n• Option (D): Na and Mg have $Z=11$ and $12$, exceeding 10.",
+    "step_by_step_solution": "Correct Answer: (A) Lithium ($\\text{Li}$, $Z=3$) and Beryllium ($\\text{Be}$, $Z=4$)\n\nScientific Principle / Key Concept:\nThe first ten elements are:\n1. $\\text{H}$ (Hydrogen) - Non-metal\n2. $\\text{He}$ (Helium) - Non-metal (noble gas)\n3. $\\text{Li}$ (Lithium) - Metal (Alkali metal)\n4. $\\text{Be}$ (Beryllium) - Metal (Alkaline earth metal)\n5. $\\text{B}$ (Boron) - Metalloid\n6. $\\text{C}$ (Carbon) - Non-metal\n7. $\\text{N}$ (Nitrogen) - Non-metal\n8. $\\text{O}$ (Oxygen) - Non-metal\n9. $\\text{F}$ (Fluorine) - Non-metal (halogen)\n10. $\\text{Ne}$ (Neon) - Non-metal (noble gas)\nHence, only Lithium ($\\text{Li}$) and Beryllium ($\\text{Be}$) are metals.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Boron is a metalloid and carbon is a non-metal.\n• Option (C): H and He are non-metals.\n• Option (D): Na and Mg have $Z=11$ and $12$, exceeding 10.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "In-Text (Page 90)",
+    "questionNumber": "5"
+  },
+  {
+    "id": "sci_ch5_p90_q06",
+    "chapter": "Periodic Classification of Elements",
+    "section": "QUESTIONS (Page 90)",
+    "question_number": "6",
+    "text": "By considering their positions in the Periodic Table, which of the following elements would you expect to have the maximum metallic characteristic: $\\text{Ga}$, $\\text{Ge}$, $\\text{As}$, $\\text{Se}$, or $\\text{Be}$?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Beryllium ($\\text{Be}$)",
+        "is_correct": true,
+        "rationale": "Beryllium is in Group 2 (alkaline earth metals, far left of the periodic table). Metallic character decreases from left to right across periods. While Ga is in Period 4, it is in Group 13; Ge (Group 14) and As (Group 15) are metalloids; and Se (Group 16) is a non-metal. Be belongs to the strongly electropositive Group 2.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Selenium ($\\text{Se}$)",
+        "is_correct": false,
+        "rationale": "Selenium is in Group 16 and is a non-metal with high electronegativity.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Arsenic ($\\text{As}$)",
+        "is_correct": false,
+        "rationale": "Arsenic is in Group 15 and is classified as a metalloid.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Germanium ($\\text{Ge}$)",
+        "is_correct": false,
+        "rationale": "Germanium is in Group 14 and is a metalloid/semi-metal.",
+        "correct": false
+      }
+    ],
+    "difficulty": "hard",
+    "solution": "Correct Answer: (A) Beryllium ($\\text{Be}$)\n\nScientific Principle / Key Concept:\n• Positions in Periodic Table:\n  - $\\text{Be}$: Group 2, Period 2\n  - $\\text{Ga}$: Group 13, Period 4\n  - $\\text{Ge}$: Group 14, Period 4\n  - $\\text{As}$: Group 15, Period 4\n  - $\\text{Se}$: Group 16, Period 4\n• Trends in Metallic Character:\n  1. Across a period (left to right): Metallic character decreases as effective nuclear charge increases.\n     In Period 4: $\\text{Ga} > \\text{Ge} > \\text{As} > \\text{Se}$.\n  2. Comparing $\\text{Be}$ and $\\text{Ga}$:\n     $\\text{Be}$ is in Group 2 (alkaline earth metal), situated further to the left than Group 13 ($\\text{Ga}$). Group 2 elements are electropositive metals, whereas Group 13 elements possess higher electronegativity and amphoteric character. Hence, Beryllium has the maximum metallic characteristic among the given choices.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Se is a non-metal.\n• Option (C): As is a metalloid.\n• Option (D): Ge is a metalloid.",
+    "step_by_step_solution": "Correct Answer: (A) Beryllium ($\\text{Be}$)\n\nScientific Principle / Key Concept:\n• Positions in Periodic Table:\n  - $\\text{Be}$: Group 2, Period 2\n  - $\\text{Ga}$: Group 13, Period 4\n  - $\\text{Ge}$: Group 14, Period 4\n  - $\\text{As}$: Group 15, Period 4\n  - $\\text{Se}$: Group 16, Period 4\n• Trends in Metallic Character:\n  1. Across a period (left to right): Metallic character decreases as effective nuclear charge increases.\n     In Period 4: $\\text{Ga} > \\text{Ge} > \\text{As} > \\text{Se}$.\n  2. Comparing $\\text{Be}$ and $\\text{Ga}$:\n     $\\text{Be}$ is in Group 2 (alkaline earth metal), situated further to the left than Group 13 ($\\text{Ga}$). Group 2 elements are electropositive metals, whereas Group 13 elements possess higher electronegativity and amphoteric character. Hence, Beryllium has the maximum metallic characteristic among the given choices.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Se is a non-metal.\n• Option (C): As is a metalloid.\n• Option (D): Ge is a metalloid.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "In-Text (Page 90)",
+    "questionNumber": "6"
+  },
+  {
+    "id": "sci_ch5_ex_q01",
+    "chapter": "Periodic Classification of Elements",
+    "section": "EXERCISES (Pages 91-92)",
+    "question_number": "1",
+    "text": "[NCERT Exercise 1] Which of the following statements is NOT a correct statement about the trends when going from left to right across the periods of the Periodic Table?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The atoms lose their electrons more easily.",
+        "is_correct": true,
+        "rationale": "As effective nuclear charge increases and atomic radius decreases across a period from left to right, electrons are held more tightly, so atoms lose electrons with greater difficulty (tendency to lose electrons decreases).",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "The elements become less metallic in nature.",
+        "is_correct": false,
+        "rationale": "This statement is correct: metallic character decreases from metals on the left to non-metals on the right.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "The number of valence electrons increases.",
+        "is_correct": false,
+        "rationale": "This statement is correct: valence electrons increase sequentially from 1 to 8 across a period.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "The oxides become more acidic.",
+        "is_correct": false,
+        "rationale": "This statement is correct: oxides progress from strongly basic (e.g., $\\text{Na}_2\\text{O}$) to amphoteric ($\\text{Al}_2\\text{O}_3$) to acidic ($\\text{SO}_2, \\text{Cl}_2\\text{O}_7$).",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) The atoms lose their electrons more easily.\n\nScientific Principle / Key Concept:\nMoving from left to right across a period:\n1. Valence electrons increase from 1 to 8.\n2. Effective nuclear charge increases as protons are added to the nucleus while electrons enter the same shell.\n3. Atomic radius decreases, holding valence electrons more tightly.\n4. Therefore, ionization enthalpy increases, meaning atoms lose electrons with greater difficulty (less easily).\n5. Consequently, metallic character decreases and oxides become more acidic.\nThus, statement (c) / option (A) is INCORRECT.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): True statement (metallic character decreases).\n• Option (C): True statement (valence electrons increase from 1 to 8).\n• Option (D): True statement (oxides transition from basic to acidic).",
+    "step_by_step_solution": "Correct Answer: (A) The atoms lose their electrons more easily.\n\nScientific Principle / Key Concept:\nMoving from left to right across a period:\n1. Valence electrons increase from 1 to 8.\n2. Effective nuclear charge increases as protons are added to the nucleus while electrons enter the same shell.\n3. Atomic radius decreases, holding valence electrons more tightly.\n4. Therefore, ionization enthalpy increases, meaning atoms lose electrons with greater difficulty (less easily).\n5. Consequently, metallic character decreases and oxides become more acidic.\nThus, statement (c) / option (A) is INCORRECT.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): True statement (metallic character decreases).\n• Option (C): True statement (valence electrons increase from 1 to 8).\n• Option (D): True statement (oxides transition from basic to acidic).",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "Exercises (Pages 91-92)",
+    "questionNumber": "1"
+  },
+  {
+    "id": "sci_ch5_ex_q02",
+    "chapter": "Periodic Classification of Elements",
+    "section": "EXERCISES (Pages 91-92)",
+    "question_number": "2",
+    "text": "[NCERT Exercise 2] Element X forms a chloride with the formula $\\text{XCl}_2$, which is a solid with a high melting point. X would most likely be in the same group of the Periodic Table as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Magnesium ($\\text{Mg}$)",
+        "is_correct": true,
+        "rationale": "Formula $\\text{XCl}_2$ indicates that element X has a valency of 2 and forms an electrovalent ionic lattice (high melting point solid). Magnesium belongs to Group 2 and forms ionic $\\text{MgCl}_2$.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Sodium ($\\text{Na}$)",
+        "is_correct": false,
+        "rationale": "Sodium is monovalent (Group 1) and forms $\\text{NaCl}$, not $\\text{XCl}_2$.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Aluminium ($\\text{Al}$)",
+        "is_correct": false,
+        "rationale": "Aluminium is trivalent (Group 13) and forms $\\text{AlCl}_3$.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Silicon ($\\text{Si}$)",
+        "is_correct": false,
+        "rationale": "Silicon is tetravalent (Group 14) and forms covalent liquid $\\text{SiCl}_4$.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Magnesium ($\\text{Mg}$)\n\nScientific Principle / Key Concept:\n• The chemical formula $\\text{XCl}_2$ shows that element X has a combining capacity (valency) of 2.\n• A solid with a high melting point indicates an ionic compound.\n• Among the given options:\n  - $\\text{Na}$ (Group 1): Valency = 1 $\\rightarrow \\text{NaCl}$\n  - $\\text{Mg}$ (Group 2): Valency = 2 $\\rightarrow \\text{MgCl}_2$ (ionic solid, high MP)\n  - $\\text{Al}$ (Group 13): Valency = 3 $\\rightarrow \\text{AlCl}_3$\n  - $\\text{Si}$ (Group 14): Valency = 4 $\\rightarrow \\text{SiCl}_4$\nTherefore, X belongs to Group 2, the same group as Magnesium ($\\text{Mg}$).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Na forms $\\text{NaCl}$.\n• Option (C): Al forms $\\text{AlCl}_3$.\n• Option (D): Si forms $\\text{SiCl}_4$.",
+    "step_by_step_solution": "Correct Answer: (A) Magnesium ($\\text{Mg}$)\n\nScientific Principle / Key Concept:\n• The chemical formula $\\text{XCl}_2$ shows that element X has a combining capacity (valency) of 2.\n• A solid with a high melting point indicates an ionic compound.\n• Among the given options:\n  - $\\text{Na}$ (Group 1): Valency = 1 $\\rightarrow \\text{NaCl}$\n  - $\\text{Mg}$ (Group 2): Valency = 2 $\\rightarrow \\text{MgCl}_2$ (ionic solid, high MP)\n  - $\\text{Al}$ (Group 13): Valency = 3 $\\rightarrow \\text{AlCl}_3$\n  - $\\text{Si}$ (Group 14): Valency = 4 $\\rightarrow \\text{SiCl}_4$\nTherefore, X belongs to Group 2, the same group as Magnesium ($\\text{Mg}$).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Na forms $\\text{NaCl}$.\n• Option (C): Al forms $\\text{AlCl}_3$.\n• Option (D): Si forms $\\text{SiCl}_4$.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "Exercises (Pages 91-92)",
+    "questionNumber": "2"
+  },
+  {
+    "id": "sci_ch5_ex_q03_a",
+    "chapter": "Periodic Classification of Elements",
+    "section": "EXERCISES (Pages 91-92)",
+    "question_number": "3(a)",
+    "text": "[NCERT Exercise 3(a)] Which element has two shells, both of which are completely filled with electrons?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Neon ($\\text{Ne}$, $Z=10$), with electronic configuration $2, 8$",
+        "is_correct": true,
+        "rationale": "K shell holds maximum 2 electrons, and L shell holds maximum 8 electrons. An element with both shells filled has $2 + 8 = 10$ electrons, which is Neon.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Argon ($\\text{Ar}$, $Z=18$)",
+        "is_correct": false,
+        "rationale": "Argon has 3 occupied shells ($2, 8, 8$), not 2.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Helium ($\\text{He}$, $Z=2$)",
+        "is_correct": false,
+        "rationale": "Helium has only 1 occupied shell ($2$).",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Fluorine ($\\text{F}$, $Z=9$)",
+        "is_correct": false,
+        "rationale": "Fluorine has configuration $2, 7$, so its second shell is not completely filled.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Neon ($\\text{Ne}$, $Z=10$), with electronic configuration $2, 8$\n\nScientific Principle / Key Concept:\n• The maximum capacity of K shell ($n=1$) is $2(1)^2 = 2$ electrons.\n• The maximum capacity of L shell ($n=2$) is $2(2)^2 = 8$ electrons.\n• An element with both shells completely filled has electronic configuration $2, 8$.\n• Total electrons = $2 + 8 = 10$, which corresponds to Neon ($\\text{Ne}$).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Ar has 3 shells ($2, 8, 8$).\n• Option (C): He has only 1 shell ($2$).\n• Option (D): F has $2, 7$ (unfilled second shell).",
+    "step_by_step_solution": "Correct Answer: (A) Neon ($\\text{Ne}$, $Z=10$), with electronic configuration $2, 8$\n\nScientific Principle / Key Concept:\n• The maximum capacity of K shell ($n=1$) is $2(1)^2 = 2$ electrons.\n• The maximum capacity of L shell ($n=2$) is $2(2)^2 = 8$ electrons.\n• An element with both shells completely filled has electronic configuration $2, 8$.\n• Total electrons = $2 + 8 = 10$, which corresponds to Neon ($\\text{Ne}$).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Ar has 3 shells ($2, 8, 8$).\n• Option (C): He has only 1 shell ($2$).\n• Option (D): F has $2, 7$ (unfilled second shell).",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "Exercises (Pages 91-92)",
+    "questionNumber": "3(a)"
+  },
+  {
+    "id": "sci_ch5_ex_q03_b",
+    "chapter": "Periodic Classification of Elements",
+    "section": "EXERCISES (Pages 91-92)",
+    "question_number": "3(b)",
+    "text": "[NCERT Exercise 3(b)] Which element has the electronic configuration $2, 8, 2$?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Magnesium ($\\text{Mg}$, $Z=12$)",
+        "is_correct": true,
+        "rationale": "Total electrons = $2 + 8 + 2 = 12$, which is the atomic number of Magnesium.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Calcium ($\\text{Ca}$, $Z=20$)",
+        "is_correct": false,
+        "rationale": "Calcium has configuration $2, 8, 8, 2$.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Sodium ($\\text{Na}$, $Z=11$)",
+        "is_correct": false,
+        "rationale": "Sodium has configuration $2, 8, 1$.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Aluminium ($\\text{Al}$, $Z=13$)",
+        "is_correct": false,
+        "rationale": "Aluminium has configuration $2, 8, 3$.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Magnesium ($\\text{Mg}$, $Z=12$)\n\nScientific Principle / Key Concept:\n• Given configuration: $2, 8, 2$.\n• Total number of electrons = $2 + 8 + 2 = 12$.\n• For a neutral atom, atomic number $Z = 12$, which is Magnesium ($\\text{Mg}$).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Ca is $Z=20$ ($2,8,8,2$).\n• Option (C): Na is $Z=11$ ($2,8,1$).\n• Option (D): Al is $Z=13$ ($2,8,3$).",
+    "step_by_step_solution": "Correct Answer: (A) Magnesium ($\\text{Mg}$, $Z=12$)\n\nScientific Principle / Key Concept:\n• Given configuration: $2, 8, 2$.\n• Total number of electrons = $2 + 8 + 2 = 12$.\n• For a neutral atom, atomic number $Z = 12$, which is Magnesium ($\\text{Mg}$).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Ca is $Z=20$ ($2,8,8,2$).\n• Option (C): Na is $Z=11$ ($2,8,1$).\n• Option (D): Al is $Z=13$ ($2,8,3$).",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "Exercises (Pages 91-92)",
+    "questionNumber": "3(b)"
+  },
+  {
+    "id": "sci_ch5_ex_q03_c",
+    "chapter": "Periodic Classification of Elements",
+    "section": "EXERCISES (Pages 91-92)",
+    "question_number": "3(c)",
+    "text": "[NCERT Exercise 3(c)] Which element has a total of three shells, with four electrons in its valence shell?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Silicon ($\\text{Si}$, $Z=14$), with electronic configuration $2, 8, 4$",
+        "is_correct": true,
+        "rationale": "Three shells (K, L, M) filled as $2, 8, 4$ total 14 electrons, which corresponds to Silicon in Group 14, Period 3.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Carbon ($\\text{C}$, $Z=6$)",
+        "is_correct": false,
+        "rationale": "Carbon has only 2 shells ($2, 4$).",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Germanium ($\\text{Ge}$, $Z=32$)",
+        "is_correct": false,
+        "rationale": "Germanium has 4 shells ($2, 8, 18, 4$).",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Phosphorus ($\\text{P}$, $Z=15$)",
+        "is_correct": false,
+        "rationale": "Phosphorus has 5 electrons in its valence shell ($2, 8, 5$).",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Silicon ($\\text{Si}$, $Z=14$), with electronic configuration $2, 8, 4$\n\nScientific Principle / Key Concept:\n• Three shells (K, L, M) means K=2, L=8, and M shell has 4 valence electrons.\n• Electronic configuration: $2, 8, 4$.\n• Total number of electrons = $2 + 8 + 4 = 14$.\n• Atomic number 14 belongs to Silicon ($\\text{Si}$).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Carbon has 2 shells ($2, 4$).\n• Option (C): Germanium has 4 shells.\n• Option (D): Phosphorus has 5 valence electrons.",
+    "step_by_step_solution": "Correct Answer: (A) Silicon ($\\text{Si}$, $Z=14$), with electronic configuration $2, 8, 4$\n\nScientific Principle / Key Concept:\n• Three shells (K, L, M) means K=2, L=8, and M shell has 4 valence electrons.\n• Electronic configuration: $2, 8, 4$.\n• Total number of electrons = $2 + 8 + 4 = 14$.\n• Atomic number 14 belongs to Silicon ($\\text{Si}$).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Carbon has 2 shells ($2, 4$).\n• Option (C): Germanium has 4 shells.\n• Option (D): Phosphorus has 5 valence electrons.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "Exercises (Pages 91-92)",
+    "questionNumber": "3(c)"
+  },
+  {
+    "id": "sci_ch5_ex_q03_d",
+    "chapter": "Periodic Classification of Elements",
+    "section": "EXERCISES (Pages 91-92)",
+    "question_number": "3(d)",
+    "text": "[NCERT Exercise 3(d)] Which element has a total of two shells, with three electrons in its valence shell?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Boron ($\\text{B}$, $Z=5$), with electronic configuration $2, 3$",
+        "is_correct": true,
+        "rationale": "Two shells (K and L): K has 2 and L has 3 electrons. Total electrons = $2 + 3 = 5$, which is Boron in Group 13, Period 2.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Aluminium ($\\text{Al}$, $Z=13$)",
+        "is_correct": false,
+        "rationale": "Aluminium has 3 shells ($2, 8, 3$), not 2.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Lithium ($\\text{Li}$, $Z=3$)",
+        "is_correct": false,
+        "rationale": "Lithium has 1 electron in its valence shell ($2, 1$).",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Nitrogen ($\\text{N}$, $Z=7$)",
+        "is_correct": false,
+        "rationale": "Nitrogen has 5 electrons in its valence shell ($2, 5$).",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Boron ($\\text{B}$, $Z=5$), with electronic configuration $2, 3$\n\nScientific Principle / Key Concept:\n• Two shells (K and L) with 3 valence electrons in L shell.\n• Electronic configuration: $2, 3$.\n• Total number of electrons = $2 + 3 = 5$.\n• Atomic number 5 corresponds to Boron ($\\text{B}$).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Aluminium has 3 shells ($2, 8, 3$).\n• Option (C): Lithium has 1 valence electron ($2, 1$).\n• Option (D): Nitrogen has 5 valence electrons ($2, 5$).",
+    "step_by_step_solution": "Correct Answer: (A) Boron ($\\text{B}$, $Z=5$), with electronic configuration $2, 3$\n\nScientific Principle / Key Concept:\n• Two shells (K and L) with 3 valence electrons in L shell.\n• Electronic configuration: $2, 3$.\n• Total number of electrons = $2 + 3 = 5$.\n• Atomic number 5 corresponds to Boron ($\\text{B}$).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Aluminium has 3 shells ($2, 8, 3$).\n• Option (C): Lithium has 1 valence electron ($2, 1$).\n• Option (D): Nitrogen has 5 valence electrons ($2, 5$).",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "Exercises (Pages 91-92)",
+    "questionNumber": "3(d)"
+  },
+  {
+    "id": "sci_ch5_ex_q03_e",
+    "chapter": "Periodic Classification of Elements",
+    "section": "EXERCISES (Pages 91-92)",
+    "question_number": "3(e)",
+    "text": "[NCERT Exercise 3(e)] Which element has twice as many electrons in its second shell as in its first shell?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Carbon ($\\text{C}$, $Z=6$), with electronic configuration $2, 4$",
+        "is_correct": true,
+        "rationale": "First shell (K) has 2 electrons. Twice as many in second shell (L) = $2 \\times 2 = 4$ electrons. Total = $2 + 4 = 6$, which is Carbon.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Beryllium ($\\text{Be}$, $Z=4$)",
+        "is_correct": false,
+        "rationale": "Beryllium has configuration $2, 2$ (equal electrons in both shells).",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Oxygen ($\\text{O}$, $Z=8$)",
+        "is_correct": false,
+        "rationale": "Oxygen has configuration $2, 6$ (three times as many, not twice).",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Magnesium ($\\text{Mg}$, $Z=12$)",
+        "is_correct": false,
+        "rationale": "Magnesium has 3 shells ($2, 8, 2$).",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) Carbon ($\\text{C}$, $Z=6$), with electronic configuration $2, 4$\n\nScientific Principle / Key Concept:\n• The first shell (K) can accommodate maximum 2 electrons.\n• Second shell (L) has twice as many electrons = $2 \\times 2 = 4$ electrons.\n• Configuration is $2, 4$.\n• Total number of electrons = $2 + 4 = 6$.\n• Atomic number 6 corresponds to Carbon ($\\text{C}$).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Be is $2, 2$ (1:1 ratio).\n• Option (C): O is $2, 6$ (3:1 ratio).\n• Option (D): Mg has 3 shells.",
+    "step_by_step_solution": "Correct Answer: (A) Carbon ($\\text{C}$, $Z=6$), with electronic configuration $2, 4$\n\nScientific Principle / Key Concept:\n• The first shell (K) can accommodate maximum 2 electrons.\n• Second shell (L) has twice as many electrons = $2 \\times 2 = 4$ electrons.\n• Configuration is $2, 4$.\n• Total number of electrons = $2 + 4 = 6$.\n• Atomic number 6 corresponds to Carbon ($\\text{C}$).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Be is $2, 2$ (1:1 ratio).\n• Option (C): O is $2, 6$ (3:1 ratio).\n• Option (D): Mg has 3 shells.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "Exercises (Pages 91-92)",
+    "questionNumber": "3(e)"
+  },
+  {
+    "id": "sci_ch5_ex_q04_a",
+    "chapter": "Periodic Classification of Elements",
+    "section": "EXERCISES (Pages 91-92)",
+    "question_number": "4(a)",
+    "text": "[NCERT Exercise 4(a)] What property do all elements in the same column (Group 13) of the Periodic Table as boron have in common?",
+    "options": [
+      {
+        "id": "A",
+        "text": "All of them have 3 valence electrons in their outermost shell and exhibit a common chemical valency of 3.",
+        "is_correct": true,
+        "rationale": "Elements in Group 13 (B, Al, Ga, In, Tl) all share the outer shell configuration $ns^2 np^1$, giving 3 valence electrons and trivalent bonding behavior.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "All of them are non-metallic gases at room temperature.",
+        "is_correct": false,
+        "rationale": "Boron is a metalloid solid, and Al, Ga, In, Tl are solid metals.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "All of them have completely filled outermost octets.",
+        "is_correct": false,
+        "rationale": "Group 13 elements have only 3 valence electrons, not an octet.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "All of them form singly charged $\\text{M}^+$ univalent cations exclusively.",
+        "is_correct": false,
+        "rationale": "They primarily form trivalent compounds ($\\text{M}^{3+}$ / covalent trihalides like $\\text{BCl}_3, \\text{AlCl}_3$).",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) All of them have 3 valence electrons in their outermost shell and exhibit a common chemical valency of 3.\n\nScientific Principle / Key Concept:\n• All elements in the same column (Group 13) as Boron ($\\text{B}, \\text{Al}, \\text{Ga}, \\text{In}, \\text{Tl}$) possess 3 electrons in their valence shell ($ns^2 np^1$).\n• Consequently, they share a common valency of 3 and form oxides with general formula $\\text{R}_2\\text{O}_3$ and halides with formula $\\text{RCl}_3$.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. They are solids; only B is a metalloid, others are metals.\n• Option (C): Incorrect. They have 3 valence electrons.\n• Option (D): Group 1 alkali metals form $\\text{M}^+$.",
+    "step_by_step_solution": "Correct Answer: (A) All of them have 3 valence electrons in their outermost shell and exhibit a common chemical valency of 3.\n\nScientific Principle / Key Concept:\n• All elements in the same column (Group 13) as Boron ($\\text{B}, \\text{Al}, \\text{Ga}, \\text{In}, \\text{Tl}$) possess 3 electrons in their valence shell ($ns^2 np^1$).\n• Consequently, they share a common valency of 3 and form oxides with general formula $\\text{R}_2\\text{O}_3$ and halides with formula $\\text{RCl}_3$.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. They are solids; only B is a metalloid, others are metals.\n• Option (C): Incorrect. They have 3 valence electrons.\n• Option (D): Group 1 alkali metals form $\\text{M}^+$.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "Exercises (Pages 91-92)",
+    "questionNumber": "4(a)"
+  },
+  {
+    "id": "sci_ch5_ex_q04_b",
+    "chapter": "Periodic Classification of Elements",
+    "section": "EXERCISES (Pages 91-92)",
+    "question_number": "4(b)",
+    "text": "[NCERT Exercise 4(b)] What property do all elements in the same column (Group 17) of the Periodic Table as fluorine have in common?",
+    "options": [
+      {
+        "id": "A",
+        "text": "All of them have 7 valence electrons in their outermost shell, a valency of 1, and strong tendency to gain 1 electron forming univalent halide anions ($\\text{X}^-$).",
+        "is_correct": true,
+        "rationale": "Group 17 halogens (F, Cl, Br, I) have valence configuration $ns^2 np^5$ (7 valence electrons). Each requires 1 electron to complete its octet, exhibiting a valency of 1 and forming salt-producing halides.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "All of them are strongly electropositive metals that lose 7 electrons.",
+        "is_correct": false,
+        "rationale": "Halogens are electronegative non-metals that gain 1 electron, not metals.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "All of them form basic metal oxides with water.",
+        "is_correct": false,
+        "rationale": "Halogens are non-metals and form acidic oxides.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "All of them have completely filled outermost shells with zero valency.",
+        "is_correct": false,
+        "rationale": "They need 1 electron to achieve an octet; Group 18 noble gases have filled shells.",
+        "correct": false
+      }
+    ],
+    "difficulty": "easy",
+    "solution": "Correct Answer: (A) All of them have 7 valence electrons in their outermost shell, a valency of 1, and strong tendency to gain 1 electron forming univalent halide anions ($\\text{X}^-$).\n\nScientific Principle / Key Concept:\n• All elements in Group 17 (Halogens: $\\text{F}, \\text{Cl}, \\text{Br}, \\text{I}, \\text{At}$) have 7 electrons in their outermost shell ($ns^2 np^5$).\n• They all need 1 electron to achieve stable octet configuration.\n• Hence, they all share a common valency of 1 ($8 - 7 = 1$) and form univalent anions ($\\text{F}^-, \\text{Cl}^-, \\text{Br}^-, \\text{I}^-$).\n• They all form diatomic molecules ($\\text{F}_2, \\text{Cl}_2, \\text{Br}_2, \\text{I}_2$) and salts with metals.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. They are electronegative non-metals.\n• Option (C): Incorrect. Non-metal oxides are acidic.\n• Option (D): Incorrect. They have 7, not 8 valence electrons.",
+    "step_by_step_solution": "Correct Answer: (A) All of them have 7 valence electrons in their outermost shell, a valency of 1, and strong tendency to gain 1 electron forming univalent halide anions ($\\text{X}^-$).\n\nScientific Principle / Key Concept:\n• All elements in Group 17 (Halogens: $\\text{F}, \\text{Cl}, \\text{Br}, \\text{I}, \\text{At}$) have 7 electrons in their outermost shell ($ns^2 np^5$).\n• They all need 1 electron to achieve stable octet configuration.\n• Hence, they all share a common valency of 1 ($8 - 7 = 1$) and form univalent anions ($\\text{F}^-, \\text{Cl}^-, \\text{Br}^-, \\text{I}^-$).\n• They all form diatomic molecules ($\\text{F}_2, \\text{Cl}_2, \\text{Br}_2, \\text{I}_2$) and salts with metals.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. They are electronegative non-metals.\n• Option (C): Incorrect. Non-metal oxides are acidic.\n• Option (D): Incorrect. They have 7, not 8 valence electrons.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "Exercises (Pages 91-92)",
+    "questionNumber": "4(b)"
+  },
+  {
+    "id": "sci_ch5_ex_q05",
+    "chapter": "Periodic Classification of Elements",
+    "section": "EXERCISES (Pages 91-92)",
+    "question_number": "5",
+    "text": "[NCERT Exercise 5] An atom has electronic configuration $2, 8, 7$. What is the atomic number of this element, and to which of the following elements would it be chemically similar: $\\text{N}(7), \\text{F}(9), \\text{P}(15), \\text{Ar}(18)$?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Atomic number = 17 (Chlorine); chemically similar to Fluorine ($\\text{F}$, $Z=9$) because both have 7 valence electrons in their outermost shell.",
+        "is_correct": true,
+        "rationale": "Atomic number = $2 + 8 + 7 = 17$. Fluorine has $Z=9$ (configuration $2, 7$), also having 7 valence electrons. Elements with the same valence electrons belong to the same group (Group 17) and exhibit similar chemical properties.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Atomic number = 18; chemically similar to Argon ($\\text{Ar}$, $Z=18$).",
+        "is_correct": false,
+        "rationale": "Sum of $2 + 8 + 7 = 17$, not 18, and argon is an inert noble gas with 8 valence electrons.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Atomic number = 17; chemically similar to Nitrogen ($\\text{N}$, $Z=7$).",
+        "is_correct": false,
+        "rationale": "Nitrogen has 5 valence electrons ($2, 5$), belonging to Group 15, not Group 17.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Atomic number = 15; chemically similar to Phosphorus ($\\text{P}$, $Z=15$).",
+        "is_correct": false,
+        "rationale": "Atomic number is 17, and phosphorus has 5 valence electrons ($2, 8, 5$).",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) Atomic number = 17 (Chlorine); chemically similar to Fluorine ($\\text{F}$, $Z=9$) because both have 7 valence electrons in their outermost shell.\n\nScientific Principle / Key Concept:\n1. Atomic number = total number of electrons = $2 + 8 + 7 = 17$ (Chlorine, $\\text{Cl}$).\n2. Chemical similarity depends on the number of valence electrons:\n• $\\text{N} (Z=7): 2, 5$ (5 valence electrons)\n• $\\text{F} (Z=9): 2, 7$ (7 valence electrons)\n• $\\text{P} (Z=15): 2, 8, 5$ (5 valence electrons)\n• $\\text{Ar} (Z=18): 2, 8, 8$ (8 valence electrons)\nSince Fluorine has 7 valence electrons, it belongs to the same group (Group 17, halogens) and is chemically similar to Chlorine.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Ar has 8 valence electrons.\n• Option (C): N has 5 valence electrons.\n• Option (D): P has 5 valence electrons.",
+    "step_by_step_solution": "Correct Answer: (A) Atomic number = 17 (Chlorine); chemically similar to Fluorine ($\\text{F}$, $Z=9$) because both have 7 valence electrons in their outermost shell.\n\nScientific Principle / Key Concept:\n1. Atomic number = total number of electrons = $2 + 8 + 7 = 17$ (Chlorine, $\\text{Cl}$).\n2. Chemical similarity depends on the number of valence electrons:\n• $\\text{N} (Z=7): 2, 5$ (5 valence electrons)\n• $\\text{F} (Z=9): 2, 7$ (7 valence electrons)\n• $\\text{P} (Z=15): 2, 8, 5$ (5 valence electrons)\n• $\\text{Ar} (Z=18): 2, 8, 8$ (8 valence electrons)\nSince Fluorine has 7 valence electrons, it belongs to the same group (Group 17, halogens) and is chemically similar to Chlorine.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Ar has 8 valence electrons.\n• Option (C): N has 5 valence electrons.\n• Option (D): P has 5 valence electrons.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "Exercises (Pages 91-92)",
+    "questionNumber": "5"
+  },
+  {
+    "id": "sci_ch5_ex_q06",
+    "chapter": "Periodic Classification of Elements",
+    "section": "EXERCISES (Pages 91-92)",
+    "question_number": "6",
+    "text": "[NCERT Exercise 6] The positions of three elements A, B, and C in the Periodic Table are shown below:\nGroup 16: -, -, B\nGroup 17: -, A, -, C\nWhich statement correctly describes the properties of A, B, and C?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A is a non-metal; C is less reactive than A; C is smaller in size than B; and element A forms an anion ($\\text{A}^-$).",
+        "is_correct": true,
+        "rationale": "Group 17 elements are non-metals (halogens). Reactivity of halogens decreases down the group, so C is less reactive than A. Atomic radius decreases across a period from left to right, so C (Group 17) is smaller than B (Group 16 in the same period). Non-metals in Group 17 gain 1 electron to form negative anions.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "A is an alkali metal; C is more reactive than A; C is larger in size than B; and A forms a cation.",
+        "is_correct": false,
+        "rationale": "Group 17 contains non-metals (halogens), not alkali metals, and atomic size decreases from Group 16 to Group 17.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "A is a metalloid; C is a noble gas; B forms cations; and C is identical in size to B.",
+        "is_correct": false,
+        "rationale": "Group 17 elements are halogens, not noble gases, and sizes are not identical.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "C is more reactive than A because non-metallic reactivity increases down every group.",
+        "is_correct": false,
+        "rationale": "Non-metallic reactivity decreases down Group 17 due to increasing atomic radius and decreasing electron affinity.",
+        "correct": false
+      }
+    ],
+    "difficulty": "hard",
+    "solution": "Correct Answer: (A) A is a non-metal; C is less reactive than A; C is smaller in size than B; and element A forms an anion ($\\text{A}^-$).\n\nScientific Principle / Key Concept:\n• Table Position:\n  - Group 16: Period 2 (-), Period 3 (-), Period 4 (B)\n  - Group 17: Period 2 (-), Period 3 (A), Period 4 (-), Period 5 (C)\n1. Metal or Non-metal: Element A is in Group 17 (Halogens). Halogens have 7 valence electrons and high electronegativity, so A is a NON-METAL.\n2. Reactivity of C vs A: In Group 17, non-metallic reactivity depends on electron-gaining ability. As we move down the group, atomic size increases, effective nuclear pull decreases, and tendency to gain electrons decreases. Hence, C is LESS REACTIVE than A.\n3. Size of C vs B: B is in Group 16 and C is in Group 17 (or C is in a period below, but comparing across: atomic radius decreases from left to right across a period because nuclear charge increases, pulling electrons closer; hence Group 17 element C is smaller than Group 16 element B of the same/adjacent period).\n4. Ion formed by A: Group 17 element A has 7 valence electrons; it gains 1 electron to complete its octet, forming an ANION ($\\text{A}^-$).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Inverts non-metal, reactivity, and ion type.\n• Option (C): Misidentifies group identities.\n• Option (D): Non-metallic reactivity decreases down a group.",
+    "step_by_step_solution": "Correct Answer: (A) A is a non-metal; C is less reactive than A; C is smaller in size than B; and element A forms an anion ($\\text{A}^-$).\n\nScientific Principle / Key Concept:\n• Table Position:\n  - Group 16: Period 2 (-), Period 3 (-), Period 4 (B)\n  - Group 17: Period 2 (-), Period 3 (A), Period 4 (-), Period 5 (C)\n1. Metal or Non-metal: Element A is in Group 17 (Halogens). Halogens have 7 valence electrons and high electronegativity, so A is a NON-METAL.\n2. Reactivity of C vs A: In Group 17, non-metallic reactivity depends on electron-gaining ability. As we move down the group, atomic size increases, effective nuclear pull decreases, and tendency to gain electrons decreases. Hence, C is LESS REACTIVE than A.\n3. Size of C vs B: B is in Group 16 and C is in Group 17 (or C is in a period below, but comparing across: atomic radius decreases from left to right across a period because nuclear charge increases, pulling electrons closer; hence Group 17 element C is smaller than Group 16 element B of the same/adjacent period).\n4. Ion formed by A: Group 17 element A has 7 valence electrons; it gains 1 electron to complete its octet, forming an ANION ($\\text{A}^-$).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Inverts non-metal, reactivity, and ion type.\n• Option (C): Misidentifies group identities.\n• Option (D): Non-metallic reactivity decreases down a group.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "Exercises (Pages 91-92)",
+    "questionNumber": "6"
+  },
+  {
+    "id": "sci_ch5_ex_q07",
+    "chapter": "Periodic Classification of Elements",
+    "section": "EXERCISES (Pages 91-92)",
+    "question_number": "7",
+    "text": "[NCERT Exercise 7] Nitrogen (atomic number 7) and phosphorus (atomic number 15) belong to group 15 of the Periodic Table. Write their electronic configurations. Which of these will be more electronegative and why?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nitrogen: $2, 5$; Phosphorus: $2, 8, 5$. Nitrogen is more electronegative because its atomic radius is smaller, allowing the nucleus to attract shared electrons more strongly.",
+        "is_correct": true,
+        "rationale": "Nitrogen has only 2 shells while phosphorus has 3 shells. The smaller atomic radius of nitrogen results in a stronger effective electrostatic attraction between the nucleus and bonding electrons, making nitrogen significantly more electronegative than phosphorus.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Nitrogen: $2, 5$; Phosphorus: $2, 8, 5$. Phosphorus is more electronegative because it has more protons in its nucleus.",
+        "is_correct": false,
+        "rationale": "Although phosphorus has more protons, its extra electron shell increases shielding and atomic distance, which decreases electronegativity down a group.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Nitrogen: $2, 8$; Phosphorus: $2, 8, 8$. Both have identical electronegativity.",
+        "is_correct": false,
+        "rationale": "These configurations are for noble gases, not Group 15 elements.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Neither is electronegative because Group 15 elements are all electropositive metals.",
+        "is_correct": false,
+        "rationale": "Nitrogen and phosphorus are non-metals with high electronegativity values (N = 3.04, P = 2.19).",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) Nitrogen: $2, 5$; Phosphorus: $2, 8, 5$. Nitrogen is more electronegative because its atomic radius is smaller, allowing the nucleus to attract shared electrons more strongly.\n\nScientific Principle / Key Concept:\n• Electronic configurations:\n  - Nitrogen ($Z=7$): $2, 5$ (2 occupied shells: K, L)\n  - Phosphorus ($Z=15$): $2, 8, 5$ (3 occupied shells: K, L, M)\n• Electronegativity is the tendency of an atom to attract shared pair of electrons toward itself.\n• Moving down Group 15 from N to P, an additional electron shell is added, which increases atomic size and nuclear shielding.\n• Because nitrogen has a smaller atomic size, its nucleus is closer to the valence shell and exerts a much stronger pull on shared electron pairs.\n• Therefore, Nitrogen is more electronegative than Phosphorus.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Distance and shielding overcome extra nuclear charge down a group.\n• Option (C): Incorrect electronic configurations.\n• Option (D): Incorrect. N and P are non-metals.",
+    "step_by_step_solution": "Correct Answer: (A) Nitrogen: $2, 5$; Phosphorus: $2, 8, 5$. Nitrogen is more electronegative because its atomic radius is smaller, allowing the nucleus to attract shared electrons more strongly.\n\nScientific Principle / Key Concept:\n• Electronic configurations:\n  - Nitrogen ($Z=7$): $2, 5$ (2 occupied shells: K, L)\n  - Phosphorus ($Z=15$): $2, 8, 5$ (3 occupied shells: K, L, M)\n• Electronegativity is the tendency of an atom to attract shared pair of electrons toward itself.\n• Moving down Group 15 from N to P, an additional electron shell is added, which increases atomic size and nuclear shielding.\n• Because nitrogen has a smaller atomic size, its nucleus is closer to the valence shell and exerts a much stronger pull on shared electron pairs.\n• Therefore, Nitrogen is more electronegative than Phosphorus.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Incorrect. Distance and shielding overcome extra nuclear charge down a group.\n• Option (C): Incorrect electronic configurations.\n• Option (D): Incorrect. N and P are non-metals.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "Exercises (Pages 91-92)",
+    "questionNumber": "7"
+  },
+  {
+    "id": "sci_ch5_ex_q08",
+    "chapter": "Periodic Classification of Elements",
+    "section": "EXERCISES (Pages 91-92)",
+    "question_number": "8",
+    "text": "[NCERT Exercise 8] How does the electronic configuration of an atom relate to its position (period and group) in the Modern Periodic Table?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The number of occupied electron shells determines the Period number, and the number of valence electrons determines the Group number (Group = valence electrons for 1, 2; Group = $10 + \\text{valence electrons}$ for 3 to 8).",
+        "is_correct": true,
+        "rationale": "Period number = principal energy level / number of shells. Group number reflects valence electrons: 1 valence electron = Group 1; 2 valence electrons = Group 2; 3 to 8 valence electrons = Groups 13 to 18.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "The total number of neutrons determines the period, and total protons determine the group.",
+        "is_correct": false,
+        "rationale": "Position is governed by electronic configuration (shells and valence electrons), not neutron counts.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "The period number is always equal to the atomic mass divided by 10.",
+        "is_correct": false,
+        "rationale": "Period number is the number of occupied electron shells, unrelated to arbitrary mass divisions.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Electronic configuration has no relationship with position in the Modern Periodic Table.",
+        "is_correct": false,
+        "rationale": "The entire architecture of the Modern Periodic Table is directly based on electronic configurations.",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) The number of occupied electron shells determines the Period number, and the number of valence electrons determines the Group number (Group = valence electrons for 1, 2; Group = $10 + \\text{valence electrons}$ for 3 to 8).\n\nScientific Principle / Key Concept:\nRelationship between Electronic Configuration and Periodic Position:\n1. Period Number:\n• The number of occupied electron shells in an atom determines its period.\n• Example: Sodium ($2, 8, 1$) has 3 shells (K, L, M) $\\rightarrow$ Period 3.\n2. Group Number:\n• The number of valence electrons in the outermost shell determines its group:\n  - If valence electrons = 1 $\\rightarrow$ Group 1\n  - If valence electrons = 2 $\\rightarrow$ Group 2\n  - If valence electrons = 3 to 8 $\\rightarrow$ Group = $10 + \\text{valence electrons}$ (e.g., Chlorine with 7 valence electrons is in Group $10 + 7 = 17$).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Neutrons do not determine periods.\n• Option (C): Mass is not used.\n• Option (D): Electronic configuration is the fundamental basis of the table.",
+    "step_by_step_solution": "Correct Answer: (A) The number of occupied electron shells determines the Period number, and the number of valence electrons determines the Group number (Group = valence electrons for 1, 2; Group = $10 + \\text{valence electrons}$ for 3 to 8).\n\nScientific Principle / Key Concept:\nRelationship between Electronic Configuration and Periodic Position:\n1. Period Number:\n• The number of occupied electron shells in an atom determines its period.\n• Example: Sodium ($2, 8, 1$) has 3 shells (K, L, M) $\\rightarrow$ Period 3.\n2. Group Number:\n• The number of valence electrons in the outermost shell determines its group:\n  - If valence electrons = 1 $\\rightarrow$ Group 1\n  - If valence electrons = 2 $\\rightarrow$ Group 2\n  - If valence electrons = 3 to 8 $\\rightarrow$ Group = $10 + \\text{valence electrons}$ (e.g., Chlorine with 7 valence electrons is in Group $10 + 7 = 17$).\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Neutrons do not determine periods.\n• Option (C): Mass is not used.\n• Option (D): Electronic configuration is the fundamental basis of the table.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "Exercises (Pages 91-92)",
+    "questionNumber": "8"
+  },
+  {
+    "id": "sci_ch5_ex_q09",
+    "chapter": "Periodic Classification of Elements",
+    "section": "EXERCISES (Pages 91-92)",
+    "question_number": "9",
+    "text": "[NCERT Exercise 9] In the Modern Periodic Table, calcium (atomic number 20) is surrounded by elements with atomic numbers 12, 19, 21, and 38. Which of these have physical and chemical properties resembling calcium?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Elements with atomic numbers 12 (Magnesium, $\\text{Mg}$) and 38 (Strontium, $\\text{Sr}$)",
+        "is_correct": true,
+        "rationale": "Calcium ($Z=20$, $2,8,8,2$) belongs to Group 2. Elements with $Z=12$ (Mg, $2,8,2$) and $Z=38$ (Sr, $2,8,18,8,2$) also have 2 valence electrons and belong to the same vertical group (Group 2), exhibiting closely resembling physical and chemical properties.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Elements with atomic numbers 19 (Potassium) and 21 (Scandium)",
+        "is_correct": false,
+        "rationale": "Potassium ($Z=19$) is an alkali metal (Group 1) and scandium ($Z=21$) is a transition metal (Group 3); they belong to different groups and have different properties.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "All four elements (12, 19, 21, 38) because they are directly adjacent in the grid.",
+        "is_correct": false,
+        "rationale": "Chemical resemblance occurs along vertical groups with identical valence electrons, not across horizontal period neighbors.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Only element 21 (Scandium) because it is the next consecutive integer.",
+        "is_correct": false,
+        "rationale": "Consecutive atomic numbers belong to different groups with completely different valence electron configurations.",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) Elements with atomic numbers 12 (Magnesium, $\\text{Mg}$) and 38 (Strontium, $\\text{Sr}$)\n\nScientific Principle / Key Concept:\n• Elements in the same group possess the same number of valence electrons and exhibit similar physical and chemical properties.\n• Electronic configurations:\n  - Calcium ($Z=20$): $2, 8, 8, 2$ (2 valence electrons, Group 2)\n  - Element $12$ (Magnesium): $2, 8, 2$ (2 valence electrons, Group 2)\n  - Element $38$ (Strontium): $2, 8, 18, 8, 2$ (2 valence electrons, Group 2)\n  - Element $19$ (Potassium): $2, 8, 8, 1$ (Group 1)\n  - Element $21$ (Scandium): $2, 8, 9, 2$ (Group 3)\n• Since elements with atomic numbers 12 and 38 belong to the same group (Group 2) as Calcium, they share physical and chemical properties resembling Calcium.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Potassium and scandium have 1 and 3 valence electrons.\n• Option (C): Period neighbors differ chemically.\n• Option (D): Next integer is in a different group.",
+    "step_by_step_solution": "Correct Answer: (A) Elements with atomic numbers 12 (Magnesium, $\\text{Mg}$) and 38 (Strontium, $\\text{Sr}$)\n\nScientific Principle / Key Concept:\n• Elements in the same group possess the same number of valence electrons and exhibit similar physical and chemical properties.\n• Electronic configurations:\n  - Calcium ($Z=20$): $2, 8, 8, 2$ (2 valence electrons, Group 2)\n  - Element $12$ (Magnesium): $2, 8, 2$ (2 valence electrons, Group 2)\n  - Element $38$ (Strontium): $2, 8, 18, 8, 2$ (2 valence electrons, Group 2)\n  - Element $19$ (Potassium): $2, 8, 8, 1$ (Group 1)\n  - Element $21$ (Scandium): $2, 8, 9, 2$ (Group 3)\n• Since elements with atomic numbers 12 and 38 belong to the same group (Group 2) as Calcium, they share physical and chemical properties resembling Calcium.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Potassium and scandium have 1 and 3 valence electrons.\n• Option (C): Period neighbors differ chemically.\n• Option (D): Next integer is in a different group.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "Exercises (Pages 91-92)",
+    "questionNumber": "9"
+  },
+  {
+    "id": "sci_ch5_ex_q10",
+    "chapter": "Periodic Classification of Elements",
+    "section": "EXERCISES (Pages 91-92)",
+    "question_number": "10",
+    "text": "[NCERT Exercise 10] Which statement correctly compares and contrasts the arrangement of elements in Mendeléev's Periodic Table versus the Modern Periodic Table?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mendeléev's Table is based on increasing atomic masses with 8 groups (divided into sub-groups A and B), could not position isotopes, and had anomalous inverted mass pairs; the Modern Periodic Table is based on increasing atomic numbers with 18 distinct vertical groups and 7 horizontal periods, naturally accommodating isotopes and resolving all mass inversions.",
+        "is_correct": true,
+        "rationale": "The foundational difference is atomic mass vs atomic number. The Modern Table expanded the structure to 18 independent columns and 7 periods, resolving isotopes, anomalous pairs (Co/Ni, Te/I), and transition element placement.",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mendeléev's Table used atomic numbers, while the Modern Table reverted to atomic masses.",
+        "is_correct": false,
+        "rationale": "Mendeléev used atomic masses; the Modern Table uses atomic numbers.",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Both tables have identical 18 groups and placed noble gases in Group 1 with alkali metals.",
+        "is_correct": false,
+        "rationale": "Mendeléev's original table had 8 groups with no noble gases initially; noble gases were placed in Group 18 in the Modern Table.",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Mendeléev's Table arranged elements into octaves of musical notes, while the Modern Table uses atomic volume triads.",
+        "is_correct": false,
+        "rationale": "Musical octaves were used by Newlands, not Mendeléev.",
+        "correct": false
+      }
+    ],
+    "difficulty": "medium",
+    "solution": "Correct Answer: (A) Mendeléev's Table is based on increasing atomic masses with 8 groups (divided into sub-groups A and B), could not position isotopes, and had anomalous inverted mass pairs; the Modern Periodic Table is based on increasing atomic numbers with 18 distinct vertical groups and 7 horizontal periods, naturally accommodating isotopes and resolving all mass inversions.\n\nScientific Principle / Key Concept:\nComparison:\n1. Basis of Classification:\n• Mendeléev's Table: Atomic mass (Properties are periodic function of atomic masses).\n• Modern Periodic Table: Atomic number (Properties are periodic function of atomic numbers).\n2. Structure:\n• Mendeléev: 8 Groups (subdivided into A and B sub-groups) and 6 Periods.\n• Modern Table: 18 Vertical columns (Groups) and 7 Horizontal rows (Periods).\n3. Anomalies & Isotopes:\n• Mendeléev could not assign a fixed place to hydrogen or isotopes, and had anomalous pairs (Co before Ni, Te before I).\n• Modern Table places isotopes in the same position and puts Co ($Z=27$) before Ni ($Z=28$) without anomaly.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Inverts the historical basis.\n• Option (C): Noble gases are in Group 18, never Group 1.\n• Option (D): Confuses Newlands with Mendeléev.",
+    "step_by_step_solution": "Correct Answer: (A) Mendeléev's Table is based on increasing atomic masses with 8 groups (divided into sub-groups A and B), could not position isotopes, and had anomalous inverted mass pairs; the Modern Periodic Table is based on increasing atomic numbers with 18 distinct vertical groups and 7 horizontal periods, naturally accommodating isotopes and resolving all mass inversions.\n\nScientific Principle / Key Concept:\nComparison:\n1. Basis of Classification:\n• Mendeléev's Table: Atomic mass (Properties are periodic function of atomic masses).\n• Modern Periodic Table: Atomic number (Properties are periodic function of atomic numbers).\n2. Structure:\n• Mendeléev: 8 Groups (subdivided into A and B sub-groups) and 6 Periods.\n• Modern Table: 18 Vertical columns (Groups) and 7 Horizontal rows (Periods).\n3. Anomalies & Isotopes:\n• Mendeléev could not assign a fixed place to hydrogen or isotopes, and had anomalous pairs (Co before Ni, Te before I).\n• Modern Table places isotopes in the same position and puts Co ($Z=27$) before Ni ($Z=28$) without anomaly.\n\nDetailed Distractor & Misconception Analysis:\n• Option (B): Inverts the historical basis.\n• Option (C): Noble gases are in Group 18, never Group 1.\n• Option (D): Confuses Newlands with Mendeléev.",
+    "subject": "science",
+    "chapterId": "sci_ch_05_periodic_classification",
+    "exercise": "Exercises (Pages 91-92)",
+    "questionNumber": "10"
+  }
+]

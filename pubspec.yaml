@@ -1,0 +1,43 @@
+name: cbse_class10_masterclass
+description: "CBSE Class 10 Masterclass - Production-Ready Cross-Platform EdTech App with Admin Moderation Pipeline"
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+  flutter: ">=3.16.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management
+  flutter_riverpod: ^2.5.1
+  riverpod_annotation: ^2.3.5
+
+  # Backend & Auth
+  supabase_flutter: ^2.5.6
+
+  # Local Offline Storage
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  # UI Enhancements & Icons
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+  flutter_animate: ^4.5.0
+  intl: ^0.19.0
+  uuid: ^4.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  build_runner: ^2.4.9
+  riverpod_generator: ^2.4.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/data/

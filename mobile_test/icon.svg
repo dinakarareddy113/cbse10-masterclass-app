@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E3A8A"/>
+      <stop offset="50%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#4F46E5"/>
+    </linearGradient>
+    <filter id="dropShadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <!-- Rounded App Icon Background -->
+  <rect width="512" height="512" rx="115" fill="url(#bgGrad)"/>
+  <rect x="8" y="8" width="496" height="496" rx="108" fill="none" stroke="#60A5FA" stroke-width="4" stroke-opacity="0.4"/>
+  <!-- Graduation Cap Icon -->
+  <g filter="url(#dropShadow)" fill="#FFFFFF">
+    <path d="M256 128 L80 216 L256 304 L416 224 L416 320 L440 320 L440 210 Z"/>
+    <path d="M144 266 L144 340 C144 380 194 408 256 408 C318 408 368 380 368 340 L368 266 L256 324 Z"/>
+    <!-- Tassel -->
+    <path d="M428 220 L428 330 C420 336 414 346 414 358 C414 374 426 386 442 386 C458 386 470 374 470 358 C470 346 464 336 456 330 L456 220 Z"/>
+  </g>
+  <!-- Badge text -->
+  <text x="256" y="460" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="900" fill="#93C5FD" text-anchor="middle" letter-spacing="2">CBSE 10</text>
+</svg>

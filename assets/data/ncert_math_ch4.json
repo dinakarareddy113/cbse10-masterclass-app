@@ -1,0 +1,930 @@
+[
+  {
+    "id": "10000000-0000-0000-0004-000000000001",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.1",
+    "questionNumber": "1(i)",
+    "difficulty": "easy",
+    "text": "[Exercise 4.1 - Q1(i)] Check whether the following is a quadratic equation:\n(x + 1)² = 2(x – 3)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Yes, it is a quadratic equation (x² + 7 = 0)",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "No, it is a linear equation",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "No, it is a cubic equation",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "None of the above",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: Expand LHS: (x + 1)² = x² + 2x + 1.\nStep 2: Expand RHS: 2(x – 3) = 2x – 6.\nStep 3: Equating LHS and RHS:\n  x² + 2x + 1 = 2x – 6\n  => x² + 7 = 0.\nStep 4: Since it is of the form ax² + bx + c = 0 with a = 1 ≠ 0, it is a quadratic equation."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000002",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.1",
+    "questionNumber": "1(ii)",
+    "difficulty": "easy",
+    "text": "[Exercise 4.1 - Q1(ii)] Check whether the following is a quadratic equation:\nx² – 2x = (–2)(3 – x)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Yes, it is a quadratic equation (x² – 4x + 6 = 0)",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "No, it is a linear equation",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "No, it is an identity",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "Yes, with degree 1",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: LHS = x² – 2x.\nStep 2: RHS = (–2)(3 – x) = –6 + 2x.\nStep 3: Equating:\n  x² – 2x = –6 + 2x\n  => x² – 4x + 6 = 0.\nStep 4: Degree is 2, hence it is a quadratic equation."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000003",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.1",
+    "questionNumber": "1(iii)",
+    "difficulty": "easy",
+    "text": "[Exercise 4.1 - Q1(iii)] Check whether the following is a quadratic equation:\n(x – 2)(x + 1) = (x – 1)(x + 3)",
+    "options": [
+      {
+        "id": "A",
+        "text": "No, it is a linear equation (3x – 1 = 0)",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "Yes, it is a quadratic equation",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "Yes, with roots 2 and –1",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "It is a cubic equation",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: LHS = (x – 2)(x + 1) = x² – x – 2.\nStep 2: RHS = (x – 1)(x + 3) = x² + 2x – 3.\nStep 3: Equating:\n  x² – x – 2 = x² + 2x – 3\n  => 3x – 1 = 0.\nStep 4: The x² term cancels out completely. Degree is 1, so it is NOT a quadratic equation."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000004",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.1",
+    "questionNumber": "1(iv)",
+    "difficulty": "easy",
+    "text": "[Exercise 4.1 - Q1(iv)] Check whether the following is a quadratic equation:\n(x – 3)(2x + 1) = x(x + 5)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Yes, it is a quadratic equation (x² – 10x – 3 = 0)",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "No, it is a linear equation",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "No, it has no real terms",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "None of the above",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: LHS = (x – 3)(2x + 1) = 2x² + x – 6x – 3 = 2x² – 5x – 3.\nStep 2: RHS = x(x + 5) = x² + 5x.\nStep 3: 2x² – 5x – 3 = x² + 5x => x² – 10x – 3 = 0.\nStep 4: It is of the form ax² + bx + c = 0 (a = 1 ≠ 0), so it is a quadratic equation."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000005",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.1",
+    "questionNumber": "1(v)",
+    "difficulty": "easy",
+    "text": "[Exercise 4.1 - Q1(v)] Check whether the following is a quadratic equation:\n(2x – 1)(x – 3) = (x + 5)(x – 1)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Yes, it is a quadratic equation (x² – 11x + 8 = 0)",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "No, it is linear (11x – 8 = 0)",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "No, it has degree 3",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "Cannot be determined",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: LHS = 2x² – 6x – x + 3 = 2x² – 7x + 3.\nStep 2: RHS = x² – x + 5x – 5 = x² + 4x – 5.\nStep 3: 2x² – 7x + 3 = x² + 4x – 5 => x² – 11x + 8 = 0.\nStep 4: Degree is 2. Hence, it is a quadratic equation."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000006",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.1",
+    "questionNumber": "1(vi)",
+    "difficulty": "easy",
+    "text": "[Exercise 4.1 - Q1(vi)] Check whether the following is a quadratic equation:\nx² + 3x + 1 = (x – 2)²",
+    "options": [
+      {
+        "id": "A",
+        "text": "No, it simplifies to a linear equation (7x – 3 = 0)",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "Yes, it is a quadratic equation",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "Yes, degree is 2",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "It has infinite roots",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: LHS = x² + 3x + 1.\nStep 2: RHS = (x – 2)² = x² – 4x + 4.\nStep 3: x² + 3x + 1 = x² – 4x + 4 => 7x – 3 = 0.\nStep 4: Since x² cancels out, degree is 1. It is not a quadratic equation."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000007",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.1",
+    "questionNumber": "1(vii)",
+    "difficulty": "medium",
+    "text": "[Exercise 4.1 - Q1(vii)] Check whether the following is a quadratic equation:\n(x + 2)³ = 2x(x² – 1)",
+    "options": [
+      {
+        "id": "A",
+        "text": "No, it is a cubic equation (x³ – 6x² – 14x – 8 = 0)",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "Yes, it is a quadratic equation",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "Yes, degree is 2",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "It is linear",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: LHS = (x + 2)³ = x³ + 6x² + 12x + 8.\nStep 2: RHS = 2x(x² – 1) = 2x³ – 2x.\nStep 3: x³ + 6x² + 12x + 8 = 2x³ – 2x => x³ – 6x² – 14x – 8 = 0.\nStep 4: Highest power is 3. Hence, it is cubic, NOT quadratic."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000008",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.1",
+    "questionNumber": "1(viii)",
+    "difficulty": "medium",
+    "text": "[Exercise 4.1 - Q1(viii)] Check whether the following is a quadratic equation:\nx³ – 4x² – x + 1 = (x – 2)³",
+    "options": [
+      {
+        "id": "A",
+        "text": "Yes, it is a quadratic equation (2x² – 13x + 9 = 0)",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "No, it is a cubic equation",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "No, it is linear",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "None of the above",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: LHS = x³ – 4x² – x + 1.\nStep 2: RHS = (x – 2)³ = x³ – 6x² + 12x – 8.\nStep 3: x³ – 4x² – x + 1 = x³ – 6x² + 12x – 8 => 2x² – 13x + 9 = 0.\nStep 4: The x³ terms cancel out leaving degree 2. It is a quadratic equation."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000009",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.1",
+    "questionNumber": "2(i)",
+    "difficulty": "medium",
+    "text": "[Exercise 4.1 - Q2(i)] Represent the situation as a quadratic equation:\nThe area of a rectangular plot is 528 m². The length of the plot (in metres) is one more than twice its breadth. We need to find the length and breadth of the plot.",
+    "options": [
+      {
+        "id": "A",
+        "text": "2x² + x – 528 = 0, where x is breadth in metres",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "x² + 2x – 528 = 0",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "2x² – x + 528 = 0",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "2x² + 2x – 528 = 0",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: Let the breadth of the rectangular plot be x metres.\nStep 2: Length is one more than twice its breadth => Length = (2x + 1) metres.\nStep 3: Area = Length × Breadth = x(2x + 1) = 2x² + x.\nStep 4: Given area = 528 m² => 2x² + x = 528 => 2x² + x – 528 = 0."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000010",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.1",
+    "questionNumber": "2(ii)",
+    "difficulty": "medium",
+    "text": "[Exercise 4.1 - Q2(ii)] Represent the situation as a quadratic equation:\nThe product of two consecutive positive integers is 306. We need to find the integers.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x² + x – 306 = 0, where x is the smaller integer",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "x² + 2x – 306 = 0",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "x² – x – 306 = 0",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "2x² + x – 306 = 0",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: Let two consecutive positive integers be x and (x + 1).\nStep 2: Their product = x(x + 1) = x² + x.\nStep 3: Given product = 306 => x² + x = 306 => x² + x – 306 = 0."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000011",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.1",
+    "questionNumber": "2(iii)",
+    "difficulty": "medium",
+    "text": "[Exercise 4.1 - Q2(iii)] Represent the situation as a quadratic equation:\nRohan’s mother is 26 years older than him. The product of their ages (in years) 3 years from now will be 360. We would like to find Rohan’s present age.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x² + 32x – 273 = 0, where x is Rohan's present age",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "x² + 26x – 360 = 0",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "x² + 29x – 273 = 0",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "x² + 32x + 273 = 0",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: Let Rohan's present age be x years.\nStep 2: Mother's present age = (x + 26) years.\nStep 3: After 3 years: Rohan's age = (x + 3); Mother's age = (x + 26 + 3) = (x + 29).\nStep 4: Product = (x + 3)(x + 29) = x² + 32x + 87.\nStep 5: Given product = 360 => x² + 32x + 87 = 360 => x² + 32x – 273 = 0."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000012",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.1",
+    "questionNumber": "2(iv)",
+    "difficulty": "hard",
+    "text": "[Exercise 4.1 - Q2(iv)] Represent the situation as a quadratic equation:\nA train travels a distance of 480 km at a uniform speed. If the speed had been 8 km/h less, then it would have taken 3 hours more to cover the same distance. We need to find the speed of the train.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x² – 8x – 1280 = 0, where x is speed in km/h",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "x² + 8x – 1280 = 0",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "x² – 8x – 480 = 0",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "3x² – 8x – 1280 = 0",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: Let speed of train be x km/h. Time taken to travel 480 km = 480/x hours.\nStep 2: When speed is reduced by 8 km/h, speed = (x – 8) km/h. Time taken = 480/(x – 8) hours.\nStep 3: Difference in time is 3 hours:\n  480/(x – 8) – 480/x = 3\nStep 4: 480 [ (x – (x – 8)) / (x(x – 8)) ] = 3\n  => 480 × 8 / (x² – 8x) = 3\n  => 3(x² – 8x) = 3840\n  => x² – 8x = 1280\n  => x² – 8x – 1280 = 0."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000013",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.2",
+    "questionNumber": "1(i)",
+    "difficulty": "medium",
+    "text": "[Exercise 4.2 - Q1(i)] Find the roots of the quadratic equation by factorisation:\nx² – 3x – 10 = 0",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 5 and x = –2",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "x = –5 and x = 2",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "x = 10 and x = –1",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "x = 3 and x = –10",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: Split middle term: –3x = –5x + 2x and (–5)(2) = –10.\nStep 2: x² – 5x + 2x – 10 = 0\n  => x(x – 5) + 2(x – 5) = 0\n  => (x – 5)(x + 2) = 0.\nStep 3: x – 5 = 0 => x = 5; or x + 2 = 0 => x = –2.\nRoots are 5 and –2."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000014",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.2",
+    "questionNumber": "1(ii)",
+    "difficulty": "medium",
+    "text": "[Exercise 4.2 - Q1(ii)] Find the roots of the quadratic equation by factorisation:\n2x² + x – 6 = 0",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 3/2 and x = –2",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "x = –3/2 and x = 2",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "x = 2/3 and x = –3",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "x = 6 and x = –1",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: Product = 2 × (–6) = –12. Split +x as +4x – 3x.\nStep 2: 2x² + 4x – 3x – 6 = 0\n  => 2x(x + 2) – 3(x + 2) = 0\n  => (2x – 3)(x + 2) = 0.\nStep 3: 2x – 3 = 0 => x = 3/2; x + 2 = 0 => x = –2.\nRoots are 3/2 and –2."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000015",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.2",
+    "questionNumber": "1(iii)",
+    "difficulty": "medium",
+    "text": "[Exercise 4.2 - Q1(iii)] Find the roots of the quadratic equation by factorisation:\n√2 x² + 7x + 5√2 = 0",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = –5/√2 and x = –√2",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "x = 5/√2 and x = √2",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "x = –5 and x = –2",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "x = –√2 and x = 5",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: Product = √2 × 5√2 = 5 × 2 = 10. Split 7x as 2x + 5x.\nStep 2: √2 x² + 2x + 5x + 5√2 = 0\n  => √2 x(x + √2) + 5(x + √2) = 0\n  => (√2 x + 5)(x + √2) = 0.\nStep 3: Either √2 x + 5 = 0 => x = –5/√2, or x + √2 = 0 => x = –√2."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000016",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.2",
+    "questionNumber": "1(iv)",
+    "difficulty": "medium",
+    "text": "[Exercise 4.2 - Q1(iv)] Find the roots of the quadratic equation by factorisation:\n2x² – x + 1/8 = 0",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 1/4 and x = 1/4",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "x = 1/2 and x = 1/4",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "x = –1/4 and x = –1/4",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "x = 1/8 and x = 1",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: Multiply entire equation by 8:\n  16x² – 8x + 1 = 0.\nStep 2: Recognize identity: (4x – 1)² = 16x² – 8x + 1 = 0.\nStep 3: (4x – 1)(4x – 1) = 0 => x = 1/4, 1/4.\nBoth equal roots are 1/4."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000017",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.2",
+    "questionNumber": "1(v)",
+    "difficulty": "medium",
+    "text": "[Exercise 4.2 - Q1(v)] Find the roots of the quadratic equation by factorisation:\n100x² – 20x + 1 = 0",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 1/10 and x = 1/10",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "x = –1/10 and x = –1/10",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "x = 1/20 and x = 1/5",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "x = 1/100 and x = 1",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: Notice (10x – 1)² = 100x² – 20x + 1 = 0.\nStep 2: (10x – 1)(10x – 1) = 0.\nStep 3: 10x – 1 = 0 => x = 1/10.\nBoth equal roots are 1/10."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000018",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.2",
+    "questionNumber": "2(i)",
+    "difficulty": "medium",
+    "text": "[Exercise 4.2 - Q2(i)] Solve the problem given in Example 1(i):\nJohn and Jivanti together have 45 marbles. Both lost 5 marbles each, and the product of marbles they now have is 124. Find how many marbles they had to start with.",
+    "options": [
+      {
+        "id": "A",
+        "text": "36 and 9 marbles",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "30 and 15 marbles",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "40 and 5 marbles",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "28 and 17 marbles",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: The mathematical formulation from Example 1 is x² – 45x + 324 = 0.\nStep 2: Factorise: (x – 36)(x – 9) = 0.\nStep 3: x = 36 or x = 9.\nHence, John and Jivanti had 36 and 9 marbles (or 9 and 36)."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000019",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.2",
+    "questionNumber": "2(ii)",
+    "difficulty": "medium",
+    "text": "[Exercise 4.2 - Q2(ii)] Solve the problem given in Example 1(ii):\nA cottage industry produces a certain number of toys in a day. Cost of production of each toy was (55 – x). Total cost of production on that day was ₹ 750. Find the number of toys produced.",
+    "options": [
+      {
+        "id": "A",
+        "text": "30 or 25 toys",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "35 or 20 toys",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "40 or 15 toys",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "50 or 5 toys",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: The equation from Example 1 is x² – 55x + 750 = 0.\nStep 2: Factorise: (x – 30)(x – 25) = 0.\nStep 3: x = 30 or x = 25.\nThe number of toys produced that day was either 30 or 25."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000020",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.2",
+    "questionNumber": "3",
+    "difficulty": "medium",
+    "text": "[Exercise 4.2 - Q3] Find two numbers whose sum is 27 and product is 182.",
+    "options": [
+      {
+        "id": "A",
+        "text": "13 and 14",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "12 and 15",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "11 and 16",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 and 17",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: Let the two numbers be x and (27 – x).\nStep 2: Product: x(27 – x) = 182 => 27x – x² = 182 => x² – 27x + 182 = 0.\nStep 3: Factorise: 182 = 13 × 14, and –13 – 14 = –27.\nStep 4: (x – 13)(x – 14) = 0 => x = 13 or x = 14.\nTherefore, the required numbers are 13 and 14."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000021",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.2",
+    "questionNumber": "4",
+    "difficulty": "medium",
+    "text": "[Exercise 4.2 - Q4] Find two consecutive positive integers, sum of whose squares is 365.",
+    "options": [
+      {
+        "id": "A",
+        "text": "13 and 14",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "11 and 12",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "12 and 13",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "14 and 15",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: Let the two consecutive positive integers be x and (x + 1).\nStep 2: x² + (x + 1)² = 365 => x² + x² + 2x + 1 = 365 => 2x² + 2x – 364 = 0.\nStep 3: Dividing by 2: x² + x – 182 = 0.\nStep 4: (x + 14)(x – 13) = 0 => x = 13 (reject –14 since integers are positive).\nStep 5: x + 1 = 14. The two integers are 13 and 14."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000022",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.2",
+    "questionNumber": "5",
+    "difficulty": "medium",
+    "text": "[Exercise 4.2 - Q5] The altitude of a right triangle is 7 cm less than its base. If the hypotenuse is 13 cm, find the other two sides.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Base = 12 cm, Altitude = 5 cm",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "Base = 10 cm, Altitude = 3 cm",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "Base = 15 cm, Altitude = 8 cm",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "Base = 9 cm, Altitude = 2 cm",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: Let base = x cm. Then altitude = (x – 7) cm. Hypotenuse = 13 cm.\nStep 2: By Pythagoras theorem: x² + (x – 7)² = 13² = 169.\nStep 3: x² + x² – 14x + 49 = 169 => 2x² – 14x – 120 = 0 => x² – 7x – 60 = 0.\nStep 4: Factorise: (x – 12)(x + 5) = 0 => x = 12 (length cannot be negative).\nStep 5: Base = 12 cm, Altitude = 12 – 7 = 5 cm."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000023",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.2",
+    "questionNumber": "6",
+    "difficulty": "hard",
+    "text": "[Exercise 4.2 - Q6] A cottage industry produces a certain number of pottery articles in a day. The cost of production of each article was ₹ 3 more than twice the number of articles produced. If total cost was ₹ 90, find the number of articles produced and cost of each article.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Number of articles = 6, Cost of each = ₹ 15",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "Number of articles = 5, Cost of each = ₹ 18",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "Number of articles = 10, Cost of each = ₹ 9",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "Number of articles = 8, Cost of each = ₹ 19",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: Let number of articles = x. Cost of each article = ₹ (2x + 3).\nStep 2: Total cost = x(2x + 3) = 90 => 2x² + 3x – 90 = 0.\nStep 3: Factorise: 2x² – 12x + 15x – 90 = 0 => 2x(x – 6) + 15(x – 6) = 0 => (2x + 15)(x – 6) = 0.\nStep 4: x = 6 (since articles cannot be negative or fractional).\nStep 5: Cost of each article = 2(6) + 3 = ₹ 15."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000024",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.3",
+    "questionNumber": "1(i)",
+    "difficulty": "easy",
+    "text": "[Exercise 4.3 - Q1(i)] Find the nature of the roots of the quadratic equation. If real roots exist, find them:\n2x² – 3x + 5 = 0",
+    "options": [
+      {
+        "id": "A",
+        "text": "No real roots (Discriminant D = –31 < 0)",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "Two distinct real roots",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "Two equal real roots",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "Roots are 3/4 and 5/2",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: Comparing with ax² + bx + c = 0: a = 2, b = –3, c = 5.\nStep 2: Discriminant D = b² – 4ac = (–3)² – 4(2)(5) = 9 – 40 = –31.\nStep 3: Since D < 0, the quadratic equation has NO real roots."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000025",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.3",
+    "questionNumber": "1(ii)",
+    "difficulty": "medium",
+    "text": "[Exercise 4.3 - Q1(ii)] Find the nature of the roots of the quadratic equation. If real roots exist, find them:\n3x² – 4√3 x + 4 = 0",
+    "options": [
+      {
+        "id": "A",
+        "text": "Two equal real roots: 2/√3, 2/√3",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "No real roots (D < 0)",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "Two distinct real roots: √3 and –√3",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "Two distinct real roots: 4 and 3",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: Here a = 3, b = –4√3, c = 4.\nStep 2: Discriminant D = b² – 4ac = (–4√3)² – 4(3)(4) = 48 – 48 = 0.\nStep 3: Since D = 0, the equation has two equal real roots.\nStep 4: Roots: x = –b / (2a) = –(–4√3) / (2 × 3) = 4√3 / 6 = 2√3 / 3 = 2/√3.\nHence, roots are 2/√3, 2/√3."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000026",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.3",
+    "questionNumber": "1(iii)",
+    "difficulty": "medium",
+    "text": "[Exercise 4.3 - Q1(iii)] Find the nature of the roots of the quadratic equation. If real roots exist, find them:\n2x² – 6x + 3 = 0",
+    "options": [
+      {
+        "id": "A",
+        "text": "Two distinct real roots: (3 ± √3) / 2",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "Two equal real roots: 3/2, 3/2",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "No real roots (D < 0)",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "Two integer roots: 3 and 1",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: a = 2, b = –6, c = 3.\nStep 2: Discriminant D = b² – 4ac = (–6)² – 4(2)(3) = 36 – 24 = 12 > 0.\nStep 3: Since D > 0, there are two distinct real roots.\nStep 4: By quadratic formula:\n  x = [–b ± √D] / 2a = [–(–6) ± √12] / (2 × 2) = (6 ± 2√3) / 4 = (3 ± √3) / 2."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000027",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.3",
+    "questionNumber": "2(i)",
+    "difficulty": "medium",
+    "text": "[Exercise 4.3 - Q2(i)] Find the value(s) of k so that the quadratic equation has two equal roots:\n2x² + kx + 3 = 0",
+    "options": [
+      {
+        "id": "A",
+        "text": "k = ± 2√6",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "k = ± 6",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "k = ± 24",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "k = 12",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: a = 2, b = k, c = 3.\nStep 2: For two equal roots, Discriminant D = b² – 4ac = 0.\nStep 3: k² – 4(2)(3) = 0 => k² – 24 = 0 => k² = 24.\nStep 4: k = ± √24 = ± √(4 × 6) = ± 2√6."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000028",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.3",
+    "questionNumber": "2(ii)",
+    "difficulty": "medium",
+    "text": "[Exercise 4.3 - Q2(ii)] Find the value(s) of k so that the quadratic equation has two equal roots:\nkx(x – 2) + 6 = 0",
+    "options": [
+      {
+        "id": "A",
+        "text": "k = 6",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "k = 0 or 6",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "k = –6",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "k = 4",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: Expand equation: kx² – 2kx + 6 = 0. Here a = k, b = –2k, c = 6.\nStep 2: For equal roots, D = b² – 4ac = 0.\nStep 3: (–2k)² – 4(k)(6) = 0 => 4k² – 24k = 0 => 4k(k – 6) = 0.\nStep 4: Either k = 0 or k = 6.\nStep 5: If k = 0, equation becomes 6 = 0 (not quadratic). Therefore, k = 6."
+  },
+  {
+    "id": "10000000-0000-0000-0004-000000000029",
+    "subject": "math",
+    "chapterId": "math_ch_04_quadratic_equations",
+    "exercise": "Exercise 4.3",
+    "questionNumber": "3 to 5",
+    "difficulty": "hard",
+    "text": "[Exercise 4.3 - Q3 to Q5] Check feasibility of geometric situations:\n(i) Rectangular mango grove length = 2b, area = 800 m²;\n(ii) Sum of friend ages = 20, product 4 yrs ago was 48;\n(iii) Rectangular park perimeter = 80 m, area = 400 m².\nWhich situations are mathematically possible?",
+    "options": [
+      {
+        "id": "A",
+        "text": "(i) and (iii) are possible; (ii) is not possible (D < 0)",
+        "is_correct": true
+      },
+      {
+        "id": "B",
+        "text": "All three situations are possible",
+        "is_correct": false
+      },
+      {
+        "id": "C",
+        "text": "Only (i) is possible",
+        "is_correct": false
+      },
+      {
+        "id": "D",
+        "text": "None of the situations are possible",
+        "is_correct": false
+      }
+    ],
+    "solution": "Step 1: Mango grove: 2x² = 800 => x² = 400 => x = 20 m (breadth), length = 40 m. Real roots exist. Possible!\nStep 2: Age problem: (x – 4)(16 – x) = 48 => x² – 20x + 112 = 0. D = 400 – 448 = –48 < 0. No real roots. Not possible!\nStep 3: Park: l(40 – l) = 400 => l² – 40l + 400 = 0 => (l – 20)² = 0 => l = 20 m, b = 20 m. Real equal roots. Possible (square park of side 20 m)!\nHence, (i) and (iii) are possible, (ii) is not possible."
+  }
+]

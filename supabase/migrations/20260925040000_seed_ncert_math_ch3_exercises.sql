@@ -1,0 +1,880 @@
+-- ==========================================================================
+-- NCERT Class 10 Mathematics Chapter 3: 'Pair of Linear Equations in Two Variables'
+-- Reprint 2026-27 Rationalised Syllabus Seed Migration
+-- Ingests all 41 questions across Exercises 3.1, 3.2, and 3.3 with status = 'approved'
+-- ==========================================================================
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000001'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.1 - Q1(i)] Form the pair of linear equations and find their solutions graphically:
+10 students of Class X took part in a Mathematics quiz. If the number of girls is 4 more than the number of boys, find the number of boys and girls who took part in the quiz.',
+  '[{"id": "A", "text": "Boys = 3, Girls = 7", "is_correct": true}, {"id": "B", "text": "Boys = 4, Girls = 6", "is_correct": false}, {"id": "C", "text": "Boys = 2, Girls = 8", "is_correct": false}, {"id": "D", "text": "Boys = 5, Girls = 5", "is_correct": false}]'::jsonb,
+  'Step 1: Let number of boys = x, girls = y.
+Step 2: Total: x + y = 10 ... (1)
+Step 3: Girls 4 more than boys: y = x + 4 => y - x = 4 ... (2)
+Step 4: Solving gives 2x = 6 => x = 3, y = 7.
+Hence, 3 boys and 7 girls took part in the quiz.',
+  'medium', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000002'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.1 - Q1(ii)] Form the pair of linear equations and find their solutions graphically:
+5 pencils and 7 pens together cost ₹ 50, whereas 7 pencils and 5 pens together cost ₹ 46. Find the cost of one pencil and that of one pen.',
+  '[{"id": "A", "text": "Cost of 1 pencil = ₹ 3, Cost of 1 pen = ₹ 5", "is_correct": true}, {"id": "B", "text": "Cost of 1 pencil = ₹ 5, Cost of 1 pen = ₹ 3", "is_correct": false}, {"id": "C", "text": "Cost of 1 pencil = ₹ 2, Cost of 1 pen = ₹ 6", "is_correct": false}, {"id": "D", "text": "Cost of 1 pencil = ₹ 4, Cost of 1 pen = ₹ 4", "is_correct": false}]'::jsonb,
+  'Step 1: Let 1 pencil = ₹ x, 1 pen = ₹ y.
+Step 2: 5x + 7y = 50 ... (1) and 7x + 5y = 46 ... (2).
+Step 3: Multiplying (1) by 7 and (2) by 5 yields 35x + 49y = 350 and 35x + 25y = 230.
+Step 4: Subtracting gives 24y = 120 => y = 5.
+Step 5: 5x + 35 = 50 => 5x = 15 => x = 3.
+Cost of 1 pencil = ₹ 3, cost of 1 pen = ₹ 5.',
+  'medium', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000003'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.1 - Q2(i)] On comparing the ratios a₁/a₂, b₁/b₂ and c₁/c₂, find out whether the lines representing the following pair intersect at a point, are parallel or coincident:
+5x – 4y + 8 = 0
+7x + 6y – 9 = 0',
+  '[{"id": "A", "text": "Intersect at a point (Unique solution)", "is_correct": true}, {"id": "B", "text": "Parallel lines (No solution)", "is_correct": false}, {"id": "C", "text": "Coincident lines (Infinitely many solutions)", "is_correct": false}, {"id": "D", "text": "Inconsistent lines", "is_correct": false}]'::jsonb,
+  'Step 1: a₁ = 5, b₁ = -4, c₁ = 8 and a₂ = 7, b₂ = 6, c₂ = -9.
+Step 2: a₁/a₂ = 5/7; b₁/b₂ = -4/6 = -2/3.
+Step 3: Since a₁/a₂ ≠ b₁/b₂ (5/7 ≠ -2/3), the lines intersect at a point.',
+  'easy', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000004'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.1 - Q2(ii)] On comparing the ratios a₁/a₂, b₁/b₂ and c₁/c₂, find out whether the lines representing the following pair intersect at a point, are parallel or coincident:
+9x + 3y + 12 = 0
+18x + 6y + 24 = 0',
+  '[{"id": "A", "text": "Coincident lines (Infinitely many solutions)", "is_correct": true}, {"id": "B", "text": "Parallel lines", "is_correct": false}, {"id": "C", "text": "Intersect at a single point", "is_correct": false}, {"id": "D", "text": "Inconsistent lines", "is_correct": false}]'::jsonb,
+  'Step 1: a₁/a₂ = 9/18 = 1/2; b₁/b₂ = 3/6 = 1/2; c₁/c₂ = 12/24 = 1/2.
+Step 2: Since a₁/a₂ = b₁/b₂ = c₁/c₂ = 1/2, the lines are coincident.',
+  'easy', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000005'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.1 - Q2(iii)] On comparing the ratios a₁/a₂, b₁/b₂ and c₁/c₂, find out whether the lines representing the following pair intersect at a point, are parallel or coincident:
+6x – 3y + 10 = 0
+2x – y + 9 = 0',
+  '[{"id": "A", "text": "Parallel lines (No solution)", "is_correct": true}, {"id": "B", "text": "Intersecting lines", "is_correct": false}, {"id": "C", "text": "Coincident lines", "is_correct": false}, {"id": "D", "text": "Consistent lines", "is_correct": false}]'::jsonb,
+  'Step 1: a₁/a₂ = 6/2 = 3; b₁/b₂ = -3/(-1) = 3; c₁/c₂ = 10/9.
+Step 2: Since a₁/a₂ = b₁/b₂ ≠ c₁/c₂ (3 = 3 ≠ 10/9), the lines are parallel.',
+  'easy', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000006'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.1 - Q3(i)] On comparing the ratios a₁/a₂, b₁/b₂ and c₁/c₂, find out whether the following pair is consistent, or inconsistent:
+3x + 2y = 5
+2x – 3y = 7',
+  '[{"id": "A", "text": "Consistent (Unique solution)", "is_correct": true}, {"id": "B", "text": "Inconsistent (No solution)", "is_correct": false}, {"id": "C", "text": "Dependent consistent", "is_correct": false}, {"id": "D", "text": "Parallel", "is_correct": false}]'::jsonb,
+  'Step 1: a₁/a₂ = 3/2; b₁/b₂ = 2/(-3) = -2/3.
+Step 2: Since a₁/a₂ ≠ b₁/b₂ (3/2 ≠ -2/3), the pair has a unique solution and is consistent.',
+  'easy', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000007'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.1 - Q3(ii)] On comparing the ratios a₁/a₂, b₁/b₂ and c₁/c₂, find out whether the following pair is consistent, or inconsistent:
+2x – 3y = 8
+4x – 6y = 9',
+  '[{"id": "A", "text": "Inconsistent (No solution)", "is_correct": true}, {"id": "B", "text": "Consistent", "is_correct": false}, {"id": "C", "text": "Coincident", "is_correct": false}, {"id": "D", "text": "Infinitely many solutions", "is_correct": false}]'::jsonb,
+  'Step 1: a₁/a₂ = 2/4 = 1/2; b₁/b₂ = -3/(-6) = 1/2; c₁/c₂ = 8/9.
+Step 2: Since a₁/a₂ = b₁/b₂ ≠ c₁/c₂ (1/2 = 1/2 ≠ 8/9), the lines are parallel and inconsistent.',
+  'easy', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000008'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.1 - Q3(iii)] On comparing the ratios a₁/a₂, b₁/b₂ and c₁/c₂, find out whether the pair is consistent or inconsistent:
+(3/2)x + (5/3)y = 7
+9x – 10y = 14',
+  '[{"id": "A", "text": "Consistent (Unique solution)", "is_correct": true}, {"id": "B", "text": "Inconsistent", "is_correct": false}, {"id": "C", "text": "Coincident", "is_correct": false}, {"id": "D", "text": "Parallel", "is_correct": false}]'::jsonb,
+  'Step 1: a₁/a₂ = (3/2)/9 = 1/6; b₁/b₂ = (5/3)/(-10) = -1/6.
+Step 2: Since a₁/a₂ ≠ b₁/b₂ (1/6 ≠ -1/6), the pair is consistent.',
+  'medium', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000009'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.1 - Q3(iv)] On comparing the ratios a₁/a₂, b₁/b₂ and c₁/c₂, find out whether the pair is consistent or inconsistent:
+5x – 3y = 11
+–10x + 6y = –22',
+  '[{"id": "A", "text": "Consistent (Coincident lines, infinitely many solutions)", "is_correct": true}, {"id": "B", "text": "Inconsistent", "is_correct": false}, {"id": "C", "text": "Unique solution", "is_correct": false}, {"id": "D", "text": "Parallel lines", "is_correct": false}]'::jsonb,
+  'Step 1: a₁/a₂ = 5/(-10) = -1/2; b₁/b₂ = -3/6 = -1/2; c₁/c₂ = 11/(-22) = -1/2.
+Step 2: Since a₁/a₂ = b₁/b₂ = c₁/c₂ = -1/2, the pair is consistent.',
+  'easy', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000010'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.1 - Q3(v)] On comparing the ratios a₁/a₂, b₁/b₂ and c₁/c₂, find out whether the pair is consistent or inconsistent:
+(4/3)x + 2y = 8
+2x + 3y = 12',
+  '[{"id": "A", "text": "Consistent (Coincident lines, dependent)", "is_correct": true}, {"id": "B", "text": "Inconsistent", "is_correct": false}, {"id": "C", "text": "Parallel lines", "is_correct": false}, {"id": "D", "text": "Unique solution", "is_correct": false}]'::jsonb,
+  'Step 1: a₁/a₂ = (4/3)/2 = 2/3; b₁/b₂ = 2/3; c₁/c₂ = 8/12 = 2/3.
+Step 2: Since a₁/a₂ = b₁/b₂ = c₁/c₂ = 2/3, the pair of equations is consistent.',
+  'easy', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000011'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.1 - Q4(i)] Which of the following pairs of linear equations are consistent/inconsistent? If consistent, obtain the solution graphically:
+x + y = 5
+2x + 2y = 10',
+  '[{"id": "A", "text": "Consistent (Coincident lines, infinitely many solutions)", "is_correct": true}, {"id": "B", "text": "Inconsistent (No solution)", "is_correct": false}, {"id": "C", "text": "Unique solution: x = 5, y = 0", "is_correct": false}, {"id": "D", "text": "Parallel lines", "is_correct": false}]'::jsonb,
+  'Step 1: a₁/a₂ = 1/2; b₁/b₂ = 1/2; c₁/c₂ = 5/10 = 1/2.
+Step 2: a₁/a₂ = b₁/b₂ = c₁/c₂ = 1/2 => consistent with infinitely many solutions.
+Step 3: Graphically, both lines coincide through (0, 5) and (5, 0).',
+  'medium', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000012'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.1 - Q4(ii)] Which of the following pairs of linear equations are consistent/inconsistent? If consistent, obtain the solution graphically:
+x – y = 8
+3x – 3y = 16',
+  '[{"id": "A", "text": "Inconsistent (Parallel lines, no solution)", "is_correct": true}, {"id": "B", "text": "Consistent", "is_correct": false}, {"id": "C", "text": "Unique solution", "is_correct": false}, {"id": "D", "text": "Coincident lines", "is_correct": false}]'::jsonb,
+  'Step 1: a₁/a₂ = 1/3; b₁/b₂ = -1/(-3) = 1/3; c₁/c₂ = 8/16 = 1/2.
+Step 2: Since a₁/a₂ = b₁/b₂ ≠ c₁/c₂ (1/3 = 1/3 ≠ 1/2), the lines are parallel and inconsistent.',
+  'easy', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000013'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.1 - Q4(iii)] Which of the following pairs of linear equations are consistent/inconsistent? If consistent, obtain the solution graphically:
+2x + y – 6 = 0
+4x – 2y – 4 = 0',
+  '[{"id": "A", "text": "Consistent (Unique solution: x = 2, y = 2)", "is_correct": true}, {"id": "B", "text": "Inconsistent", "is_correct": false}, {"id": "C", "text": "Coincident lines", "is_correct": false}, {"id": "D", "text": "Parallel lines", "is_correct": false}]'::jsonb,
+  'Step 1: a₁/a₂ = 2/4 = 1/2; b₁/b₂ = 1/(-2) = -1/2.
+Step 2: Since a₁/a₂ ≠ b₁/b₂, the pair is consistent with a unique solution.
+Step 3: Graphing gives intersection at point (2, 2). Hence, x = 2, y = 2.',
+  'medium', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000014'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.1 - Q4(iv)] Which of the following pairs of linear equations are consistent/inconsistent? If consistent, obtain the solution graphically:
+2x – 2y – 2 = 0
+4x – 4y – 5 = 0',
+  '[{"id": "A", "text": "Inconsistent (Parallel lines)", "is_correct": true}, {"id": "B", "text": "Consistent", "is_correct": false}, {"id": "C", "text": "Coincident lines", "is_correct": false}, {"id": "D", "text": "Unique solution", "is_correct": false}]'::jsonb,
+  'Step 1: a₁/a₂ = 2/4 = 1/2; b₁/b₂ = -2/(-4) = 1/2; c₁/c₂ = -2/(-5) = 2/5.
+Step 2: a₁/a₂ = b₁/b₂ ≠ c₁/c₂ (1/2 = 1/2 ≠ 2/5) => Inconsistent.',
+  'easy', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000015'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.1 - Q5] Half the perimeter of a rectangular garden, whose length is 4 m more than its width, is 36 m. Find the dimensions of the garden.',
+  '[{"id": "A", "text": "Length = 20 m, Width = 16 m", "is_correct": true}, {"id": "B", "text": "Length = 24 m, Width = 12 m", "is_correct": false}, {"id": "C", "text": "Length = 18 m, Width = 14 m", "is_correct": false}, {"id": "D", "text": "Length = 22 m, Width = 14 m", "is_correct": false}]'::jsonb,
+  'Step 1: Let length = x m, width = y m.
+Step 2: x = y + 4 => x - y = 4 ... (1)
+Step 3: Half perimeter: x + y = 36 ... (2)
+Step 4: Adding gives 2x = 40 => x = 20 m.
+Step 5: y = 36 - 20 = 16 m. Dimensions: Length = 20 m, Width = 16 m.',
+  'medium', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000016'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.1 - Q6(i)] Given the linear equation 2x + 3y – 8 = 0, write another linear equation in two variables such that the geometrical representation of the pair so formed is intersecting lines.',
+  '[{"id": "A", "text": "3x + 2y – 7 = 0 (or any equation where a₁/a₂ ≠ b₁/b₂)", "is_correct": true}, {"id": "B", "text": "4x + 6y – 16 = 0", "is_correct": false}, {"id": "C", "text": "2x + 3y – 12 = 0", "is_correct": false}, {"id": "D", "text": "4x + 6y – 9 = 0", "is_correct": false}]'::jsonb,
+  'Step 1: Intersecting lines condition: a₁/a₂ ≠ b₁/b₂.
+Step 2: Given 2x + 3y - 8 = 0. Choosing a₂ = 3, b₂ = 2 gives 2/3 ≠ 3/2.
+Step 3: A valid equation is 3x + 2y - 7 = 0.',
+  'easy', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000017'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.1 - Q6(ii)] Given the linear equation 2x + 3y – 8 = 0, write another linear equation in two variables such that the geometrical representation of the pair so formed is parallel lines.',
+  '[{"id": "A", "text": "4x + 6y – 9 = 0 (or any equation where a₁/a₂ = b₁/b₂ ≠ c₁/c₂)", "is_correct": true}, {"id": "B", "text": "4x + 6y – 16 = 0", "is_correct": false}, {"id": "C", "text": "3x + 2y – 8 = 0", "is_correct": false}, {"id": "D", "text": "x + y – 4 = 0", "is_correct": false}]'::jsonb,
+  'Step 1: Parallel lines condition: a₁/a₂ = b₁/b₂ ≠ c₁/c₂.
+Step 2: Multiply coefficients of x and y by 2: 4x + 6y.
+Step 3: Choose c₂ ≠ -16, e.g. -9. Equation: 4x + 6y - 9 = 0.',
+  'easy', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000018'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.1 - Q6(iii)] Given the linear equation 2x + 3y – 8 = 0, write another linear equation in two variables such that the geometrical representation of the pair so formed is coincident lines.',
+  '[{"id": "A", "text": "4x + 6y – 16 = 0 (or any scalar multiple k(2x + 3y – 8) = 0)", "is_correct": true}, {"id": "B", "text": "4x + 6y – 8 = 0", "is_correct": false}, {"id": "C", "text": "2x + 3y + 8 = 0", "is_correct": false}, {"id": "D", "text": "3x + 2y – 8 = 0", "is_correct": false}]'::jsonb,
+  'Step 1: Coincident lines condition: a₁/a₂ = b₁/b₂ = c₁/c₂.
+Step 2: Multiply equation by 2: 2(2x + 3y - 8) = 4x + 6y - 16 = 0.',
+  'easy', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000019'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.1 - Q7] Draw the graphs of the equations x – y + 1 = 0 and 3x + 2y – 12 = 0. Determine the coordinates of the vertices of the triangle formed by these lines and the x-axis, and shade the triangular region.',
+  '[{"id": "A", "text": "Vertices: (-1, 0), (4, 0), and (2, 3)", "is_correct": true}, {"id": "B", "text": "Vertices: (1, 0), (4, 0), and (3, 2)", "is_correct": false}, {"id": "C", "text": "Vertices: (-1, 0), (3, 0), and (2, 4)", "is_correct": false}, {"id": "D", "text": "Vertices: (0, 1), (0, 6), and (2, 3)", "is_correct": false}]'::jsonb,
+  'Step 1: For x - y + 1 = 0, x-intercept is (-1, 0).
+Step 2: For 3x + 2y - 12 = 0, x-intercept is (4, 0).
+Step 3: Point of intersection of the lines is (2, 3).
+Step 4: Vertices formed with the x-axis are (-1, 0), (4, 0), and (2, 3).',
+  'hard', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000020'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.2 - Q1(i)] Solve the following pair of linear equations by the substitution method:
+x + y = 14
+x – y = 4',
+  '[{"id": "A", "text": "x = 9, y = 5", "is_correct": true}, {"id": "B", "text": "x = 5, y = 9", "is_correct": false}, {"id": "C", "text": "x = 10, y = 4", "is_correct": false}, {"id": "D", "text": "x = 8, y = 6", "is_correct": false}]'::jsonb,
+  'Step 1: From (2), x = y + 4.
+Step 2: In (1): (y + 4) + y = 14 => 2y = 10 => y = 5.
+Step 3: x = 5 + 4 = 9. Solution: x = 9, y = 5.',
+  'easy', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000021'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.2 - Q1(ii)] Solve the following pair of linear equations by the substitution method:
+s – t = 3
+(s/3) + (t/2) = 6',
+  '[{"id": "A", "text": "s = 9, t = 6", "is_correct": true}, {"id": "B", "text": "s = 6, t = 9", "is_correct": false}, {"id": "C", "text": "s = 8, t = 5", "is_correct": false}, {"id": "D", "text": "s = 7, t = 4", "is_correct": false}]'::jsonb,
+  'Step 1: s = t + 3.
+Step 2: Multiply second equation by 6: 2s + 3t = 36.
+Step 3: 2(t + 3) + 3t = 36 => 5t = 30 => t = 6.
+Step 4: s = 6 + 3 = 9. Solution: s = 9, t = 6.',
+  'medium', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000022'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.2 - Q1(iii)] Solve the following pair of linear equations by the substitution method:
+3x – y = 3
+9x – 3y = 9',
+  '[{"id": "A", "text": "Infinitely many solutions (y = 3x – 3)", "is_correct": true}, {"id": "B", "text": "No solution", "is_correct": false}, {"id": "C", "text": "Unique solution: x = 1, y = 0", "is_correct": false}, {"id": "D", "text": "x = 3, y = 6", "is_correct": false}]'::jsonb,
+  'Step 1: y = 3x - 3.
+Step 2: In (2): 9x - 3(3x - 3) = 9 => 9 = 9.
+Step 3: True statement for all x. Infinitely many solutions with y = 3x - 3.',
+  'easy', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000023'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.2 - Q1(iv)] Solve the following pair of linear equations by the substitution method:
+0.2x + 0.3y = 1.3
+0.4x + 0.5y = 2.3',
+  '[{"id": "A", "text": "x = 2, y = 3", "is_correct": true}, {"id": "B", "text": "x = 3, y = 2", "is_correct": false}, {"id": "C", "text": "x = 1, y = 4", "is_correct": false}, {"id": "D", "text": "x = 2.5, y = 2.5", "is_correct": false}]'::jsonb,
+  'Step 1: Multiply by 10: 2x + 3y = 13 and 4x + 5y = 23.
+Step 2: x = (13 - 3y)/2.
+Step 3: 4((13 - 3y)/2) + 5y = 23 => 26 - 6y + 5y = 23 => y = 3.
+Step 4: x = (13 - 9)/2 = 2. Solution: x = 2, y = 3.',
+  'medium', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000024'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.2 - Q1(v)] Solve the following pair of linear equations by the substitution method:
+√2 x + √3 y = 0
+√3 x – √8 y = 0',
+  '[{"id": "A", "text": "x = 0, y = 0", "is_correct": true}, {"id": "B", "text": "x = √2, y = √3", "is_correct": false}, {"id": "C", "text": "x = 1, y = 1", "is_correct": false}, {"id": "D", "text": "Infinitely many solutions", "is_correct": false}]'::jsonb,
+  'Step 1: x = (-√3/√2)y.
+Step 2: In (2): √3((-√3/√2)y) - √8 y = 0 => (-7/√2)y = 0 => y = 0.
+Step 3: x = 0. Solution: x = 0, y = 0.',
+  'medium', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000025'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.2 - Q1(vi)] Solve the following pair of linear equations by the substitution method:
+(3/2)x – (5/3)y = –2
+(x/3) + (y/2) = 13/6',
+  '[{"id": "A", "text": "x = 2, y = 3", "is_correct": true}, {"id": "B", "text": "x = 3, y = 2", "is_correct": false}, {"id": "C", "text": "x = -2, y = -3", "is_correct": false}, {"id": "D", "text": "x = 1, y = 2", "is_correct": false}]'::jsonb,
+  'Step 1: Multiply by 6: 9x - 10y = -12 and 2x + 3y = 13.
+Step 2: x = (13 - 3y)/2.
+Step 3: 9((13 - 3y)/2) - 10y = -12 => 117 - 47y = -24 => -47y = -141 => y = 3.
+Step 4: x = (13 - 9)/2 = 2. Solution: x = 2, y = 3.',
+  'hard', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000026'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.2 - Q2] Solve 2x + 3y = 11 and 2x – 4y = –24 and hence find the value of ''m'' for which y = mx + 3.',
+  '[{"id": "A", "text": "x = -2, y = 5; m = -1", "is_correct": true}, {"id": "B", "text": "x = 2, y = 5; m = 1", "is_correct": false}, {"id": "C", "text": "x = -2, y = 4; m = -2", "is_correct": false}, {"id": "D", "text": "x = 1, y = 3; m = 0", "is_correct": false}]'::jsonb,
+  'Step 1: 2x = 11 - 3y.
+Step 2: (11 - 3y) - 4y = -24 => -7y = -35 => y = 5.
+Step 3: 2x = 11 - 15 = -4 => x = -2.
+Step 4: y = mx + 3 => 5 = m(-2) + 3 => 2 = -2m => m = -1.',
+  'medium', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000027'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.2 - Q3(i)] The difference between two numbers is 26 and one number is three times the other. Find them.',
+  '[{"id": "A", "text": "39 and 13", "is_correct": true}, {"id": "B", "text": "36 and 10", "is_correct": false}, {"id": "C", "text": "42 and 16", "is_correct": false}, {"id": "D", "text": "30 and 4", "is_correct": false}]'::jsonb,
+  'Step 1: x - y = 26 and x = 3y.
+Step 2: 3y - y = 26 => 2y = 26 => y = 13.
+Step 3: x = 3(13) = 39. Numbers are 39 and 13.',
+  'medium', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000028'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.2 - Q3(ii)] The larger of two supplementary angles exceeds the smaller by 18 degrees. Find them.',
+  '[{"id": "A", "text": "99° and 81°", "is_correct": true}, {"id": "B", "text": "100° and 80°", "is_correct": false}, {"id": "C", "text": "108° and 72°", "is_correct": false}, {"id": "D", "text": "95° and 85°", "is_correct": false}]'::jsonb,
+  'Step 1: x + y = 180 and x = y + 18.
+Step 2: (y + 18) + y = 180 => 2y = 162 => y = 81°.
+Step 3: x = 81 + 18 = 99°. Angles are 99° and 81°.',
+  'medium', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000029'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.2 - Q3(iii)] The coach of a cricket team buys 7 bats and 6 balls for ₹ 3800. Later, she buys 3 bats and 5 balls for ₹ 1750. Find the cost of each bat and each ball.',
+  '[{"id": "A", "text": "Bat = ₹ 500, Ball = ₹ 50", "is_correct": true}, {"id": "B", "text": "Bat = ₹ 450, Ball = ₹ 70", "is_correct": false}, {"id": "C", "text": "Bat = ₹ 520, Ball = ₹ 40", "is_correct": false}, {"id": "D", "text": "Bat = ₹ 400, Ball = ₹ 60", "is_correct": false}]'::jsonb,
+  'Step 1: 7x + 6y = 3800 and 3x + 5y = 1750.
+Step 2: x = (1750 - 5y)/3.
+Step 3: 7((1750 - 5y)/3) + 6y = 3800 => 12250 - 35y + 18y = 11400 => -17y = -850 => y = 50.
+Step 4: x = (1750 - 250)/3 = 500. Bat = ₹ 500, Ball = ₹ 50.',
+  'medium', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000030'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.2 - Q3(iv)] The taxi charges in a city consist of a fixed charge together with the charge for distance covered. For 10 km, charge is ₹ 105; for 15 km, charge is ₹ 155. What are fixed charges and charge per km? How much for 25 km?',
+  '[{"id": "A", "text": "Fixed = ₹ 5, Per km = ₹ 10; Total for 25 km = ₹ 255", "is_correct": true}, {"id": "B", "text": "Fixed = ₹ 10, Per km = ₹ 9; Total for 25 km = ₹ 235", "is_correct": false}, {"id": "C", "text": "Fixed = ₹ 8, Per km = ₹ 10; Total for 25 km = ₹ 258", "is_correct": false}, {"id": "D", "text": "Fixed = ₹ 5, Per km = ₹ 12; Total for 25 km = ₹ 305", "is_correct": false}]'::jsonb,
+  'Step 1: x + 10y = 105 and x + 15y = 155.
+Step 2: Subtracting gives 5y = 50 => y = 10 (charge/km).
+Step 3: x = 105 - 100 = 5 (fixed charge).
+Step 4: For 25 km: x + 25y = 5 + 25(10) = ₹ 255.',
+  'hard', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000031'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.2 - Q3(v)] A fraction becomes 9/11, if 2 is added to both numerator and denominator. If 3 is added to both, it becomes 5/6. Find the fraction.',
+  '[{"id": "A", "text": "7/9", "is_correct": true}, {"id": "B", "text": "5/7", "is_correct": false}, {"id": "C", "text": "3/5", "is_correct": false}, {"id": "D", "text": "8/11", "is_correct": false}]'::jsonb,
+  'Step 1: (x + 2)/(y + 2) = 9/11 => 11x - 9y = -4.
+Step 2: (x + 3)/(y + 3) = 5/6 => 6x - 5y = -3.
+Step 3: Solving gives x = 7, y = 9.
+Hence, the fraction is 7/9.',
+  'hard', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000032'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.2 - Q3(vi)] Five years hence, the age of Jacob will be three times that of his son. Five years ago, Jacob''s age was seven times that of his son. What are their present ages?',
+  '[{"id": "A", "text": "Jacob = 40 years, Son = 10 years", "is_correct": true}, {"id": "B", "text": "Jacob = 45 years, Son = 15 years", "is_correct": false}, {"id": "C", "text": "Jacob = 35 years, Son = 5 years", "is_correct": false}, {"id": "D", "text": "Jacob = 50 years, Son = 12 years", "is_correct": false}]'::jsonb,
+  'Step 1: (x + 5) = 3(y + 5) => x - 3y = 10.
+Step 2: (x - 5) = 7(y - 5) => x - 7y = -30.
+Step 3: Subtracting gives 4y = 40 => y = 10.
+Step 4: x = 3(10) + 10 = 40. Jacob = 40 years, Son = 10 years.',
+  'medium', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000033'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.3 - Q1(i)] Solve the following pair of linear equations by the elimination method and the substitution method:
+x + y = 5
+2x – 3y = 4',
+  '[{"id": "A", "text": "x = 19/5, y = 6/5", "is_correct": true}, {"id": "B", "text": "x = 4, y = 1", "is_correct": false}, {"id": "C", "text": "x = 17/5, y = 8/5", "is_correct": false}, {"id": "D", "text": "x = 3, y = 2", "is_correct": false}]'::jsonb,
+  'Step 1: Multiply (1) by 2: 2x + 2y = 10.
+Step 2: Subtract (2): 5y = 6 => y = 6/5.
+Step 3: x = 5 - 6/5 = 19/5. Solution: x = 19/5, y = 6/5.',
+  'easy', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000034'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.3 - Q1(ii)] Solve the following pair of linear equations by the elimination method:
+3x + 4y = 10
+2x – 2y = 2',
+  '[{"id": "A", "text": "x = 2, y = 1", "is_correct": true}, {"id": "B", "text": "x = 1, y = 2", "is_correct": false}, {"id": "C", "text": "x = 3, y = 0", "is_correct": false}, {"id": "D", "text": "x = 2, y = 2", "is_correct": false}]'::jsonb,
+  'Step 1: Multiply (2) by 2: 4x - 4y = 4.
+Step 2: Add to (1): 7x = 14 => x = 2.
+Step 3: 2(2) - 2y = 2 => 2y = 2 => y = 1. Solution: x = 2, y = 1.',
+  'easy', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000035'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.3 - Q1(iii)] Solve the following pair of linear equations by the elimination method:
+3x – 5y – 4 = 0
+9x = 2y + 7',
+  '[{"id": "A", "text": "x = 9/13, y = -5/13", "is_correct": true}, {"id": "B", "text": "x = -9/13, y = 5/13", "is_correct": false}, {"id": "C", "text": "x = 7/13, y = -3/13", "is_correct": false}, {"id": "D", "text": "x = 1, y = -1/5", "is_correct": false}]'::jsonb,
+  'Step 1: 3x - 5y = 4 and 9x - 2y = 7.
+Step 2: Multiply (1) by 3: 9x - 15y = 12.
+Step 3: Subtract (2): -13y = 5 => y = -5/13.
+Step 4: 3x = 4 + 5(-5/13) = 27/13 => x = 9/13. Solution: x = 9/13, y = -5/13.',
+  'medium', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000036'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.3 - Q1(iv)] Solve the following pair of linear equations by the elimination method:
+(x/2) + (2y/3) = –1
+x – (y/3) = 3',
+  '[{"id": "A", "text": "x = 2, y = -3", "is_correct": true}, {"id": "B", "text": "x = -2, y = 3", "is_correct": false}, {"id": "C", "text": "x = 3, y = -2", "is_correct": false}, {"id": "D", "text": "x = 1, y = -3", "is_correct": false}]'::jsonb,
+  'Step 1: Multiply (1) by 6: 3x + 4y = -6; Multiply (2) by 3: 3x - y = 9.
+Step 2: Subtract: 5y = -15 => y = -3.
+Step 3: 3x - (-3) = 9 => 3x = 6 => x = 2. Solution: x = 2, y = -3.',
+  'medium', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000037'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.3 - Q2(i)] If we add 1 to the numerator and subtract 1 from the denominator, a fraction reduces to 1. It becomes 1/2 if we only add 1 to the denominator. What is the fraction?',
+  '[{"id": "A", "text": "3/5", "is_correct": true}, {"id": "B", "text": "2/5", "is_correct": false}, {"id": "C", "text": "4/7", "is_correct": false}, {"id": "D", "text": "5/9", "is_correct": false}]'::jsonb,
+  'Step 1: Let fraction be x/y.
+Step 2: (x + 1)/(y - 1) = 1 => x - y = -2.
+Step 3: x/(y + 1) = 1/2 => 2x - y = 1.
+Step 4: Subtracting gives x = 3, y = 5. Fraction is 3/5.',
+  'medium', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000038'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.3 - Q2(ii)] Five years ago, Nuri was thrice as old as Sonu. Ten years later, Nuri will be twice as old as Sonu. How old are Nuri and Sonu?',
+  '[{"id": "A", "text": "Nuri = 50 years, Sonu = 20 years", "is_correct": true}, {"id": "B", "text": "Nuri = 45 years, Sonu = 15 years", "is_correct": false}, {"id": "C", "text": "Nuri = 60 years, Sonu = 25 years", "is_correct": false}, {"id": "D", "text": "Nuri = 40 years, Sonu = 15 years", "is_correct": false}]'::jsonb,
+  'Step 1: x - 5 = 3(y - 5) => x - 3y = -10.
+Step 2: x + 10 = 2(y + 10) => x - 2y = 10.
+Step 3: Subtracting gives y = 20, x = 50. Nuri is 50 years old and Sonu is 20 years old.',
+  'medium', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000039'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.3 - Q2(iii)] The sum of the digits of a two-digit number is 9. Also, nine times this number is twice the number obtained by reversing the order of the digits. Find the number.',
+  '[{"id": "A", "text": "18", "is_correct": true}, {"id": "B", "text": "27", "is_correct": false}, {"id": "C", "text": "36", "is_correct": false}, {"id": "D", "text": "45", "is_correct": false}]'::jsonb,
+  'Step 1: Digits x, y. Number = 10x + y. x + y = 9 ... (1)
+Step 2: 9(10x + y) = 2(10y + x) => 88x - 11y = 0 => 8x - y = 0 ... (2)
+Step 3: Adding gives 9x = 9 => x = 1, y = 8. The number is 18.',
+  'hard', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000040'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.3 - Q2(iv)] Meena went to a bank to withdraw ₹ 2000. She asked the cashier to give her ₹ 50 and ₹ 100 notes only. Meena got 25 notes in all. Find how many notes of ₹ 50 and ₹ 100 she received.',
+  '[{"id": "A", "text": "10 notes of ₹ 50, 15 notes of ₹ 100", "is_correct": true}, {"id": "B", "text": "15 notes of ₹ 50, 10 notes of ₹ 100", "is_correct": false}, {"id": "C", "text": "12 notes of ₹ 50, 13 notes of ₹ 100", "is_correct": false}, {"id": "D", "text": "8 notes of ₹ 50, 17 notes of ₹ 100", "is_correct": false}]'::jsonb,
+  'Step 1: x + y = 25 and 50x + 100y = 2000 => x + 2y = 40.
+Step 2: Subtracting gives y = 15, x = 10.
+Meena received 10 notes of ₹ 50 and 15 notes of ₹ 100.',
+  'medium', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
+INSERT INTO public.questions (
+  id, subject, chapter_id, question_text, options, step_by_step_solution,
+  difficulty_level, status, submitted_by, reviewed_by, created_at, updated_at
+) VALUES (
+  '10000000-0000-0000-0003-000000000041'::uuid, 'math', 'math_ch_03_linear_equations',
+  '[Exercise 3.3 - Q2(v)] A lending library has a fixed charge for first 3 days and additional charge for each day thereafter. Saritha paid ₹ 27 for 7 days, Susy paid ₹ 21 for 5 days. Find fixed charge and charge for each extra day.',
+  '[{"id": "A", "text": "Fixed charge = ₹ 15, Extra charge per day = ₹ 3", "is_correct": true}, {"id": "B", "text": "Fixed charge = ₹ 12, Extra charge per day = ₹ 4", "is_correct": false}, {"id": "C", "text": "Fixed charge = ₹ 14, Extra charge per day = ₹ 3.5", "is_correct": false}, {"id": "D", "text": "Fixed charge = ₹ 10, Extra charge per day = ₹ 5", "is_correct": false}]'::jsonb,
+  'Step 1: x + 4y = 27 and x + 2y = 21.
+Step 2: Subtracting gives 2y = 6 => y = 3 (extra charge/day).
+Step 3: x = 21 - 2(3) = ₹ 15 (fixed charge).',
+  'medium', 'approved',
+  '00000000-0000-0000-0000-000000000001'::uuid, '00000000-0000-0000-0000-000000000001'::uuid,
+  NOW(), NOW()
+) ON CONFLICT (id) DO UPDATE SET
+  question_text = EXCLUDED.question_text,
+  options = EXCLUDED.options,
+  step_by_step_solution = EXCLUDED.step_by_step_solution,
+  status = EXCLUDED.status,
+  updated_at = NOW();
+
