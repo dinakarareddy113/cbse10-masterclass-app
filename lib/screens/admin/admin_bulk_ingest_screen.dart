@@ -11,6 +11,11 @@ import '../../services/ncert_math_ch1_data.dart';
 import '../../services/ncert_math_ch3_data.dart';
 import '../../services/ncert_math_ch4_data.dart';
 import '../../services/ncert_math_ch5_data.dart';
+import '../../services/ncert_science_ch1_data.dart';
+import '../../services/ncert_science_ch2_data.dart';
+import '../../services/ncert_science_ch3_data.dart';
+import '../../services/ncert_science_ch4_data.dart';
+import '../../services/ncert_science_ch5_data.dart';
 import 'admin_guard.dart';
 
 /// Admin Content Ingestion Pipeline Screen
@@ -134,7 +139,17 @@ class _AdminBulkIngestScreenState extends ConsumerState<AdminBulkIngestScreen> {
     final adminId = currentAdmin?.id ?? '00000000-0000-0000-0000-000000000001';
 
     List<Question> extracted = [];
-    if (_selectedChapterId == 'math_ch_04_quadratic_equations') {
+    if (_selectedChapterId == 'sci_ch_03_metals_non_metals') {
+      extracted = NcertScienceCh3Data.questions;
+    } else if (_selectedChapterId == 'sci_ch_02_acids_bases_salts') {
+      extracted = NcertScienceCh2Data.questions;
+    } else if (_selectedChapterId == 'sci_ch_01_chemical_reactions_equations' || _selectedChapterId == 'sci_ch_01_chemical_reactions') {
+      extracted = NcertScienceCh1Data.questions;
+    } else if (_selectedChapterId == 'sci_ch_04_carbon_compounds') {
+      extracted = NcertScienceCh4Data.questions;
+    } else if (_selectedChapterId == 'sci_ch_05_life_processes') {
+      extracted = NcertScienceCh5Data.questions;
+    } else if (_selectedChapterId == 'math_ch_04_quadratic_equations') {
       extracted = ncertMathCh4Questions;
     } else if (_selectedChapterId == 'math_ch_05_arithmetic_progressions') {
       extracted = ncertMathCh5Questions;
@@ -503,7 +518,7 @@ class _AdminBulkIngestScreenState extends ConsumerState<AdminBulkIngestScreen> {
 
               // 1. Chapter Selector
               const Text(
-                'Select Target Mathematics Chapter',
+                'Select Target Syllabus Chapter',
                 style: TextStyle(fontSize: 13, fontWeight: FontWeight.bold, color: AppTheme.textPrimary),
               ),
               const SizedBox(height: 8),
@@ -518,24 +533,55 @@ class _AdminBulkIngestScreenState extends ConsumerState<AdminBulkIngestScreen> {
                   child: DropdownButton<String>(
                     value: _selectedChapterId,
                     isExpanded: true,
-                    items: mathChapters.map((ch) {
-                      final id = ch['id'] as String;
-                      final num = ch['chapter_number'] ?? 1;
-                      final titleEn = ch['title_en'] ?? ch['title'];
-                      final titleKn = ch['title_kn'] ?? '';
-                      return DropdownMenuItem<String>(
-                        value: id,
-                        child: Text(
-                          'Ch $num: $titleEn • $titleKn',
-                          style: const TextStyle(fontSize: 13.5, fontWeight: FontWeight.w600),
-                        ),
-                      );
-                    }).toList(),
+                    items: [
+                      ...CbseCurriculum.mathChapters.map((ch) {
+                        final id = ch['id'] as String;
+                        final num = ch['chapter_number'] ?? 1;
+                        final titleEn = ch['title_en'] ?? ch['title'];
+                        return DropdownMenuItem<String>(
+                          value: id,
+                          child: Text(
+                            '📐 Math Ch $num: $titleEn',
+                            style: const TextStyle(fontSize: 13, fontWeight: FontWeight.w600),
+                            maxLines: 1,
+                            overflow: TextOverflow.ellipsis,
+                          ),
+                        );
+                      }),
+                      ...CbseCurriculum.scienceChapters.map((ch) {
+                        final id = ch['id'] as String;
+                        final num = ch['chapter_number'] ?? 1;
+                        final titleEn = ch['title_en'] ?? ch['title'];
+                        return DropdownMenuItem<String>(
+                          value: id,
+                          child: Text(
+                            '🔬 Science Ch $num: $titleEn',
+                            style: const TextStyle(fontSize: 13, fontWeight: FontWeight.w600, color: AppTheme.scienceColor),
+                            maxLines: 1,
+                            overflow: TextOverflow.ellipsis,
+                          ),
+                        );
+                      }),
+                      ...CbseCurriculum.sstChapters.map((ch) {
+                        final id = ch['id'] as String;
+                        final num = ch['chapter_number'] ?? 1;
+                        final titleEn = ch['title_en'] ?? ch['title'];
+                        return DropdownMenuItem<String>(
+                          value: id,
+                          child: Text(
+                            '🌍 Social Ch $num: $titleEn',
+                            style: const TextStyle(fontSize: 13, fontWeight: FontWeight.w600, color: AppTheme.socialScienceColor),
+                            maxLines: 1,
+                            overflow: TextOverflow.ellipsis,
+                          ),
+                        );
+                      }),
+                    ],
                     onChanged: (val) {
                       if (val != null) {
                         setState(() {
                           _selectedChapterId = val;
-                          _uploadedPdfName = null; // Keep dropzone clear by default
+                          _uploadedPdfName = null;
                           _uploadedPdfSize = null;
                           _aiExtractedQuestions = [];
                         });

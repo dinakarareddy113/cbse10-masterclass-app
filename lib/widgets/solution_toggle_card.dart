@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../core/theme/app_theme.dart';
+import '../core/utils/formula_formatter.dart';
 import '../models/question.dart';
 import 'difficulty_chip.dart';
 
@@ -68,7 +69,7 @@ class _SolutionToggleCardState extends State<SolutionToggleCard> {
 
             // Question Text
             Text(
-              q.questionText,
+              FormulaFormatter.format(q.questionText),
               style: const TextStyle(
                 fontSize: 15,
                 fontWeight: FontWeight.w600,
@@ -159,7 +160,7 @@ class _SolutionToggleCardState extends State<SolutionToggleCard> {
                           const SizedBox(width: 10),
                           Expanded(
                             child: Text(
-                              option.text,
+                              FormulaFormatter.format(option.text),
                               style: const TextStyle(
                                 fontSize: 13.5,
                                 color: AppTheme.textPrimary,
@@ -269,7 +270,7 @@ class _SolutionToggleCardState extends State<SolutionToggleCard> {
                     ),
                     const Divider(height: 16),
                     Text(
-                      q.stepByStepSolution,
+                      FormulaFormatter.format(q.stepByStepSolution),
                       style: const TextStyle(
                         fontSize: 13.5,
                         height: 1.5,

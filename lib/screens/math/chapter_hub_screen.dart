@@ -20,7 +20,11 @@ class ChapterHubScreen extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     return Scaffold(
       appBar: AppBar(
-        title: Text(chapter.titleEn),
+        title: Text(
+          chapter.titleEn,
+          maxLines: 1,
+          overflow: TextOverflow.ellipsis,
+        ),
         actions: const [
           Padding(
             padding: EdgeInsets.only(right: 14.0),

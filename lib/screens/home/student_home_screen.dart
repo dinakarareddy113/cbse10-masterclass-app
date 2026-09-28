@@ -8,8 +8,8 @@ import '../../widgets/offline_status_badge.dart';
 import '../admin/admin_review_screen.dart';
 import '../math/math_chapter_list_screen.dart';
 import '../quiz/quiz_screen.dart';
-import '../science/science_module_screen.dart';
-import '../social_science/social_science_module_screen.dart';
+import '../science/science_chapter_list_screen.dart';
+import '../social_science/social_science_chapter_list_screen.dart';
 
 class StudentHomeScreen extends ConsumerWidget {
   const StudentHomeScreen({super.key});
@@ -84,29 +84,29 @@ class StudentHomeScreen extends ConsumerWidget {
             ),
             _buildSubjectCard(
               context: context,
-              title: 'Science',
-              subtitle: 'Physics Ray Diagrams • Chemistry Balancer • Biology Flowcharts',
+              title: 'Science • ವಿಜ್ಞಾನ',
+              subtitle: '13 Chapters • Metals & Non-metals • Reactions • Ray Diagrams',
               icon: Icons.science_outlined,
               accentColor: AppTheme.scienceColor,
-              badgeText: 'Physics • Chemistry • Biology',
+              badgeText: '13 Chapters • NCERT',
               onTap: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (_) => const ScienceModuleScreen()),
+                  MaterialPageRoute(builder: (_) => const ScienceChapterListScreen()),
                 );
               },
             ),
             _buildSubjectCard(
               context: context,
-              title: 'Social Science',
-              subtitle: 'Nationalism Timelines • Map Pointing Guide • Civics Amendments',
+              title: 'Social Science • ಸಮಾಜ ವಿಜ್ಞಾನ',
+              subtitle: '7 Chapters • History Timelines • Port Maps • Civics Amendments',
               icon: Icons.public_outlined,
               accentColor: AppTheme.socialScienceColor,
-              badgeText: 'History • Geography • Civics',
+              badgeText: '7 Chapters • NCERT',
               onTap: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (_) => const SocialScienceModuleScreen()),
+                  MaterialPageRoute(builder: (_) => const SocialScienceChapterListScreen()),
                 );
               },
             ),

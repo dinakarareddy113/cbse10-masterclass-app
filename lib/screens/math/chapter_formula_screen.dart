@@ -18,10 +18,17 @@ class ChapterFormulaScreen extends StatelessWidget {
         title: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text(chapter.titleEn, style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
             Text(
-              '${chapter.titleKn} • Formula Cheat-Sheet',
+              chapter.titleEn,
+              style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+              maxLines: 1,
+              overflow: TextOverflow.ellipsis,
+            ),
+            Text(
+              '${chapter.titleKn.isNotEmpty ? chapter.titleKn + ' • ' : ''}Key Formulas & Concepts',
               style: const TextStyle(fontSize: 11, color: AppTheme.textSecondary, fontWeight: FontWeight.normal),
+              maxLines: 1,
+              overflow: TextOverflow.ellipsis,
             ),
           ],
         ),

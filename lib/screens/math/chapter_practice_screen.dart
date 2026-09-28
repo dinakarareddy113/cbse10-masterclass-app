@@ -36,10 +36,17 @@ class _ChapterPracticeScreenState extends ConsumerState<ChapterPracticeScreen> {
         title: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text(widget.chapter.titleEn, style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
             Text(
-              '${widget.chapter.titleKn} • Practice Q&A',
+              widget.chapter.titleEn,
+              style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+              maxLines: 1,
+              overflow: TextOverflow.ellipsis,
+            ),
+            Text(
+              '${widget.chapter.titleKn.isNotEmpty ? widget.chapter.titleKn + ' • ' : ''}Practice Q&A',
               style: const TextStyle(fontSize: 11, color: AppTheme.textSecondary, fontWeight: FontWeight.normal),
+              maxLines: 1,
+              overflow: TextOverflow.ellipsis,
             ),
           ],
         ),
@@ -52,24 +59,32 @@ class _ChapterPracticeScreenState extends ConsumerState<ChapterPracticeScreen> {
       ),
       body: questionsAsync.when(
         data: (allQuestions) {
-          // Filter questions belonging to this chapter
+          // Filter questions belonging to this chapter across Math, Science, and Social Science
           final chapterQuestions = allQuestions.where((q) {
-            return q.subject == Subject.math &&
-                (q.chapterId == widget.chapter.id ||
-                    q.chapterId == widget.chapter.id.replaceFirst('math_', '') ||
-                    widget.chapter.id == 'math_${q.chapterId}');
+            final matchSubject = q.subject == widget.chapter.subject;
+            final matchId = q.chapterId == widget.chapter.id ||
+                q.chapterId == widget.chapter.id.replaceFirst('math_', '') ||
+                widget.chapter.id == 'math_${q.chapterId}' ||
+                q.chapterId == widget.chapter.id.replaceFirst('sci_', '') ||
+                widget.chapter.id == 'sci_${q.chapterId}' ||
+                q.chapterId == widget.chapter.id.replaceFirst('sst_', '') ||
+                widget.chapter.id == 'sst_${q.chapterId}';
+            return matchSubject && matchId;
           }).toList();
 
           if (chapterQuestions.isEmpty) {
             return _buildEmptyState(context);
           }
 
-          // Detect exercises present in question text (e.g., Exercise 1.1, Exercise 1.2)
+          // Detect exercises or in-text question sections (e.g., Exercise 1.1, QUESTIONS (Page 40), etc.)
           final Set<String> detectedExercises = {'All'};
           for (final q in chapterQuestions) {
-            final match = RegExp(r'\[(Exercise\s+\d+\.\d+)').firstMatch(q.questionText);
+            final match = RegExp(r'\[([^\]]+)\]').firstMatch(q.questionText);
             if (match != null) {
-              detectedExercises.add(match.group(1)!);
+              final section = match.group(1)!;
+              // Clean up if too long
+              final label = section.length > 25 ? section.substring(0, 25) + '...' : section;
+              detectedExercises.add(label);
             }
           }
           final exerciseFilters = detectedExercises.toList();
@@ -77,7 +92,7 @@ class _ChapterPracticeScreenState extends ConsumerState<ChapterPracticeScreen> {
           // Filter by active exercise tab
           final displayedQuestions = _activeFilter == 'All'
               ? chapterQuestions
-              : chapterQuestions.where((q) => q.questionText.contains(_activeFilter)).toList();
+              : chapterQuestions.where((q) => q.questionText.contains(_activeFilter.replaceAll('...', ''))).toList();
 
           final solvedCount = chapterQuestions.where((q) => solvedIds.contains(q.id)).length;
           final progressPercent = chapterQuestions.isNotEmpty ? (solvedCount / chapterQuestions.length) : 0.0;

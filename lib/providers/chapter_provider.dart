@@ -7,9 +7,22 @@ import 'questions_provider.dart';
 /// Provider for loading the 14 Mathematics syllabus chapters with dynamic question counts & progress
 final mathChaptersProvider = FutureProvider.autoDispose<List<Chapter>>((ref) async {
   final repository = ref.watch(questionRepositoryProvider);
-  // Invalidate or reload when approved questions change
   ref.watch(approvedQuestionsProvider);
   return repository.fetchChapters(subject: Subject.math);
+});
+
+/// Provider for loading the 13 Science syllabus chapters with dynamic question counts & progress
+final scienceChaptersProvider = FutureProvider.autoDispose<List<Chapter>>((ref) async {
+  final repository = ref.watch(questionRepositoryProvider);
+  ref.watch(approvedQuestionsProvider);
+  return repository.fetchChapters(subject: Subject.science);
+});
+
+/// Provider for loading the 7 Social Science syllabus chapters with dynamic question counts & progress
+final sstChaptersProvider = FutureProvider.autoDispose<List<Chapter>>((ref) async {
+  final repository = ref.watch(questionRepositoryProvider);
+  ref.watch(approvedQuestionsProvider);
+  return repository.fetchChapters(subject: Subject.socialScience);
 });
 
 /// Currently active chapter for ChapterHub / Practice view
@@ -29,6 +42,8 @@ class ChapterProgressNotifier extends StateNotifier<Map<String, Set<String>>> {
   Future<void> markSolved(String questionId, String chapterId) async {
     await _cacheService.markQuestionSolved(questionId, chapterId);
     _ref.invalidate(mathChaptersProvider);
+    _ref.invalidate(scienceChaptersProvider);
+    _ref.invalidate(sstChaptersProvider);
     state = {
       ...state,
       chapterId: _cacheService.getSolvedQuestionIdsForChapter(chapterId),

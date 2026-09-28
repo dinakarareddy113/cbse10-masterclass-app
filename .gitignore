@@ -17,8 +17,7 @@ android/.idea/
 .flutter-plugins-dependencies
 
 # IDE
-.idea/
-.vscode/
-*.iml
-*.log
-
+# Build artifacts and APKs
+build_artifacts/
+*.apk
+mobile_test/*.apk

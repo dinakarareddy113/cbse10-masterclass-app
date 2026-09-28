@@ -9,6 +9,10 @@ import 'ncert_math_ch3_data.dart';
 import 'ncert_math_ch4_data.dart';
 import 'ncert_math_ch5_data.dart';
 import 'ncert_science_ch1_data.dart';
+import 'ncert_science_ch2_data.dart';
+import 'ncert_science_ch3_data.dart';
+import 'ncert_science_ch4_data.dart';
+import 'ncert_science_ch5_data.dart';
 import 'supabase_service.dart';
 
 /// Question Repository orchestrating remote Supabase queries and Hive local caching
@@ -30,6 +34,10 @@ class QuestionRepository {
     _inMemoryQuestions.addAll(ncertMathCh4Questions);
     _inMemoryQuestions.addAll(ncertMathCh5Questions);
     _inMemoryQuestions.addAll(NcertScienceCh1Data.questions);
+    _inMemoryQuestions.addAll(NcertScienceCh2Data.questions);
+    _inMemoryQuestions.addAll(NcertScienceCh3Data.questions);
+    _inMemoryQuestions.addAll(NcertScienceCh4Data.questions);
+    _inMemoryQuestions.addAll(NcertScienceCh5Data.questions);
     _loadNcertChapter1PendingQuestions();
   }
 
@@ -764,7 +772,11 @@ class QuestionRepository {
         return cached.where((q) {
           final matchChapter = q.chapterId == chapterId ||
               q.chapterId == chapterId.replaceFirst('math_', '') ||
-              chapterId == 'math_${q.chapterId}';
+              chapterId == 'math_${q.chapterId}' ||
+              q.chapterId == chapterId.replaceFirst('sci_', '') ||
+              chapterId == 'sci_${q.chapterId}' ||
+              q.chapterId == chapterId.replaceFirst('sst_', '') ||
+              chapterId == 'sst_${q.chapterId}';
           return matchChapter && q.status == QuestionStatus.approved;
         }).toList();
       }
@@ -778,7 +790,11 @@ class QuestionRepository {
       final matchChapter = chapterId == null ||
           q.chapterId == chapterId ||
           q.chapterId == chapterId.replaceFirst('math_', '') ||
-          chapterId == 'math_${q.chapterId}';
+          chapterId == 'math_${q.chapterId}' ||
+          q.chapterId == chapterId.replaceFirst('sci_', '') ||
+          chapterId == 'sci_${q.chapterId}' ||
+          q.chapterId == chapterId.replaceFirst('sst_', '') ||
+          chapterId == 'sst_${q.chapterId}';
       return matchStatus && matchSubject && matchChapter;
     }).toList();
   }
@@ -999,6 +1015,30 @@ class QuestionRepository {
             formulas: List<String>.from((m['formulas'] as List?) ?? []),
           );
         }).toList();
+      } else if (subject == Subject.science) {
+        chapters = CbseCurriculum.scienceChapters.map((m) {
+          return Chapter(
+            id: m['id'] as String,
+            chapterNumber: (m['chapter_number'] as num?)?.toInt() ?? 1,
+            subject: Subject.science,
+            titleEn: (m['title_en'] ?? m['title']) as String,
+            titleKn: (m['title_kn'] ?? '') as String,
+            summary: (m['summary'] ?? '') as String,
+            formulas: List<String>.from((m['formulas'] as List?) ?? []),
+          );
+        }).toList();
+      } else if (subject == Subject.socialScience) {
+        chapters = CbseCurriculum.sstChapters.map((m) {
+          return Chapter(
+            id: m['id'] as String,
+            chapterNumber: (m['chapter_number'] as num?)?.toInt() ?? 1,
+            subject: Subject.socialScience,
+            titleEn: (m['title_en'] ?? m['title']) as String,
+            titleKn: (m['title_kn'] ?? '') as String,
+            summary: (m['summary'] ?? '') as String,
+            formulas: List<String>.from((m['formulas'] as List?) ?? []),
+          );
+        }).toList();
       }
     }
 
@@ -1009,7 +1049,11 @@ class QuestionRepository {
       final total = approvedQuestions.where((q) {
         return q.chapterId == ch.id ||
             q.chapterId == ch.id.replaceFirst('math_', '') ||
-            ch.id == 'math_${q.chapterId}';
+            ch.id == 'math_${q.chapterId}' ||
+            q.chapterId == ch.id.replaceFirst('sci_', '') ||
+            ch.id == 'sci_${q.chapterId}' ||
+            q.chapterId == ch.id.replaceFirst('sst_', '') ||
+            ch.id == 'sst_${q.chapterId}';
       }).length;
 
       final solvedIds = _cacheService.getSolvedQuestionIdsForChapter(ch.id);
